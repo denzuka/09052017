@@ -8,8 +8,6 @@ http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
 #EXTINF:0 tvg-name="GLOBAL TV" tvg-logo="https://2.bp.blogspot.com/-SnWJa7RZTYg/WPM1txEBTjI/AAAAAAAAArg/1C3IDICoH7on-HoLV_wbsHv-QbD338D8QCLcB/s1600/globaltv.jpg",GLOBAL TV
 
 http://iptv-indonesia.herokuapp.com/live/globaltv.m3u8
-#EXTINF:0,SCTV
-https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:0 tvg-name="SCTV" tvg-logo="https://2.bp.blogspot.com/-YCrzqOmAa2M/WPZKWjMz2XI/AAAAAAAAAvc/ffQq8hOeEUcJ9bqMQ4XDvHUinOrwviD9ACLcB/s1600/sctv.png",SCTV
 
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
@@ -111,7 +109,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w229423507_b
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
 
 
-#EXTINF:-1 aspect-ratio=16:9 tvg-name="DISCOVERY CHANNEL EN",DISCOVERY CHANNEL EN
+#EXTINF:-1 aspect-ratio=16:9 tvg-name="DISCOVERY CHANNEL EN",DISCOVERY CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/dsc:en.m3u8
 #EXTINF:0 tvg-name="CCTV 14",ANIMAL PLANET
