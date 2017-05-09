@@ -36,11 +36,11 @@ https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
 http://iptv-indonesia.herokuapp.com/live/mncsports.m3u8
 #EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_News" tvg-logo="https://2.bp.blogspot.com/-6Hz7vvrzwTg/WPM1vMt9LcI/AAAAAAAAAr0/YcW2oWrDVzMzJIJWZuy2R2zqZKzQGKgJgCLcB/s1600/mncnews.jpg",MNC NEWS
 http://cdn.metube.id/videom3u8/19rX5BcHnQMa7JFobxs5/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_Shop" tvg-logo="https://2.bp.blogspot.com/-dse5iMCRuwE/WPMcOr-JuYI/AAAAAAAAAqU/oYMQeKbeDsAQauLIAPZY_8DbBzOp8zv_QCLcB/s1600/mncshop.jpg",MNC SHOP 79
+#EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_Shop" tvg-logo="https://2.bp.blogspot.com/-dse5iMCRuwE/WPMcOr-JuYI/AAAAAAAAAqU/oYMQeKbeDsAQauLIAPZY_8DbBzOp8zv_QCLcB/s1600/mncshop.jpg",MNC SHOP
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
 #EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_World_News" tvg-logo="https://1.bp.blogspot.com/-Hz4_6KB5HCc/WPMf3OIvdBI/AAAAAAAAAq4/G5Ia_dwM7UE8O9zNUDLBnaAd58Ca_KFQwCLcB/s1600/mncnewsworld.jpg",MNC WORLD NEWS
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000073/index.m3u8
-#EXTINF:0 tvg-name="MNC ENTERTAINMENT" tvg-logo="https://3.bp.blogspot.com/-ueAKsmP9weI/WPPlQv0ZxrI/AAAAAAAAAtM/NAPlaB93PT8B2nZ7ksxSkhziFIjfnyt5QCLcB/s1600/mnc-entertainment.jpg",MNC ENTERTAINMENT
+#EXTINF:0 tvg-name="MNC ENTERTAINMENT" tvg-logo="https://3.bp.blogspot.com/-ueAKsmP9weI/WPPlQv0ZxrI/AAAAAAAAAtM/NAPlaB93PT8B2nZ7ksxSkhziFIjfnyt5QCLcB/s1600/mnc-entertainment.jpg",MNC INFOTAINMENT
 
 http://iptv-indonesia.herokuapp.com/live/mncentertainment.m3u8
 
@@ -109,24 +109,24 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w229423507_b
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
 
 
-#EXTINF:-1 aspect-ratio=16:9 tvg-name="DISCOVERY CHANNEL EN",DISCOVERY CHANNEL
+#EXTINF:-1 aspect-ratio=16:9 tvg-name="DISCOVERY CHANNEL EN",DISCOVERY
 
 http://iptv-indonesia.herokuapp.com/live/dsc:en.m3u8
 #EXTINF:0 tvg-name="CCTV 14",ANIMAL PLANET
 http://iptv-indonesia.herokuapp.com/live/apl:en.m3u8
-#EXTINF:0,CHANNEL NEWS ASIA
+#EXTINF:0,NEWS ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,ALJAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="KBS_World_Indonesia" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/kbs-world.png",KBS WORLD INDONESIA
+#EXTINF:0 aspect-ratio=16:9 tvg-name="KBS_World_Indonesia" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/kbs-world.png",KBS WORLD
 rtmp://118.97.183.196/jhos/kbs
 #EXTINF:0 tvg-name="K PLUS",K PLUS
 rtmp://118.97.183.222/discover/kplus
 #EXTINF:0,FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
-#EXTINF:0 tvg-name="AUSTRALIA PLUS",AUSTRALIA PLUS
+#EXTINF:0 tvg-name="AUSTRALIA PLUS",AUSTRALIA +
 rtmp://118.97.183.222/discover/aplus
 #EXTINF:0 tvg-name="CCTV 15",BBC
 http://iptv-indonesia.herokuapp.com/live/bbc:usa.m3u8
