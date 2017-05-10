@@ -11,26 +11,26 @@ http://iptv-indonesia.herokuapp.com/live/globaltv.m3u8
 #EXTINF:0 tvg-name="SCTV" tvg-logo="https://2.bp.blogspot.com/-YCrzqOmAa2M/WPZKWjMz2XI/AAAAAAAAAvc/ffQq8hOeEUcJ9bqMQ4XDvHUinOrwviD9ACLcB/s1600/sctv.png",SCTV
 
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
-#EXTINF:0,INDOSIAR
+#EXTINF:0 tvg-name="INDOSIAR" tvg-logo="https://1.bp.blogspot.com/-eUhRl28_ywY/WPZKT7p5J5I/AAAAAAAAAus/Z6EH5BGSdJgsTouWnUSE04Ty2nUFZSyCgCLcB/s1600/indosiar.png",INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:0,O CHANNEL
+#EXTINF:0 tvg-name="O CHANNEL" tvg-logo="https://1.bp.blogspot.com/-r0EfbvNA8Tw/WPZKV1oiEMI/AAAAAAAAAvQ/k7otmjlY8z0LAhH6KP6Cal0gv-vEi90lwCLcB/s1600/ochannel.png",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
-#EXTINF:0,TRANS7
+#EXTINF:0 aspect-ratio=16:9 tvg-name="TRANS 7 HD" tvg-logo="https://3.bp.blogspot.com/-geqBELNkJGg/WPZKWhEqANI/AAAAAAAAAvY/qdVVtcyi-BIYlS7-0vpx_dNk7e7CWpIZwCLcB/s1600/trans7.png",TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
-#EXTINF:0,TRANSTV
+#EXTINF:0 tvg-name="TRANS TV" tvg-logo="https://4.bp.blogspot.com/-V9aDAtefX9I/WPZKW6PzKxI/AAAAAAAAAvg/wVxBiihD7tEozC2jpUHW-csrmqu4i3Y7ACLcB/s1600/transtv.png",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:0,TV ONE
+#EXTINF:0 tvg-name="TVONE" tvg-logo="https://3.bp.blogspot.com/-4_LDe-fuHdg/WPZKXXPOT9I/AAAAAAAAAvo/pA18uhdATBsqeom5WFlZ_nhjBvvbdGr2gCLcB/s1600/tvone.png",TVONE
 https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
-#EXTINF:0,METRO TV
+#EXTINF:0 tvg-name="METRO TV" tvg-logo="https://3.bp.blogspot.com/-N_JTrFpxhs8/WPZKVDe3ZFI/AAAAAAAAAvE/qmXVkE91aBkuXwr0B8wPPWje-nSS-VD2wCLcB/s1600/metrotv.png",METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
-#EXTINF:0,RTV
+#EXTINF:0 tvg-name="RTV ALT 2" tvg-logo="https://3.bp.blogspot.com/-xARAEdqe3hk/WPMf3I03wUI/AAAAAAAAAq0/ZaTBGzyyFQkIAQ83RCd12mqqBoau2IGDQCLcB/s1600/rtv.jpg",RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
-#EXTINF:0,KOMPAS TV
+#EXTINF:0 tvg-name="KOMPAS TV" tvg-logo="https://1.bp.blogspot.com/-LVrF-udzpJw/WPZKU6ktVyI/AAAAAAAAAvA/fY0EcBQIa8Ih0izZFjdEe0vjn67rD1qBQCLcB/s1600/kompasTV.png",KOMPAS TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:0,ANTV
+#EXTINF:0 tvg-name="ANTV" tvg-logo="https://3.bp.blogspot.com/-bDyPI2dnBX0/WPZKTFw2uBI/AAAAAAAAAuk/KBPIWrXvk_o_rMfkkkeOa9vjdhzo7kE_gCLcB/s1600/antv.png",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
-#EXTINF:0,DW TV
-https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
+
 #EXTINF:0 tvg-name="MNC SPORTS" tvg-logo="https://4.bp.blogspot.com/-DU_kW-oE_MM/WPZICW2F8hI/AAAAAAAAAuc/EgHo1nu5YlgEV-RgDanznjTDFppF90iLQCLcB/s1600/mnc%2Bsports.jpg",MNC SPORTS
 
 http://iptv-indonesia.herokuapp.com/live/mncsports.m3u8
@@ -107,6 +107,8 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w1268667738_
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w229423507_b1000000_sleng.m3u8
 #EXTINF:0,ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
+#EXTINF:0,DW TV
+https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
 #EXT-X-MEDIA-SEQUENCE:${1}
 #EXT-X-DISCONTINUITY-SEQUENCE:${1}
 #EXT-X-DISCONTINUITY
