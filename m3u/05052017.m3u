@@ -1,30 +1,29 @@
 #EXTM3U
-#EXTINF:0 aspect-ratio=4:3 tvg-name="TVRI_Nasional" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/tvri.png",TVRI
+#EXTINF:-1,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="MNCTV" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/mnctv-logo.png",MNCTV
+#EXTINF:-1,MNCTV
 http://cdn.live.metube.id/tv/channel2000022/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="RCTI" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/rcti.png",RCTI
+#EXTINF:-1,RCTI
 http://cdn.live.metube.id/rcti.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="iNews" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/inewstv.png",INEWS
+#EXTINF:-1,INEWS
 http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
-#EXTINF:0 tvg-name="GLOBAL TV" tvg-logo="https://2.bp.blogspot.com/-SnWJa7RZTYg/WPM1txEBTjI/AAAAAAAAArg/1C3IDICoH7on-HoLV_wbsHv-QbD338D8QCLcB/s1600/globaltv.jpg",GLOBAL TV
+#EXTINF:-1,GLOBAL TV
 
 http://iptv-indonesia.herokuapp.com/live/globaltv.m3u8
-#EXTINF:0 tvg-name="SCTV" tvg-logo="https://2.bp.blogspot.com/-YCrzqOmAa2M/WPZKWjMz2XI/AAAAAAAAAvc/ffQq8hOeEUcJ9bqMQ4XDvHUinOrwviD9ACLcB/s1600/sctv.png",SCTV
+#EXTINF:-1,SCTV
 
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
-#EXTINF:0 tvg-name="INDOSIAR" tvg-logo="https://1.bp.blogspot.com/-eUhRl28_ywY/WPZKT7p5J5I/AAAAAAAAAus/Z6EH5BGSdJgsTouWnUSE04Ty2nUFZSyCgCLcB/s1600/indosiar.png",INDOSIAR
+#EXTINF:-1,INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
-#EXTINF:0,O CHANNEL
-#EXTINF:0 tvg-name="O CHANNEL" tvg-logo="https://1.bp.blogspot.com/-r0EfbvNA8Tw/WPZKV1oiEMI/AAAAAAAAAvQ/k7otmjlY8z0LAhH6KP6Cal0gv-vEi90lwCLcB/s1600/ochannel.png",O CHANNEL
+#EXTINF:-1,O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="TRANS 7 HD" tvg-logo="https://3.bp.blogspot.com/-geqBELNkJGg/WPZKWhEqANI/AAAAAAAAAvY/qdVVtcyi-BIYlS7-0vpx_dNk7e7CWpIZwCLcB/s1600/trans7.png",TRANS 7
+#EXTINF:-1,TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
-#EXTINF:0 tvg-name="TRANS TV" tvg-logo="https://4.bp.blogspot.com/-V9aDAtefX9I/WPZKW6PzKxI/AAAAAAAAAvg/wVxBiihD7tEozC2jpUHW-csrmqu4i3Y7ACLcB/s1600/transtv.png",TRANS TV
+#EXTINF:-1,TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 tvg-name="TVONE" tvg-logo="https://3.bp.blogspot.com/-4_LDe-fuHdg/WPZKXXPOT9I/AAAAAAAAAvo/pA18uhdATBsqeom5WFlZ_nhjBvvbdGr2gCLcB/s1600/tvone.png",TVONE
+#EXTINF:-1,TVONE
 https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
-#EXTINF:0 tvg-name="METRO TV" tvg-logo="https://3.bp.blogspot.com/-N_JTrFpxhs8/WPZKVDe3ZFI/AAAAAAAAAvE/qmXVkE91aBkuXwr0B8wPPWje-nSS-VD2wCLcB/s1600/metrotv.png",METRO TV
+#EXTINF:-1,METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
 #EXTINF:0 tvg-name="RTV ALT 2" tvg-logo="https://3.bp.blogspot.com/-xARAEdqe3hk/WPMf3I03wUI/AAAAAAAAAq0/ZaTBGzyyFQkIAQ83RCd12mqqBoau2IGDQCLcB/s1600/rtv.jpg",RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
@@ -33,30 +32,30 @@ https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:0 tvg-name="ANTV" tvg-logo="https://3.bp.blogspot.com/-bDyPI2dnBX0/WPZKTFw2uBI/AAAAAAAAAuk/KBPIWrXvk_o_rMfkkkeOa9vjdhzo7kE_gCLcB/s1600/antv.png",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-name="HEALTH BEAUTY" tvg-logo="https://3.bp.blogspot.com/-uzitHYw7FHU/WPZIA5JH2LI/AAAAAAAAAuI/0pp9hceg7HAzheyXRFZfCZP_yVykn2F5QCLcB/s1600/health%2Bbeauty.jpg",HEALTH BEAUTY
+#EXTINF:-1,HEALTH BEAUTY
 
 http://iptv-indonesia.herokuapp.com/live/healthbeauty.m3u8
 
-#EXTINF:0 tvg-name="HI INDO" tvg-logo="https://4.bp.blogspot.com/-nuGjnlumGk0/WPPjVVkYWQI/AAAAAAAAAsU/PK-e1B6aLC4vZXxokZFCtxA6MgogniR-ACLcB/s1600/hi.jpg",HI INDO
+#EXTINF:-1,I INDO
 
 rtmp://118.97.183.222/discover/hiindo
 
-#EXTINF:0 tvg-name="MQTV" tvg-logo="https://4.bp.blogspot.com/-sIaNgdrObEw/WPPjWfYnZ0I/AAAAAAAAAsk/E_mLy0stQEArGvZv8t8vhglqG1b3DukzwCLcB/s1600/mqtv.jpg",MQTV
+#EXTINF:-1,MQTV
 
 rtmp://118.97.183.222/discover/mqtv
 
-#EXTINF:0 tvg-name="Z BIOSKOP" tvg-logo="https://1.bp.blogspot.com/-rCsK6UsVYZI/WPPjYLUFK-I/AAAAAAAAAs8/nwomn_DYffACDllTlspKb0pWthqb9kkEQCLcB/s1600/zbioskop.jpg",Z BIOSKOP
+#EXTINF:-1,Z BIOSKOP
 
 rtmp://118.97.183.222/discover/zbioskop
 
-#EXTINF:0 aspect-ratio=4:3 tvg-name="COMEDY CHANNEL" tvg-logo="https://1.bp.blogspot.com/-ODR0mMqZ8Ng/WP5c2PFMEDI/AAAAAAAAAwU/8wdI8WLWLOk1vSCayXQnmaicMjTdi4TbgCLcB/s1600/comedy.png",COMEDY CHANNEL
+#EXTINF:-1,COMEDY CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/comedychannel.m3u8
 
-#EXTINF:0 tvg-name="DRAMA CHANNEL" tvg-logo="https://2.bp.blogspot.com/-QvjzqXNWJOA/WPPjUjQtR0I/AAAAAAAAAsM/0qB4_56kdm4O9dcQBqustpWL_nGHlynwgCLcB/s1600/drama.jpg",DRAMA CHANNEL
+#EXTINF:-1,DRAMA CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/dramachannel.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="FOOD TRAVEL" tvg-logo="https://1.bp.blogspot.com/-puu5shy9l5Q/WP5kOeA_OPI/AAAAAAAAAw4/FGe-AQU-52QpFUTRNqH01RigAe3oqGCGwCLcB/s1600/foodtravel.png",FOOD TRAVEL
+#EXTINF:-1,FOOD TRAVEL
 
 http://iptv-indonesia.herokuapp.com/live/foodtravel.m3u8
 
@@ -66,11 +65,11 @@ http://iptv-indonesia.herokuapp.com/live/gameschannel.m3u8
 
 
 
-#EXTINF:0 aspect-ratio=4:3 tvg-name="IDX" tvg-logo="https://2.bp.blogspot.com/-35gNbTXeJvU/WPM1uAY7x3I/AAAAAAAAArk/HXt8I5J2Gf8W8YzjIUg5fDq8lDSXn-9HwCLcB/s1600/idx.jpg",IDX
+#EXTINF:-1,IDX
 http://live.metube.id/tv/channel2000072/index1024.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="Jakarta_Globe_News" tvg-logo="https://2.bp.blogspot.com/-35gNbTXeJvU/WPM1uAY7x3I/AAAAAAAAArk/HXt8I5J2Gf8W8YzjIUg5fDq8lDSXn-9HwCLcB/s1600/idx.jpg",GLOBE NEWS
+#EXTINF:-1,GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="Jek_TV" tvg-logo="https://2.bp.blogspot.com/-xLXo-o8Rl7E/WPMcN33Cd7I/AAAAAAAAAqM/m5DIPH18WG46triKrN8T8CiLZf3nTgbHACLcB/s1600/jektv.jpg",JEK TV
+#EXTINF:-1,JEK TV
 http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
 
 #EXTINF:-1,HBO
@@ -90,7 +89,7 @@ http://85.7.107.8:8011/play/a013
 #EXTINF:-1,AXN HD
 http://85.7.107.8:8011/play/a00f
 
-#EXTINF:0 tvg-name="KIDS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-eIv0RXiVwHg/WPZIBNRk7DI/AAAAAAAAAuM/Q_lXLOxjJHIt-lnHjW51CK1B1uOSc2zwACLcB/s1600/kids%2Bchannel.jpg",KIDS CHANNEL
+#EXTINF:-1,KIDS CHANNEL
 http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
 #EXTINF:-1,DISNEY CHANNEL ASIA
 http://183.88.212.205:8010/play/a02t
@@ -116,7 +115,7 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;re
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="KBS_World_Indonesia" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/kbs-world.png",KBS WORLD
+#EXTINF:-1,KBS WORLD
 rtmp://118.97.183.196/jhos/kbs
 #EXTINF:0 tvg-name="K PLUS",K PLUS
 rtmp://118.97.183.222/discover/kplus
@@ -187,17 +186,14 @@ http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
 #EXTINF:0,SUNNA TV HD
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="Tahfizh_TV" tvg-logo="http://indostreamix.com/images/tahfidztv.png",TAHFIZH TV
+#EXTINF:-1,TAHFIZH TV
 rtmp://119.235.249.58/tahfidztv/live
-#EXTINF:0 aspect-ratio=4:3 tvg-name="Wesal_TV" tvg-logo="https://4.bp.blogspot.com/-j6Uskhqpx3Y/WPMcQfonJfI/AAAAAAAAAqo/8TGJUKGkmnA3w8ung9dWR72QUMJbCH_jQCLcB/s1600/wesal.jpg",WESAL TV
-rtmp://119.235.249.60:1935/wesaltv/live
-
 
 #EXTINF:0,4 MUSIC
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="Music_Channel" tvg-logo="https://2.bp.blogspot.com/-2ZPvnrOXshs/WPMcOY1a20I/AAAAAAAAAqQ/8uzH9sulGior_Dsf6Lq8EOkbFKeVW_yCQCLcB/s1600/music.jpg",MUSIC CHANNEL
+#EXTINF:-1,MUSIC CHANNEL
 http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="T_MUSIC" tvg-logo="https://lh3.googleusercontent.com/-BeEXZaH8yIc/VhiA0nATNbI/AAAAAAAAHEc/ZV-O59TDVFk/s630-Ic42/t-music.png",T MUSIC
+#EXTINF:-1,T MUSIC
 rtmp://118.97.183.196/jhos/allegro
 
 
