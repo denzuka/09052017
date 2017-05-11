@@ -82,13 +82,11 @@ http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
 http://183.88.212.205:8010/play/a00n
 #EXTINF:-1,NATIONAL GEOGRAFIC
-http://185.53.163.85:8888/play/a02z
+http://85.7.107.8:8011/play/a00e
 #EXTINF:-1,ANIMAL PLANET
 http://185.53.163.85:8888/play/a01f
 #EXTINF:-1,DISCOVERY CHANNEL
 http://85.7.107.8:8011/play/a013
-#EXTINF:-1,CARTOON NETWORK
-http://85.7.107.8:8011/play/a030
 #EXTINF:-1,AXN HD
 http://85.7.107.8:8011/play/a00f
 
@@ -96,6 +94,8 @@ http://85.7.107.8:8011/play/a00f
 http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
 #EXTINF:-1,DISNEY CHANNEL ASIA
 http://183.88.212.205:8010/play/a02t
+#EXTINF:-1,CARTOON NETWORK
+http://85.7.107.8:8011/play/a030
 #EXTINF:-1,NICKELODEON
 http://183.88.212.205:8010/play/a01f
 #EXTINF:0,RAI YOYO KIDS
@@ -140,8 +140,12 @@ rtmp://118.97.183.222/discover/fashionone
 
 rtmp://118.97.183.222/discover/fashiontv
 
-#EXTINF:-1,FOX SPORTS
+#EXTINF:-1,FOX SPORTS 1
 http://183.88.212.205:8010/play/a02m
+#EXTINF:-1,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:-1,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
 #EXTINF:0,EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0,EUROSPORT 2
