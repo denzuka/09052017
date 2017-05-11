@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 aspect-ratio=4:3 tvg-name="TVRI_Nasional" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/tvri.png",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 #EXTINF:0 aspect-ratio=4:3 tvg-name="MNCTV" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/mnctv-logo.png",MNCTV
 http://cdn.live.metube.id/tv/channel2000022/index.m3u8
 #EXTINF:0 aspect-ratio=4:3 tvg-name="RCTI" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/rcti.png",RCTI
@@ -30,26 +32,6 @@ https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:0 tvg-name="ANTV" tvg-logo="https://3.bp.blogspot.com/-bDyPI2dnBX0/WPZKTFw2uBI/AAAAAAAAAuk/KBPIWrXvk_o_rMfkkkeOa9vjdhzo7kE_gCLcB/s1600/antv.png",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
-
-#EXTINF:0 tvg-name="MNC SPORTS" tvg-logo="https://4.bp.blogspot.com/-DU_kW-oE_MM/WPZICW2F8hI/AAAAAAAAAuc/EgHo1nu5YlgEV-RgDanznjTDFppF90iLQCLcB/s1600/mnc%2Bsports.jpg",MNC SPORTS
-
-http://iptv-indonesia.herokuapp.com/live/mncsports.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_News" tvg-logo="https://2.bp.blogspot.com/-6Hz7vvrzwTg/WPM1vMt9LcI/AAAAAAAAAr0/YcW2oWrDVzMzJIJWZuy2R2zqZKzQGKgJgCLcB/s1600/mncnews.jpg",MNC NEWS
-http://cdn.metube.id/videom3u8/19rX5BcHnQMa7JFobxs5/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_Shop" tvg-logo="https://2.bp.blogspot.com/-dse5iMCRuwE/WPMcOr-JuYI/AAAAAAAAAqU/oYMQeKbeDsAQauLIAPZY_8DbBzOp8zv_QCLcB/s1600/mncshop.jpg",MNC SHOP
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="MNC_World_News" tvg-logo="https://1.bp.blogspot.com/-Hz4_6KB5HCc/WPMf3OIvdBI/AAAAAAAAAq4/G5Ia_dwM7UE8O9zNUDLBnaAd58Ca_KFQwCLcB/s1600/mncnewsworld.jpg",MNC WORLD NEWS
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000073/index.m3u8
-#EXTINF:0 tvg-name="MNC ENTERTAINMENT" tvg-logo="https://3.bp.blogspot.com/-ueAKsmP9weI/WPPlQv0ZxrI/AAAAAAAAAtM/NAPlaB93PT8B2nZ7ksxSkhziFIjfnyt5QCLcB/s1600/mnc-entertainment.jpg",MNC INFOTAINMENT
-
-http://iptv-indonesia.herokuapp.com/live/mncentertainment.m3u8
-
-#EXTINF:0 tvg-name="MNC FASHION" tvg-logo="https://4.bp.blogspot.com/-r0qTiE1q_IQ/WPZIBtX3cnI/AAAAAAAAAuU/rEC6-LVucRIED-ztZNnLMluIQTYLI6ODACLcB/s1600/mnc%2Bfashion.jpg",MNC FASHION
-
-http://iptv-indonesia.herokuapp.com/live/mncfashion.m3u8
-#EXTINF:0 tvg-name="MNC MUSLIM" tvg-logo="https://3.bp.blogspot.com/-eSKDXsSytzM/WPZIB2AahHI/AAAAAAAAAuY/QzKHWg4cUvcTKoFue0D3HnU6Dbhnm0cywCLcB/s1600/mnc%2Bmuslim.jpg",MNC MUSLIM
-
-http://iptv-indonesia.herokuapp.com/live/mncmuslim.m3u8
 
 #EXTINF:0 tvg-name="HEALTH BEAUTY" tvg-logo="https://3.bp.blogspot.com/-uzitHYw7FHU/WPZIA5JH2LI/AAAAAAAAAuI/0pp9hceg7HAzheyXRFZfCZP_yVykn2F5QCLcB/s1600/health%2Bbeauty.jpg",HEALTH BEAUTY
 
@@ -90,37 +72,44 @@ http://live.metube.id/tv/channel2000072/index1024.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:0 aspect-ratio=4:3 tvg-name="Jek_TV" tvg-logo="https://2.bp.blogspot.com/-xLXo-o8Rl7E/WPMcN33Cd7I/AAAAAAAAAqM/m5DIPH18WG46triKrN8T8CiLZf3nTgbHACLcB/s1600/jektv.jpg",JEK TV
 http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="TVRI_Nasional" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2016/06/tvri.png",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="TVRI_3" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2012/07/tvri-budaya.png",TVRI 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:0 aspect-ratio=4:3 tvg-name="TVRI_4" tvg-logo="http://www.indostreamix.com/wp-content/uploads/2012/07/tvri-olahraga.png",TVRI 4
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-
-#EXTINF:0 tvg-name="BERNAMA NEWS CHANNEL",BERNAMA NEWS
-
-http://iptv-indonesia.herokuapp.com/live/bernama.m3u8
-#EXTINF:0,TV1 MALAYSIA
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w1268667738_b1000000_sleng.m3u8
-#EXTINF:0,TV2 MALAYSIA
-http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w229423507_b1000000_sleng.m3u8
-#EXTINF:0,ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer4.m3u8
-#EXTINF:0,DW TV
-https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1,HBO
+http://183.88.212.205:8010/play/a00m
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://183.88.212.205:8010/play/a01l
+#EXTINF:-1,STAR CHINESE MOVIES
+http://183.88.212.205:8010/play/a02e
+#EXTINF:-1,CINEMAX
+http://183.88.212.205:8010/play/a00n
+#EXTINF:-1,NATIONAL GEOGRAFIC
 http://185.53.163.85:8888/play/a02z
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,ANIMAL PLANET
 http://185.53.163.85:8888/play/a01f
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,DISCOVERY CHANNEL
 http://185.53.163.85:8888/play/a00t
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,CARTOON NETWORK
 http://85.7.107.8:8011/play/a030
-#EXTINF:-1,FOX Comedy
-http://85.7.107.8:8011/play/a031
 #EXTINF:-1,AXN HD
 http://85.7.107.8:8011/play/a00f
+
+#EXTINF:0 tvg-name="KIDS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-eIv0RXiVwHg/WPZIBNRk7DI/AAAAAAAAAuM/Q_lXLOxjJHIt-lnHjW51CK1B1uOSc2zwACLcB/s1600/kids%2Bchannel.jpg",KIDS CHANNEL
+http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
+#EXTINF:-1,DISNEY CHANNEL ASIA
+http://183.88.212.205:8010/play/a02t
+#EXTINF:-1,NICKELODEON
+http://183.88.212.205:8010/play/a01f
+#EXTINF:0,RAI YOYO KIDS
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:0 aspect-ratio=16:9 tvg-name="ANIPLUS" tvg-logo="https://3.bp.blogspot.com/-W50zy9_LHvQ/WPM1t-uO1II/AAAAAAAAAro/EardUzcm5uIg5_fskUo9zIl-DF4olUKEQCLcB/s1600/aniplus.jpg",ANIPLUS
+rtmp://118.97.183.222/discover/aniplus
+#EXTINF:0 tvg-name="NICKTOONS",NICKTOONS
+http://iptv-indonesia.herokuapp.com/live/nicktoons.m3u8	
+#EXTINF:-1,JIM JAM
+http://85.7.107.8:8012/play/a00d
+
+
+#EXTINF:0,DW TV
+https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
 #EXTINF:0,NEWS ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,ALJAZEERA ENGLISH
@@ -151,7 +140,8 @@ rtmp://118.97.183.222/discover/fashionone
 
 rtmp://118.97.183.222/discover/fashiontv
 
-
+#EXTINF:-1,FOX SPORTS
+http://183.88.212.205:8010/play/a02m
 #EXTINF:0,EUROSPORT 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0,EUROSPORT 2
@@ -161,16 +151,12 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:0 tvg-name="SUPERSPORT EUROSPORT 1",SUPERSPORT 1
-
 http://iptv-indonesia.herokuapp.com/live/supersport4.m3u8
-
 #EXTINF:0 tvg-name="SUPERSPORT 2",SUPERSPORT 2
-
 http://iptv-indonesia.herokuapp.com/live/supersport2.m3u8
-
 #EXTINF:0 tvg-name="SUPERSPORT 3",SUPERSPORT 3
-
 http://iptv-indonesia.herokuapp.com/live/supersport3.m3u8
+
 #EXTINF:0,PAC SPORT1
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_1728_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,PAC SPORT2
@@ -185,45 +171,9 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_1728_av-p.m3u8?sd=10&
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_1728_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,PAC SPORT7
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-name="FIGHT SPORTS",FIGHT SPORTS
-
-rtmp://118.97.183.222/discover/fight
-#EXTINF:0 tvg-name="AL KASS ONE",AL KASS ONE
-
-http://iptv-indonesia.herokuapp.com/live/alkass1.m3u8
-
-#EXTINF:0,AL KASS TWO
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s.m3u8
-#EXTINF:0,AL KASS FOUR
-http://alkass-i.akamaihd.net/hls/live/205534/4/live_44s.m3u8
-#EXTINF:0,DUBAI RACING 1
-http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:0,BURSA SPORT TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
-#EXTINF:0,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:0,REAL BETIS TV
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:0,SPORTS - TILESPORT TV
-http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w1741940103.m3u8
-#EXTINF:0,SPORTS - TRT SPORT
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,SEVILLA TV
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,SPORTV KOREA
-http://183.110.28.110/jtbcgolf/_definst_/jtbcgolf.stream1/chunklist_w1785232298.m3u8?category=stream1
 
 
-#EXTINF:0 tvg-name="KIDS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-eIv0RXiVwHg/WPZIBNRk7DI/AAAAAAAAAuM/Q_lXLOxjJHIt-lnHjW51CK1B1uOSc2zwACLcB/s1600/kids%2Bchannel.jpg",KIDS CHANNEL
 
-http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
-
-#EXTINF:0,RAI YOYO KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="ANIPLUS" tvg-logo="https://3.bp.blogspot.com/-W50zy9_LHvQ/WPM1t-uO1II/AAAAAAAAAro/EardUzcm5uIg5_fskUo9zIl-DF4olUKEQCLcB/s1600/aniplus.jpg",ANIPLUS
-rtmp://118.97.183.222/discover/aniplus
-#EXTINF:0 tvg-name="NICKTOONS",NICKTOONS
-http://iptv-indonesia.herokuapp.com/live/nicktoons.m3u8	
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
@@ -293,14 +243,8 @@ http://iptv-indonesia.herokuapp.com/live/cctv-fashionwomen.m3u8
 
 http://iptv-indonesia.herokuapp.com/live/cctv14.m3u8
 #EXTINF:0 tvg-name="CCTV 15",CCTV 15
-
 http://iptv-indonesia.herokuapp.com/live/cctv15.m3u8
-#EXTINF:0 tvg-name="CCTV BILLIARDS",CCTV BILLIARDS
 
-http://iptv-indonesia.herokuapp.com/live/cctv-billiards.m3u8
-#EXTINF:0 tvg-name="CCTV FASHION MUSIC",CCTV FASHION MUSIC
-
-http://iptv-indonesia.herokuapp.com/live/cctv-fashionmusic.m3u8
 
 
 
