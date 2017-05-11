@@ -25,11 +25,11 @@ https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
 #EXTINF:-1,METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
-#EXTINF:0 tvg-name="RTV ALT 2" tvg-logo="https://3.bp.blogspot.com/-xARAEdqe3hk/WPMf3I03wUI/AAAAAAAAAq0/ZaTBGzyyFQkIAQ83RCd12mqqBoau2IGDQCLcB/s1600/rtv.jpg",RTV
+#EXTINF:-1,RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
-#EXTINF:0 tvg-name="KOMPAS TV" tvg-logo="https://1.bp.blogspot.com/-LVrF-udzpJw/WPZKU6ktVyI/AAAAAAAAAvA/fY0EcBQIa8Ih0izZFjdEe0vjn67rD1qBQCLcB/s1600/kompasTV.png",KOMPAS TV
+#EXTINF:-1,KOMPAS TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:0 tvg-name="ANTV" tvg-logo="https://3.bp.blogspot.com/-bDyPI2dnBX0/WPZKTFw2uBI/AAAAAAAAAuk/KBPIWrXvk_o_rMfkkkeOa9vjdhzo7kE_gCLcB/s1600/antv.png",ANTV
+#EXTINF:-1,NTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 
 #EXTINF:-1,HEALTH BEAUTY
@@ -59,7 +59,7 @@ http://iptv-indonesia.herokuapp.com/live/dramachannel.m3u8
 
 http://iptv-indonesia.herokuapp.com/live/foodtravel.m3u8
 
-#EXTINF:0 aspect-ratio=4:3 tvg-name="GAMES CHANNEL" tvg-logo="https://2.bp.blogspot.com/-Mw33IhWceaw/WP5kOUObYLI/AAAAAAAAAww/ePyoEEpbDhEG2GfEJ5TBN8EOGXlUq2WHQCLcB/s1600/games.png",GAMES CHANNEL
+#EXTINF:-1,GAMES CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/gameschannel.m3u8
 
