@@ -100,8 +100,8 @@ http://183.88.212.205:8010/play/a02t
 http://183.88.212.205:8010/play/a01f
 #EXTINF:0,RAI YOYO KIDS
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:0 aspect-ratio=16:9 tvg-name="ANIPLUS" tvg-logo="https://3.bp.blogspot.com/-W50zy9_LHvQ/WPM1t-uO1II/AAAAAAAAAro/EardUzcm5uIg5_fskUo9zIl-DF4olUKEQCLcB/s1600/aniplus.jpg",ANIPLUS
-rtmp://118.97.183.222/discover/aniplus
+#EXTINF:-1,ANIMAX
+http://183.88.212.205:8010/play/a00h
 #EXTINF:0 tvg-name="NICKTOONS",NICKTOONS
 http://iptv-indonesia.herokuapp.com/live/nicktoons.m3u8	
 #EXTINF:-1,JIM JAM
