@@ -31,9 +31,6 @@ https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:-1,ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
-
-#EXTINF:-1,HEALTH BEAUTY
-http://iptv-indonesia.herokuapp.com/live/healthbeauty.m3u8
 #EXTINF:-1,MQTV
 rtmp://118.97.183.222/discover/mqtv
 #EXTINF:-1,HI INDO
@@ -44,7 +41,8 @@ rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,COMEDY CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/comedychannel.m3u8
-
+#EXTINF:-1,HEALTH BEAUTY
+http://iptv-indonesia.herokuapp.com/live/healthbeauty.m3u8
 #EXTINF:-1,DRAMA CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/dramachannel.m3u8
