@@ -29,23 +29,16 @@ https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 #EXTINF:-1,KOMPAS TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1,ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 
 #EXTINF:-1,HEALTH BEAUTY
-
 http://iptv-indonesia.herokuapp.com/live/healthbeauty.m3u8
-
-#EXTINF:-1,I INDO
-
-rtmp://118.97.183.222/discover/hiindo
-
 #EXTINF:-1,MQTV
-
 rtmp://118.97.183.222/discover/mqtv
-
+#EXTINF:-1,HI INDO
+rtmp://118.97.183.222/discover/hiindo
 #EXTINF:-1,Z BIOSKOP
-
 rtmp://118.97.183.222/discover/zbioskop
 
 #EXTINF:-1,COMEDY CHANNEL
@@ -62,51 +55,83 @@ http://iptv-indonesia.herokuapp.com/live/foodtravel.m3u8
 #EXTINF:-1,GAMES CHANNEL
 
 http://iptv-indonesia.herokuapp.com/live/gameschannel.m3u8
-
-
-
 #EXTINF:-1,IDX
 http://live.metube.id/tv/channel2000072/index1024.m3u8
-#EXTINF:-1,GLOBE NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1,JEK TV
-http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
-
+#EXTINF:0 tvg-name="K PLUS",K PLUS
+rtmp://118.97.183.222/discover/kplus
 #EXTINF:-1,HBO
 http://183.88.212.205:8010/play/a00m
+#EXTINF:-1,RED BY HBO
+http://183.88.212.205:8010/play/a03c
+#EXTINF:-1,AXN
+http://183.88.212.205:8010/play/a00i
+#EXTINF:-1,SKYNET MOVIES HD
+http://183.88.212.205:8010/play/a00v
 #EXTINF:-1,FOX MOVIES PREMIUM
 http://183.88.212.205:8010/play/a01l
+#EXTINF:-1,FOX FAMILY MOVIES
+http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,STAR CHINESE MOVIES
 http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
 http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,NATIONAL GEOGRAFIC
-http://85.7.107.8:8011/play/a00e
+#EXTINF:-1,AXN HD
+http://85.7.107.8:8011/play/a00f
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://185.53.163.85:8888/play/a02z
+#EXTINF:-1,NAT GEO PEOPLE
+http://183.88.212.205:8010/play/a02z
+#EXTINF:-1,NAT GEO WILD
+http://183.88.212.205:8010/play/a02y
 #EXTINF:-1,ANIMAL PLANET
 http://185.53.163.85:8888/play/a01f
 #EXTINF:-1,DISCOVERY CHANNEL
 http://85.7.107.8:8011/play/a013
-#EXTINF:-1,AXN HD
-http://85.7.107.8:8011/play/a00f
+#EXTINF:-1,DISCOVERY SCIENCE
+http://183.88.212.205:8010/play/a034
+#EXTINF:-1,STAR WORLD
+http://183.88.212.205:8010/play/a021
+#EXTINF:-1,FYI
+http://183.88.212.205:8010/play/a00k
+#EXTINF:-1,HISTORY HD
+http://183.88.212.205:8010/play/a00y
+#EXTINF:0,RT DOCUMENTARY
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/rt-doc-mobile.3gp.m3u8
+
+
 
 #EXTINF:-1,KIDS CHANNEL
 http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
 #EXTINF:-1,DISNEY CHANNEL ASIA
 http://183.88.212.205:8010/play/a02t
+#EXTINF:-1,DISNEY JUNIOR ASIA
+http://183.88.212.205:8010/play/a02u
+#EXTINF:-1,DISNEY XD
+http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,CARTOON NETWORK
 http://85.7.107.8:8011/play/a030
 #EXTINF:-1,NICKELODEON
 http://183.88.212.205:8010/play/a01f
-#EXTINF:0,RAI YOYO KIDS
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://183.88.212.205:8010/play/a01c
+#EXTINF:-1,BABY FIRST
+http://85.7.107.8:8010/play/a03m
 #EXTINF:-1,ANIMAX
 http://183.88.212.205:8010/play/a00h
-#EXTINF:0 tvg-name="NICKTOONS",NICKTOONS
-http://iptv-indonesia.herokuapp.com/live/nicktoons.m3u8	
 #EXTINF:-1,JIM JAM
 http://85.7.107.8:8012/play/a00d
 
-
+#EXTINF:-1,BLOOMBERG
+http://183.88.212.205:8010/play/a02d
+#EXTINF:-1,FRANCE 24
+http://183.88.212.205:8010/play/a02h
+#EXTINF:-1,CNN
+http://183.88.212.205:8010/play/a00l
+#EXTINF:-1,CNBC
+http://183.88.212.205:8010/play/a02c
+#EXTINF:-1,BBC WORLD NEWS
+http://183.88.212.205:8010/play/a03g
 #EXTINF:0,DW TV
 https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
 #EXTINF:0,NEWS ASIA
@@ -117,27 +142,12 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD
 rtmp://118.97.183.196/jhos/kbs
-#EXTINF:0 tvg-name="K PLUS",K PLUS
-rtmp://118.97.183.222/discover/kplus
-#EXTINF:0,FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
 #EXTINF:0 tvg-name="AUSTRALIA PLUS",AUSTRALIA +
 rtmp://118.97.183.222/discover/aplus
-#EXTINF:0 tvg-name="CCTV 15",BBC
-http://iptv-indonesia.herokuapp.com/live/bbc:usa.m3u8
-#EXTINF:0,HISTORY 2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-2,6/index.m3u8
-#EXTINF:0,RT DOCUMENTARY
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/rt-doc-mobile.3gp.m3u8
-#EXTINF:0,RUSSIA TODAY
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
-#EXTINF:0 tvg-name="FASHION ONE",FASHION ONE
-
-rtmp://118.97.183.222/discover/fashionone
-
-#EXTINF:0 tvg-name="FASHION TV",FASHION TV
-
-rtmp://118.97.183.222/discover/fashiontv
+#EXTINF:-1,NHK WORLD TV
+http://183.88.212.205:8010/play/a028
+#EXTINF:-1,NHK WORLD PREMIUM
+http://183.88.212.205:8010/play/a027
 
 #EXTINF:-1,FOX SPORTS 1
 http://183.88.212.205:8010/play/a02m
@@ -145,10 +155,12 @@ http://183.88.212.205:8010/play/a02m
 http://183.88.212.205:8010/play/a02n
 #EXTINF:-1,FOX SPORTS 3
 http://183.88.212.205:8010/play/a02o
-#EXTINF:0,EUROSPORT 1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,EUROSPORT 2
-http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
+#EXTINF:-1,SKYNET SPORTS-1
+http://183.88.212.205:8010/play/a02j
+#EXTINF:-1,SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k
+#EXTINF:-1,SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
@@ -160,23 +172,19 @@ http://iptv-indonesia.herokuapp.com/live/supersport2.m3u8
 #EXTINF:0 tvg-name="SUPERSPORT 3",SUPERSPORT 3
 http://iptv-indonesia.herokuapp.com/live/supersport3.m3u8
 
-#EXTINF:0,PAC SPORT1
+#EXTINF:0,PAC12 SPORT1
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_1728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT2
+#EXTINF:0,PAC12 SPORT2
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT3
+#EXTINF:0,PAC12 SPORT3
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT4
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT5
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT6
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC SPORT7
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_1728_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,EDGE SPORTS
+http://183.88.212.205:8010/play/a03i
 
-
-
+#EXTINF:0 tvg-name="FASHION ONE",FASHION ONE
+rtmp://118.97.183.222/discover/fashionone
+#EXTINF:0 tvg-name="FASHION TV",FASHION TV
+rtmp://118.97.183.222/discover/fashiontv
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
@@ -210,43 +218,6 @@ http://iptv-indonesia.herokuapp.com/live/cctv3.m3u8
 
 http://iptv-indonesia.herokuapp.com/live/cctv4.m3u8
 #EXTINF:0 tvg-name="CCTV CLASSIC",CCTV 5
-
-http://iptv-indonesia.herokuapp.com/live/cctv-classic.m3u8
-#EXTINF:0 tvg-name="CCTV 6",CCTV 6
-
-http://iptv-indonesia.herokuapp.com/live/cctv6.m3u8
-
-#EXTINF:0 tvg-name="CCTV SOCCER",CCTV 7
-http://iptv-indonesia.herokuapp.com/live/cctv-soccer.m3u8
-
-#EXTINF:0 tvg-name="CGTN DOCUMENTARY",CCTV 8
-http://iptv-indonesia.herokuapp.com/live/cgtndoc.m3u8
-
-#EXTINF:0 tvg-name="CCTV 9 ",CCTV 9 
-
-http://iptv-indonesia.herokuapp.com/live/cctv9.m3u8
-#EXTINF:0 tvg-name="CCTV 10",CCTV 10
-
-http://iptv-indonesia.herokuapp.com/live/cctv10.m3u8
-
-#EXTINF:0 tvg-name="CCTV NEWS",CCTV 11
-http://iptv-indonesia.herokuapp.com/live/cctv-news.m3u8
-
-#EXTINF:0 tvg-name="CCTV 12",CCTV 12
-
-http://iptv-indonesia.herokuapp.com/live/cctv12.m3u8
-#EXTINF:0 tvg-name="CCTV FASHIONABLE WOMEN",CCTV 13
-http://iptv-indonesia.herokuapp.com/live/cctv-fashionwomen.m3u8
-
-
-#EXTINF:0 tvg-name="CCTV 14",CCTV 14
-
-http://iptv-indonesia.herokuapp.com/live/cctv14.m3u8
-#EXTINF:0 tvg-name="CCTV 15",CCTV 15
-http://iptv-indonesia.herokuapp.com/live/cctv15.m3u8
-
-
-
 
 
 
