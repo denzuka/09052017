@@ -130,8 +130,8 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;re
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
-#EXTINF:-1,KBS WORLD
-rtmp://118.97.183.196/jhos/kbs
+#EXTINF:-1,KBS WORLD 
+http://183.88.212.205:8010/play/a025 
 #EXTINF:0 tvg-name="AUSTRALIA PLUS",AUSTRALIA +
 rtmp://118.97.183.222/discover/aplus
 #EXTINF:-1,NHK WORLD TV
@@ -162,19 +162,23 @@ http://iptv-indonesia.herokuapp.com/live/supersport2.m3u8
 #EXTINF:0 tvg-name="SUPERSPORT 3",SUPERSPORT 3
 http://iptv-indonesia.herokuapp.com/live/supersport3.m3u8
 
-#EXTINF:0,PAC12 SPORT1
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_1728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC12 SPORT2
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/index_1728_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,PAC12 SPORT3
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_1728_av-p.m3u8?sd=10&rebase=on
+Arena Sport 1 
+http://89.216.39.249:8080/ArenaSport1/index.m3u8 
+Arena Sport 2 
+http://89.216.39.249:8080/ArenaSport2/index.m3u8 
+Arena Sport 3 
+http://89.216.39.249:8080/ArenaSport3/index.m3u8 
+Arena Sport 4 
+http://89.216.39.249:8080/ArenaSport4/index.m3u8 
+Arena Sport 5 
+http://89.216.39.249:8080/ArenaSport5/index.m3u8
 #EXTINF:-1,EDGE SPORTS
 http://183.88.212.205:8010/play/a03i
 
 #EXTINF:0 tvg-name="FASHION ONE",FASHION ONE
 rtmp://118.97.183.222/discover/fashionone
-#EXTINF:0 tvg-name="FASHION TV",FASHION TV
-rtmp://118.97.183.222/discover/fashiontv
+#EXTINF:-1,FASHION TV
+http://87.76.100.99:5555/play/123 
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
