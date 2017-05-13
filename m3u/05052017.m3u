@@ -90,6 +90,8 @@ http://183.88.212.205:8010/play/a00k
 http://183.88.212.205:8010/play/a00y
 #EXTINF:0,RT DOCUMENTARY
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/rt-doc-mobile.3gp.m3u8
+#EXTINF:-1,TRAVEL & ADVENTURE
+http://87.76.100.99:5555/play/249 
 
 #EXTINF:-1,KIDS CHANNEL
 http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
@@ -162,15 +164,15 @@ http://iptv-indonesia.herokuapp.com/live/supersport2.m3u8
 #EXTINF:0 tvg-name="SUPERSPORT 3",SUPERSPORT 3
 http://iptv-indonesia.herokuapp.com/live/supersport3.m3u8
 
-Arena Sport 1 
+#EXTINF:-1,ARENA SPORT 1 
 http://89.216.39.249:8080/ArenaSport1/index.m3u8 
-Arena Sport 2 
+#EXTINF:-1,ARENA SPORT 2 
 http://89.216.39.249:8080/ArenaSport2/index.m3u8 
-Arena Sport 3 
+#EXTINF:-1,ARENA SPORT 3 
 http://89.216.39.249:8080/ArenaSport3/index.m3u8 
-Arena Sport 4 
+#EXTINF:-1,ARENA SPORT 4 
 http://89.216.39.249:8080/ArenaSport4/index.m3u8 
-Arena Sport 5 
+#EXTINF:-1,ARENA SPORT 5 
 http://89.216.39.249:8080/ArenaSport5/index.m3u8
 #EXTINF:-1,EDGE SPORTS
 http://183.88.212.205:8010/play/a03i
@@ -198,14 +200,7 @@ http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
 #EXTINF:-1,T MUSIC
 rtmp://118.97.183.196/jhos/allegro
 
-#EXTINF:0 tvg-name="CCTV TV GUIDE",CCTV 1
-http://iptv-indonesia.herokuapp.com/live/cctv-tvguide.m3u8
-#EXTINF:0 tvg-name="CCTV WORLD GEOGRAPHY",CCTV 2
-http://iptv-indonesia.herokuapp.com/live/cctv-worldgeo.m3u8
-#EXTINF:0 tvg-name="CCTV 3",CCTV 3
-http://iptv-indonesia.herokuapp.com/live/cctv3.m3u8
-#EXTINF:0 tvg-name="CCTV 4",CCTV 4
-http://iptv-indonesia.herokuapp.com/live/cctv4.m3u8
+
 
 
 
