@@ -76,7 +76,7 @@ http://183.88.212.205:8010/play/a021
 http://46.249.55.237:4545/play/a019 
 #EXTINF:-1,NAT GEO PEOPLE
 http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,(UK) NAT GEO WILD
+#EXTINF:-1,NAT GEO WILD
 http://46.249.55.237:4545/play/a01b 
 #EXTINF:-1,ANIMAL PLANET
 http://46.249.55.237:4545/play/a02g 
@@ -88,8 +88,6 @@ http://46.249.55.237:4545/play/a02j
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1,HISTORY HD
 http://46.249.55.237:4545/play/a01c
-#EXTINF:0,RT DOCUMENTARY
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/rt-doc-mobile.3gp.m3u8
 #EXTINF:-1,TRAVEL & ADVENTURE
 http://87.76.100.99:5555/play/249 
 
