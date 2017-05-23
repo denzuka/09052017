@@ -63,33 +63,51 @@ http://183.88.212.205:8010/play/a00v
 http://183.88.212.205:8010/play/a01l
 #EXTINF:-1,FOX FAMILY MOVIES
 http://183.88.212.205:8010/play/a01m
+#EXTINF:-1,FOX CRIME
+http://183.88.212.205:8010/play/a020
 #EXTINF:-1,FX
 http://183.88.212.205:8010/play/a023
 #EXTINF:-1,STAR CHINESE MOVIES
 http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
 http://183.88.212.205:8010/play/a00n
+#EXTINF:-1,UNIVERSAL HD
+http://183.88.212.205:8010/play/a03m 
+#EXTINF:-1,ZEE CINEMA ME
+http://183.88.212.205:8010/play/a01n 
 #EXTINF:-1,STAR WORLD
 http://183.88.212.205:8010/play/a021
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://185.53.161.147:8888/play/a011
+http://183.88.212.205:8010/play/a02x
 #EXTINF:-1,NAT GEO PEOPLE
 http://183.88.212.205:8010/play/a02z
 #EXTINF:-1,NAT GEO WILD
-http://46.249.55.237:4545/play/a01b 
+http://183.88.212.205:8010/play/a02y 
 #EXTINF:-1,ANIMAL PLANET
-http://46.249.55.237:4545/play/a02g 
+http://183.88.212.205:8010/play/a030 
 #EXTINF:-1,DISCOVERY CHANNEL
 http://46.249.55.237:4545/play/a02f  
 #EXTINF:-1,DISCOVERY SCIENCE
-http://46.249.55.237:4545/play/a02j 
+http://46.249.55.237:4545/play/a02j
+#EXTINF:-1,DISCOVERY KIDS
+http://183.88.212.205:8010/play/a036
+#EXTINF:-1,DISCOVERY TLC
+http://183.88.212.205:8010/play/a032 
 #EXTINF:-1,FYI
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1,HISTORY HD
 http://46.249.55.237:4545/play/a01c
 #EXTINF:-1,TRAVEL & ADVENTURE
 http://87.76.100.99:5555/play/249 
+#EXTINF:-1,OUTDOOR CHANNEL
+http://183.88.212.205:8010/play/a03d 
+#EXTINF:-1,SKYNET KNOWLEDGE
+http://183.88.212.205:8010/play/a02w 
+#EXTINF:-1,DIVA UNIVERSAL
+http://183.88.212.205:8010/play/a03n 
+#EXTINF:-1,DMAX
+http://183.88.212.205:8010/play/a035 
 
 #EXTINF:-1,KIDS CHANNEL
 http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
@@ -109,6 +127,10 @@ http://85.7.107.8:8010/play/a03m
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,JIM JAM
 http://85.7.107.8:8012/play/a00d
+#EXTINF:-1,BABY TV
+http://183.88.212.205:8010/play/a01e
+#EXTINF:-1,BBC CBEEBIES
+http://183.88.212.205:8010/play/a03f 
 
 #EXTINF:-1,BLOOMBERG
 http://183.88.212.205:8010/play/a02d
@@ -120,6 +142,8 @@ http://183.88.212.205:8010/play/a00l
 http://183.88.212.205:8010/play/a02c
 #EXTINF:-1,BBC WORLD NEWS
 http://183.88.212.205:8010/play/a03g
+#EXTINF:-1,BBC EARTH
+http://183.88.212.205:8010/play/a03e 
 #EXTINF:-1,DW TV
 http://183.88.212.205:8010/play/a02g
 #EXTINF:0,NEWS ASIA
@@ -136,6 +160,8 @@ rtmp://118.97.183.222/discover/aplus
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
+#EXTINF:-1,FOX NEWS
+http://183.88.212.205:8010/play/a00f 
 
 #EXTINF:-1,FOX SPORTS 1
 http://183.88.212.205:8010/play/a02m
@@ -143,25 +169,32 @@ http://183.88.212.205:8010/play/a02m
 http://183.88.212.205:8010/play/a02n
 #EXTINF:-1,FOX SPORTS 3
 http://183.88.212.205:8010/play/a02o
+#EXTINF:-1,EURO SPORTS
+http://183.88.212.205:8010/play/a00d
+#EXTINF:-1,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g 
 #EXTINF:-1,SKYNET SPORTS 1
 http://183.88.212.205:8010/play/a02j
 #EXTINF:-1,SKYNET SPORTS 2
 http://183.88.212.205:8010/play/a02k
 #EXTINF:-1,SKYNET SPORTS 3
 http://183.88.212.205:8010/play/a02l
+#EXTINF:-1,SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a 
+#EXTINF:-1,SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b
+#EXTINF:-1,SKYNET SPORTS-6
+http://183.88.212.205:8010/play/a00c 
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,BT SPORT 1 
-http://46.249.55.237:4545/play/a0bw 
-#EXTINF:-1,BT SPORT 2 
-http://46.249.55.237:4545/play/a0br 
-#EXTINF:-1,BT SPORT 3 
-http://46.249.55.237:4545/play/a0bu
 #EXTINF:-1,EDGE SPORTS
 http://183.88.212.205:8010/play/a03i
+#EXTINF:-1,FIGHT SPORTS HD
+http://183.88.212.205:8010/play/a00z 
+#EXTINF:-1,MOTOR VISION
+http://183.88.212.205:8010/play/a03j 
 
 #EXTINF:-1,FASHION ONE
 rtmp://118.97.183.222/discover/fashionone
@@ -185,6 +218,12 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
 http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
 #EXTINF:-1,T MUSIC
 rtmp://118.97.183.196/jhos/allegro
+#EXTINF:-1,E!
+http://183.88.212.205:8010/play/a03o 
+#EXTINF:-1,MTV LIVE HD
+http://183.88.212.205:8010/play/a00s 
+#EXTINF:-1,MTV CHINA
+http://183.88.212.205:8010/play/a01s 
 
 
 
