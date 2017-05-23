@@ -8,7 +8,7 @@ http://cdn.live.metube.id/rcti.m3u8
 #EXTINF:-1,INEWS
 http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
 #EXTINF:-1,GLOBAL TV
-http://iptv-indonesia.herokuapp.com/live/globaltv.m3u8
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
 #EXTINF:-1,SCTV
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,INDOSIAR
@@ -43,7 +43,7 @@ http://iptv-indonesia.herokuapp.com/live/dramachannel.m3u8
 #EXTINF:-1,GAMES CH
 http://iptv-indonesia.herokuapp.com/live/gameschannel.m3u8
 #EXTINF:-1,HEALTH BEAUTY
-http://iptv-indonesia.herokuapp.com/live/healthbeauty.m3u8
+http://cdn.live2.metube.id/live/tv/prod/healthbeauty.m3u8
 #EXTINF:-1,FOOD TRAVEL
 http://iptv-indonesia.herokuapp.com/live/foodtravel.m3u8
 #EXTINF:-1,IDX
@@ -92,7 +92,7 @@ http://46.249.55.237:4545/play/a01c
 http://87.76.100.99:5555/play/249 
 
 #EXTINF:-1,KIDS CHANNEL
-http://iptv-indonesia.herokuapp.com/live/kidschannel.m3u8
+http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
 #EXTINF:-1,DISNEY CHANNEL ASIA
 http://183.88.212.205:8010/play/a02t
 #EXTINF:-1,DISNEY JUNIOR ASIA
