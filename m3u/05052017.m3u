@@ -39,7 +39,7 @@ rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,COMEDY CH
 http://iptv-indonesia.herokuapp.com/live/comedychannel.m3u8
 #EXTINF:-1,DRAMA CH
-http://iptv-indonesia.herokuapp.com/live/dramachannel.m3u8
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1,GAMES CH
 http://iptv-indonesia.herokuapp.com/live/gameschannel.m3u8
 #EXTINF:-1,HEALTH BEAUTY
