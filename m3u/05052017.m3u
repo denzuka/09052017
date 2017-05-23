@@ -72,7 +72,9 @@ http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
 http://183.88.212.205:8010/play/a00n
 #EXTINF:-1,UNIVERSAL HD
-http://183.88.212.205:8010/play/a03m 
+http://183.88.212.205:8010/play/a03m
+#EXTINF:-1,DIVA UNIVERSAL
+http://183.88.212.205:8010/play/a03n 
 #EXTINF:-1,ZEE CINEMA ME
 http://183.88.212.205:8010/play/a01n 
 #EXTINF:-1,STAR WORLD
@@ -100,8 +102,6 @@ http://183.88.212.205:8010/play/a00k
 http://183.88.212.205:8010/play/a03d 
 #EXTINF:-1,SKYNET KNOWLEDGE
 http://183.88.212.205:8010/play/a02w 
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n 
 #EXTINF:-1,DMAX
 http://183.88.212.205:8010/play/a035
 #EXTINF:-1,MOTOR VISION
@@ -148,8 +148,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:-1,KBS WORLD 
 http://183.88.212.205:8010/play/a025 
-#EXTINF:0 tvg-name="AUSTRALIA PLUS",AUSTRALIA +
-rtmp://118.97.183.222/discover/aplus
 #EXTINF:-1,NHK WORLD TV
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,NHK WORLD PREMIUM
@@ -198,12 +196,6 @@ http://87.76.100.99:5555/play/123
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:0,ISLAM CHANNEL
 http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
-#EXTINF:0,QURAN TV HD
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
-#EXTINF:0,SUNNA TV HD
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
-#EXTINF:-1,TAHFIZH TV
-rtmp://119.235.249.58/tahfidztv/live
 
 #EXTINF:0,4 MUSIC
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
