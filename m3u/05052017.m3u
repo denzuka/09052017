@@ -206,7 +206,7 @@ http://183.88.212.205:8010/play/a00z
 #EXTINF:-1,FASHION ONE
 http://183.88.212.205:8010/play/a01v
 #EXTINF:-1,FASHION TV
-http://87.76.100.99:5555/play/123 
+http://188.122.246.219:4022/udp/232.0.2.2:1234 
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
