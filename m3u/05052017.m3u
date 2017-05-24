@@ -32,10 +32,6 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 #EXTINF:-1,MQTV
 rtmp://118.97.183.222/discover/mqtv
 
-#EXTINF:-1,HI INDO
-rtmp://118.97.183.222/discover/hiindo
-#EXTINF:-1,Z BIOSKOP
-rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,COMEDY CH
 http://cdn-live.metube.id/comedy.m3u8
 #EXTINF:-1,DRAMA CH
@@ -67,6 +63,10 @@ http://183.88.212.205:8010/play/a01m
 http://183.88.212.205:8010/play/a020
 #EXTINF:-1,FX
 http://183.88.212.205:8010/play/a023
+#EXTINF:-1,HI INDO
+rtmp://118.97.183.222/discover/hiindo
+#EXTINF:-1,Z BIOSKOP
+rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,STAR CHINESE MOVIES
 http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
@@ -75,7 +75,7 @@ http://183.88.212.205:8010/play/a00n
 http://183.88.212.205:8010/play/a03m
 #EXTINF:-1,DIVA UNIVERSAL
 http://183.88.212.205:8010/play/a03n 
-#EXTINF:-1,ZEE CINEMA ME
+#EXTINF:-1,ZEE CINEMA
 http://183.88.212.205:8010/play/a01n 
 #EXTINF:-1,STAR WORLD
 http://183.88.212.205:8010/play/a021
@@ -89,9 +89,9 @@ http://183.88.212.205:8010/play/a02y
 #EXTINF:-1,ANIMAL PLANET
 http://183.88.212.205:8010/play/a030 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://46.249.55.237:4545/play/a02f  
+http://183.88.212.205:8010/play/a031   
 #EXTINF:-1,DISCOVERY SCIENCE
-http://46.249.55.237:4545/play/a02j
+http://183.88.212.205:8010/play/a034 
 #EXTINF:-1,DISCOVERY KIDS
 http://183.88.212.205:8010/play/a036
 #EXTINF:-1,DISCOVERY TLC
@@ -114,7 +114,7 @@ http://183.88.212.205:8010/play/a02t
 #EXTINF:-1,DISNEY JUNIOR ASIA
 http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,CARTOON NETWORK
-http://85.7.107.8:8011/play/a030
+http://183.88.212.205:8010/play/a01b 
 #EXTINF:-1,NICKELODEON
 http://183.88.212.205:8010/play/a01f
 #EXTINF:-1,NICK JUNIOR
@@ -124,7 +124,9 @@ http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,BABY TV
 http://183.88.212.205:8010/play/a01e
 #EXTINF:-1,BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f 
+http://183.88.212.205:8010/play/a03f
+#EXTINF:-1,BOOMERANG
+http://ott1.odessa.tv:7321/index.php?channel=358&amp;amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1,BLOOMBERG
 http://183.88.212.205:8010/play/a02d
@@ -188,7 +190,7 @@ http://183.88.212.205:8010/play/a00z
  
 
 #EXTINF:-1,FASHION ONE
-rtmp://118.97.183.222/discover/fashionone
+http://183.88.212.205:8010/play/a01v
 #EXTINF:-1,FASHION TV
 http://87.76.100.99:5555/play/123 
 
