@@ -79,6 +79,8 @@ http://183.88.212.205:8010/play/a03n
 http://183.88.212.205:8010/play/a01n 
 #EXTINF:-1,STAR WORLD
 http://183.88.212.205:8010/play/a021
+#EXTINF:-1,H2
+http://185.53.163.85:8888/play/a02p
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://183.88.212.205:8010/play/a02x
@@ -163,8 +165,20 @@ http://183.88.212.205:8010/play/a02m
 http://183.88.212.205:8010/play/a02n
 #EXTINF:-1,FOX SPORTS 3
 http://183.88.212.205:8010/play/a02o
-#EXTINF:-1,EURO SPORTS
+#EXTINF:-1, Arena Sport 1
+http://185.53.163.85:8888/play/a02l
+#EXTINF:-1, Arena Sport 2
+http://185.53.163.85:8888/play/a02m
+#EXTINF:-1, Arena Sport 3
+http://185.53.163.85:8888/play/a02n
+#EXTINF:-1, Arena Sport 4
+http://185.53.163.85:8888/play/a02o
+#EXTINF:-1, Arena Sport 5
+http://185.53.163.85:8888/play/a034
+#EXTINF:-1,EURO SPORTS 1
 http://183.88.212.205:8010/play/a00d
+#EXTINF:-1,EURO SPORTS 2
+http://185.53.163.85:8888/play/a028
 #EXTINF:-1,EURO SPORTS NEWS
 http://183.88.212.205:8010/play/a00g 
 #EXTINF:-1,SKYNET SPORTS 1
@@ -203,10 +217,10 @@ http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
 #EXTINF:-1,MUSIC CHANNEL
 http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
-#EXTINF:-1,T MUSIC
-rtmp://118.97.183.196/jhos/allegro
 #EXTINF:-1,E!
 http://183.88.212.205:8010/play/a03o 
+#EXTINF:-1, MTV HITS
+http://185.53.163.85:8888/play/a01k
 #EXTINF:-1,MTV LIVE HD
 http://183.88.212.205:8010/play/a00s 
 #EXTINF:-1,MTV CHINA
