@@ -89,11 +89,11 @@ http://183.88.212.205:8010/play/a02z
 #EXTINF:-1,NAT GEO WILD
 http://183.88.212.205:8010/play/a02y 
 #EXTINF:-1,ANIMAL PLANET
-http://183.88.212.205:8010/play/a030 
+http://185.32.44.146/play/a017 
 #EXTINF:-1,DISCOVERY CHANNEL
-http://183.88.212.205:8010/play/a031   
+http://185.32.44.146/play/a015   
 #EXTINF:-1,DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034 
+http://185.32.44.146/play/a019 
 #EXTINF:-1,DISCOVERY KIDS
 http://183.88.212.205:8010/play/a036
 #EXTINF:-1,DISCOVERY TLC
@@ -112,15 +112,15 @@ http://183.88.212.205:8010/play/a03j
 #EXTINF:-1,KIDS CHANNEL
 http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
 #EXTINF:-1,DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t
+http://185.32.44.146/play/a03j 
 #EXTINF:-1,DISNEY JUNIOR ASIA
 http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b 
+http://185.32.44.146/play/a03i 
 #EXTINF:-1,NICKELODEON
-http://183.88.212.205:8010/play/a01f
+http://185.32.44.146/play/a03g
 #EXTINF:-1,NICK JUNIOR
-http://183.88.212.205:8010/play/a01c
+http://185.32.44.146/play/a03h
 #EXTINF:-1,ANIMAX
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,BABY TV
@@ -131,9 +131,9 @@ http://183.88.212.205:8010/play/a03f
 http://ott1.odessa.tv:7321/index.php?channel=358&amp;amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
 #EXTINF:-1,BLOOMBERG
-http://183.88.212.205:8010/play/a02d
+http://185.32.44.146/play/a07c 
 #EXTINF:-1,FRANCE 24
-http://183.88.212.205:8010/play/a02h
+http://185.32.44.146/play/a04t 
 #EXTINF:-1,CNN
 http://183.88.212.205:8010/play/a00l
 #EXTINF:-1,CNBC
@@ -178,7 +178,7 @@ http://185.53.163.85:8888/play/a034
 #EXTINF:-1,EURO SPORTS 1
 http://183.88.212.205:8010/play/a00d
 #EXTINF:-1,EURO SPORTS 2
-http://185.53.163.85:8888/play/a028
+http://185.32.44.146/play/a039
 #EXTINF:-1,EURO SPORTS NEWS
 http://183.88.212.205:8010/play/a00g 
 #EXTINF:-1,SKYNET SPORTS 1
