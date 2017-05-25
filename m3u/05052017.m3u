@@ -214,6 +214,10 @@ http://185.32.44.146/play/a05g
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:0,ISLAM CHANNEL
 http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
+#EXTINF:-1, SUNNA TV 
+http://185.53.161.148:8888/play/a006 
+#EXTINF:-1, SAUDI CHANNEL 
+http://185.53.161.148:8888/play/a007 
 
 #EXTINF:0,4 MUSIC
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
