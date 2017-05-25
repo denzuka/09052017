@@ -167,15 +167,15 @@ http://183.88.212.205:8010/play/a02m
 http://183.88.212.205:8010/play/a02n
 #EXTINF:-1,FOX SPORTS 3
 http://183.88.212.205:8010/play/a02o
-#EXTINF:-1, Arena Sport 1
+#EXTINF:-1, ARENA SPORT 1
 http://185.53.163.85:8888/play/a02l
-#EXTINF:-1, Arena Sport 2
+#EXTINF:-1, ARENA SPORT 2
 http://185.53.163.85:8888/play/a02m
-#EXTINF:-1, Arena Sport 3
+#EXTINF:-1, ARENA SPORT 3
 http://185.53.163.85:8888/play/a02n
-#EXTINF:-1, Arena Sport 4
+#EXTINF:-1, ARENA SPORT 4
 http://185.53.163.85:8888/play/a02o
-#EXTINF:-1, Arena Sport 5
+#EXTINF:-1, ARENA SPORT 5
 http://185.53.163.85:8888/play/a034
 #EXTINF:-1,EURO SPORTS 1
 http://185.32.44.146/play/a038 
@@ -183,18 +183,14 @@ http://185.32.44.146/play/a038
 http://185.32.44.146/play/a039
 #EXTINF:-1,EURO SPORTS NEWS
 http://183.88.212.205:8010/play/a00g 
-#EXTINF:-1,SKYNET SPORTS 1
-http://183.88.212.205:8010/play/a02j
-#EXTINF:-1,SKYNET SPORTS 2
-http://183.88.212.205:8010/play/a02k
-#EXTINF:-1,SKYNET SPORTS 3
-http://183.88.212.205:8010/play/a02l
-#EXTINF:-1,SKYNET SPORTS 4
-http://183.88.212.205:8010/play/a00a 
-#EXTINF:-1,SKYNET SPORTS 5
-http://183.88.212.205:8010/play/a00b
-#EXTINF:-1,SKYNET SPORTS 6
-http://183.88.212.205:8010/play/a00c 
+#EXTINF:-1,SUPER SPORT 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SUPER SPORT 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,SUPER SPORT 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,SUPER SPORT 4
+http://81.7.13.162/hls/ss4/index.m3u8 
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
