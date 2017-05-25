@@ -83,11 +83,11 @@ http://183.88.212.205:8010/play/a021
 http://185.53.163.85:8888/play/a02p
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-http://183.88.212.205:8010/play/a02x
+http://185.32.44.146/play/a01a 
 #EXTINF:-1,NAT GEO PEOPLE
 http://183.88.212.205:8010/play/a02z
 #EXTINF:-1,NAT GEO WILD
-http://183.88.212.205:8010/play/a02y 
+http://185.32.44.146/play/a016 
 #EXTINF:-1,ANIMAL PLANET
 http://185.32.44.146/play/a017 
 #EXTINF:-1,DISCOVERY CHANNEL
@@ -97,7 +97,9 @@ http://185.32.44.146/play/a019
 #EXTINF:-1,DISCOVERY KIDS
 http://183.88.212.205:8010/play/a036
 #EXTINF:-1,DISCOVERY TLC
-http://183.88.212.205:8010/play/a032 
+http://183.88.212.205:8010/play/a032
+#EXTINF:-1,DISCOVERY TURBO
+http://185.32.44.146/play/a018 
 #EXTINF:-1,FYI
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1,OUTDOOR CHANNEL
@@ -135,11 +137,11 @@ http://185.32.44.146/play/a07c
 #EXTINF:-1,FRANCE 24
 http://185.32.44.146/play/a04t 
 #EXTINF:-1,CNN
-http://183.88.212.205:8010/play/a00l
+http://185.32.44.146/play/a00n
 #EXTINF:-1,CNBC
 http://183.88.212.205:8010/play/a02c
 #EXTINF:-1,BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g
+http://185.32.44.146/play/a00m
 #EXTINF:-1,BBC EARTH
 http://183.88.212.205:8010/play/a03e 
 #EXTINF:-1,DW TV
@@ -176,7 +178,7 @@ http://185.53.163.85:8888/play/a02o
 #EXTINF:-1, Arena Sport 5
 http://185.53.163.85:8888/play/a034
 #EXTINF:-1,EURO SPORTS 1
-http://183.88.212.205:8010/play/a00d
+http://185.32.44.146/play/a038 
 #EXTINF:-1,EURO SPORTS 2
 http://185.32.44.146/play/a039
 #EXTINF:-1,EURO SPORTS NEWS
@@ -206,7 +208,7 @@ http://183.88.212.205:8010/play/a00z
 #EXTINF:-1,FASHION ONE
 http://183.88.212.205:8010/play/a01v
 #EXTINF:-1,FASHION TV
-http://188.122.246.219:4022/udp/232.0.2.2:1234 
+http://185.32.44.146/play/a05g 
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
