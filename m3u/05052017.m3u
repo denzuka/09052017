@@ -55,6 +55,8 @@ http://183.88.212.205:8010/play/a03c
 http://185.53.163.85:8888/play/a02a
 #EXTINF:-1,SKYNET MOVIES HD
 http://183.88.212.205:8010/play/a00v
+#EXTINF:-1,FOX
+http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1,FOX MOVIES PREMIUM
 http://185.53.163.85:8888/play/a013
 #EXTINF:-1,FOX FAMILY MOVIES
@@ -140,8 +142,10 @@ http://183.88.212.205:8010/play/a03f
 #EXTINF:-1,BOOMERANG
 http://ott1.odessa.tv:7321/index.php?channel=358&amp;amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
 
+#EXTINF:-1,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,BLOOMBERG
-http://185.32.44.146/play/a07c 
+http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
 #EXTINF:-1,FRANCE 24
 http://185.32.44.146/play/a04t 
 #EXTINF:-1,CNN
@@ -153,7 +157,7 @@ http://185.32.44.146/play/a00m
 #EXTINF:-1,BBC EARTH
 http://183.88.212.205:8010/play/a03e 
 #EXTINF:-1,DW TV
-http://183.88.212.205:8010/play/a02g
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:0,NEWS ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,ALJAZEERA ENGLISH
@@ -167,7 +171,9 @@ http://183.88.212.205:8010/play/a028
 #EXTINF:-1,NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
 #EXTINF:-1,FOX NEWS
-http://183.88.212.205:8010/play/a00f 
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1,UNITED ASIA
+http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 
 #EXTINF:-1,BEIN 1 HD
 http://176.31.226.149:25461/live/testest/testest/339.ts
