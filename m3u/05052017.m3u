@@ -44,7 +44,11 @@ http://cdn.live2.metube.id/live/tv/prod/healthbeauty.m3u8
 http://cdn.live.metube.id/foodtravel.m3u8
 #EXTINF:-1,IDX
 http://live.metube.id/tv/channel2000072/index1024.m3u8
-#EXTINF:0 tvg-name="K PLUS",K PLUS
+#EXTINF:-1,HI INDO
+rtmp://118.97.183.222/discover/hiindo
+#EXTINF:-1,Z BIOSKOP
+rtmp://118.97.183.222/discover/zbioskop
+#EXTINF:-1,K PLUS
 rtmp://118.97.183.222/discover/kplus
 
 #EXTINF:-1,HBO
@@ -63,14 +67,10 @@ http://185.53.163.85:8888/play/a013
 http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,FOX CRIME
 http://37.26.84.98:9999/play/a022 
-#EXTINF:-1, FOX LIFE 
+#EXTINF:-1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
 #EXTINF:-1,FX
 http://183.88.212.205:8010/play/a023
-#EXTINF:-1,HI INDO
-rtmp://118.97.183.222/discover/hiindo
-#EXTINF:-1,Z BIOSKOP
-rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,STAR CHINESE MOVIES
 http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,CINEMAX
@@ -108,7 +108,7 @@ http://183.88.212.205:8010/play/a036
 http://183.88.212.205:8010/play/a032
 #EXTINF:-1,DISCOVERY TURBO
 http://185.32.44.146/play/a018 
-#EXTINF:-1,PL: SCIFI UNIVERSAL 
+#EXTINF:-1,SCIFI UNIVERSAL 
 http://46.249.62.20:1824/play/a02f 
 #EXTINF:-1,FYI
 http://183.88.212.205:8010/play/a00k
