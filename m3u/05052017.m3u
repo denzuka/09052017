@@ -150,12 +150,8 @@ http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8
 http://185.32.44.146/play/a04t 
 #EXTINF:-1,CNN
 http://185.32.44.146/play/a00n
-#EXTINF:-1,CNBC
-http://183.88.212.205:8010/play/a02c
 #EXTINF:-1,BBC WORLD NEWS
-http://185.32.44.146/play/a00m
-#EXTINF:-1,BBC EARTH
-http://183.88.212.205:8010/play/a03e 
+http://185.32.44.146/play/a00m 
 #EXTINF:-1,DW TV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:0,NEWS ASIA
@@ -163,13 +159,7 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;re
 #EXTINF:0,ALJAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,ARIRANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
-#EXTINF:-1,KBS WORLD 
-http://183.88.212.205:8010/play/a025 
-#EXTINF:-1,NHK WORLD TV
-http://183.88.212.205:8010/play/a028
-#EXTINF:-1,NHK WORLD PREMIUM
-http://183.88.212.205:8010/play/a027
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 #EXTINF:-1,FOX NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
 #EXTINF:-1,UNITED ASIA
