@@ -82,19 +82,10 @@ http://176.31.226.149:25461/live/testest/testest/341.ts
 http://176.31.226.149:25461/live/testest/testest/345.ts
 #EXTINF:-1,BEIN 11 HD
 http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:-1,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:-1,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-
 #EXTINF:-1,EURO SPORTS 1
-http://185.32.44.146/play/a038 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1418.ts 
 #EXTINF:-1,EURO SPORTS 2
-http://185.32.44.146/play/a039
-#EXTINF:-1,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/144.ts
 #EXTINF:-1,SUPER SPORT 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -123,7 +114,7 @@ http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1423.ts
 http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/134.ts
 #EXTINF:-1,NAT GEO PEOPLE
 http://46.249.62.20:1824/play/a01j 
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1,DISCOVERY CHANNEL
 http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1422.ts
 #EXTINF:-1,DISCOVERY SCIENCE
 http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/135.ts
@@ -158,17 +149,15 @@ http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/234.ts
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/233.ts
 #EXTINF:-1,CINE CLASSIC
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/236.ts
-#EXTINF:-1,CINE Club
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/237.ts
 #EXTINF:-1,CINE FX
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/239.ts
 #EXTINF:-1,CINE POLAR HD
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/238.ts
 #EXTINF:-1,OCS CHOC HD
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/244.ts
-#EXTINF:-1,OCS City
+#EXTINF:-1,OCS CITY
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/243.ts
-#EXTINF:-1,OCS Geants HD
+#EXTINF:-1,OCS GEANTS
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/242.ts
 #EXTINF:-1,OCS MAX
 http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/241.ts
@@ -189,8 +178,8 @@ http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/275.ts
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
-#EXTINF:-1,FRANCE 24
-http://185.32.44.146/play/a04t 
+#EXTINF:-1,CNBC
+http://we-you-iptv.tv:8000/live/2020/2020/2213.ts
 #EXTINF:-1,CNN
 http://185.32.44.146/play/a00n
 #EXTINF:-1,BBC WORLD NEWS
@@ -205,8 +194,6 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 #EXTINF:-1,FOX NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1,UNITED ASIA
-http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
@@ -215,14 +202,14 @@ http://185.53.161.148:8888/play/a006
 #EXTINF:-1, SAUDI CHANNEL 
 http://185.53.161.148:8888/play/a007 
 
-#EXTINF:0,4 MUSIC
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:-1, MTV HITS
-http://185.53.163.85:8888/play/a01k
-#EXTINF:-1,MTV LIVE HD
-http://183.88.212.205:8010/play/a00s 
-#EXTINF:-1,MTV CHINA
-http://183.88.212.205:8010/play/a01s 
+#EXTINF:-1,UK : PREMIER SPORTS
+http://we-you-iptv.tv:8000/live/2020/2020/1713.ts
+#EXTINF:-1,UK : BBC1
+http://we-you-iptv.tv:8000/live/2020/2020/2247.ts
+#EXTINF:-1,UK : 4 SEVEN*
+http://we-you-iptv.tv:8000/live/2020/2020/2255.ts
+#EXTINF:-1,UK : FOOD NETWORK
+http://we-you-iptv.tv:8000/live/2020/2020/2206.ts
 
 
 
