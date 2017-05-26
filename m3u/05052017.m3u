@@ -51,96 +51,139 @@ rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,K PLUS
 rtmp://118.97.183.222/discover/kplus
 
-#EXTINF:-1,HBO
-http://46.249.62.20:1824/play/a01q
-#EXTINF:-1,RED HBO
-http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,AXN
-http://185.53.163.85:8888/play/a02a
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v
+#EXTINF:-1,KIDS CHANNEL
+http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
+#EXTINF:-1,BOOMERANG
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3037.ts
+#EXTINF:-1,DISNEY JUNIOR 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/151.ts
+#EXTINF:-1,DISNEY XD 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/146.ts
+#EXTINF:-1,DISNEY SINEMAGIC 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/150.ts
+#EXTINF:-1,TELETOON
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/148.ts
+#EXTINF:-1,NICKLODEON 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3038.ts
+
+#EXTINF:-1,BEIN 1 HD
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1,BEIN 2 HD
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,BEIN 4 HD
+http://176.31.226.149:25461/live/testest/testest/336.ts
+#EXTINF:-1,BEIN 5 HD
+http://176.31.226.149:25461/live/testest/testest/335.ts
+#EXTINF:-1,BEIN 7 HD
+http://176.31.226.149:25461/live/testest/testest/342.ts
+#EXTINF:-1,BEIN 8 HD
+http://176.31.226.149:25461/live/testest/testest/341.ts
+#EXTINF:-1,BEIN 10 HD
+http://176.31.226.149:25461/live/testest/testest/345.ts
+#EXTINF:-1,BEIN 11 HD
+http://176.31.226.149:25461/live/testest/testest/344.ts
+#EXTINF:-1,FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m
+#EXTINF:-1,FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n
+#EXTINF:-1,FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o
+
+#EXTINF:-1,EURO SPORTS 1
+http://185.32.44.146/play/a038 
+#EXTINF:-1,EURO SPORTS 2
+http://185.32.44.146/play/a039
+#EXTINF:-1,EURO SPORTS NEWS
+http://183.88.212.205:8010/play/a00g 
+#EXTINF:-1,SUPER SPORT 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SUPER SPORT 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,SUPER SPORT 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,SUPER SPORT 4
+http://81.7.13.162/hls/ss4/index.m3u8 
+#EXTINF:0,AD SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0,AD SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,PLANET A&E HD 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/123.ts
+#EXTINF:-1,PLANET+ CI 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/133.ts
+#EXTINF:-1,PLANET+ 
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/132.ts
+#EXTINF:-1,SYFY
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/115.ts
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1423.ts
+#EXTINF:-1,NATIONAL GEO WILD
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/134.ts
+#EXTINF:-1,NAT GEO PEOPLE
+http://46.249.62.20:1824/play/a01j 
+#EXTINF:-1,DISCOVERY
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1422.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/135.ts
+#EXTINF:-1,ANIMAL PLANET
+http://185.32.44.146/play/a017
+
 #EXTINF:-1,FOX
 http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://185.53.163.85:8888/play/a013
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,FOX CRIME
 http://37.26.84.98:9999/play/a022 
 #EXTINF:-1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
-#EXTINF:-1,FX
-http://183.88.212.205:8010/play/a023
-#EXTINF:-1,STAR CHINESE MOVIES
-http://183.88.212.205:8010/play/a02e
-#EXTINF:-1,CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,UNIVERSAL HD
-http://46.249.62.20:1824/play/a026 
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n 
-#EXTINF:-1,ZEE CINEMA
-http://183.88.212.205:8010/play/a01n 
-#EXTINF:-1,STAR WORLD
-http://183.88.212.205:8010/play/a021
-#EXTINF:-1, MGM 
-http://185.53.163.85:8888/play/a038 
-#EXTINF:-1,H2
-http://185.53.163.85:8888/play/a01i
-#EXTINF:-1,SYFY HD 
-http://149.100.19.148:8000/play/a02f 
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://46.249.62.20:1824/play/a022  
-#EXTINF:-1,NAT GEO PEOPLE
-http://46.249.62.20:1824/play/a01j 
-#EXTINF:-1,NAT GEO WILD
-http://185.53.163.85:8888/play/a012 
-#EXTINF:-1,ANIMAL PLANET
-http://185.32.44.146/play/a017 
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.32.44.146/play/a015   
-#EXTINF:-1,DISCOVERY SCIENCE
-http://46.249.62.20:1824/play/a01p 
-#EXTINF:-1,DISCOVERY KIDS
-http://183.88.212.205:8010/play/a036
-#EXTINF:-1,DISCOVERY TLC
-http://183.88.212.205:8010/play/a032
-#EXTINF:-1,DISCOVERY TURBO
-http://185.32.44.146/play/a018 
-#EXTINF:-1,SCIFI UNIVERSAL 
-http://46.249.62.20:1824/play/a02f 
-#EXTINF:-1,FYI
-http://183.88.212.205:8010/play/a00k
-#EXTINF:-1,OUTDOOR CHANNEL
-http://183.88.212.205:8010/play/a03d 
-#EXTINF:-1,SKYNET KNOWLEDGE
-http://183.88.212.205:8010/play/a02w 
-#EXTINF:-1,DMAX
-http://183.88.212.205:8010/play/a035
-#EXTINF:-1,MOTOR VISION
-http://183.88.212.205:8010/play/a03j
-
-#EXTINF:-1,KIDS CHANNEL
-http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://185.53.163.85:8888/play/a00y  
-#EXTINF:-1,DISNEY JUNIOR ASIA
-http://46.249.62.20:1824/play/a01s
-#EXTINF:-1,CARTOON NETWORK
-http://185.32.44.146/play/a03i 
-#EXTINF:-1,NICKELODEON
-http://185.32.44.146/play/a03g
-#EXTINF:-1,NICK JUNIOR
-http://185.32.44.146/play/a03h
-#EXTINF:-1,ANIMAX
-http://183.88.212.205:8010/play/a00h
-#EXTINF:-1,BABY TV
-http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f
-#EXTINF:-1,BOOMERANG
-http://ott1.odessa.tv:7321/index.php?channel=358&amp;amp;key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:-1,CANAL HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/226.ts
+#EXTINF:-1,CANAL DECALE
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/229.ts
+#EXTINF:-1,CANAL CINEMA
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/230.ts
+#EXTINF:-1,CANAL SPORT
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/227.ts
+#EXTINF:-1,CANAL FAMILY
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/228.ts
+#EXTINF:-1,CANAL SERIE
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/231.ts
+#EXTINF:-1,CINE PREMIER
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/232.ts
+#EXTINF:-1,CINE EMOTION
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/235.ts
+#EXTINF:-1,CINE FAMIZ
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/234.ts
+#EXTINF:-1,CINE FRISSON
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/233.ts
+#EXTINF:-1,CINE CLASSIC
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/236.ts
+#EXTINF:-1,CINE Club
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/237.ts
+#EXTINF:-1,CINE FX
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/239.ts
+#EXTINF:-1,CINE POLAR HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/238.ts
+#EXTINF:-1,OCS CHOC HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/244.ts
+#EXTINF:-1,OCS City
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/243.ts
+#EXTINF:-1,OCS Geants HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/242.ts
+#EXTINF:-1,OCS MAX
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/241.ts
+#EXTINF:-1,OCS HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/240.ts
+#EXTINF:-1,COMEDIE HD
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/268.ts
+#EXTINF:-1,SERIE CLUB
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/267.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/272.ts
+#EXTINF:-1,E! ENTERTEINMENT
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/265.ts
+#EXTINF:-1,TCM CINEMA
+http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/275.ts
 
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -165,71 +208,8 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
 #EXTINF:-1,UNITED ASIA
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 
-#EXTINF:-1,BEIN 1 HD
-http://176.31.226.149:25461/live/testest/testest/339.ts
-#EXTINF:-1,BEIN 2 HD
-http://176.31.226.149:25461/live/testest/testest/338.ts
-#EXTINF:-1,BEIN 4 HD
-http://176.31.226.149:25461/live/testest/testest/336.ts
-#EXTINF:-1,BEIN 5 HD
-http://176.31.226.149:25461/live/testest/testest/335.ts
-#EXTINF:-1,BEIN 7 HD
-http://176.31.226.149:25461/live/testest/testest/342.ts
-#EXTINF:-1,BEIN 8 HD
-http://176.31.226.149:25461/live/testest/testest/341.ts
-#EXTINF:-1,BEIN 10 HD
-http://176.31.226.149:25461/live/testest/testest/345.ts
-#EXTINF:-1,BEIN 11 HD
-http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:-1,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:-1,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-#EXTINF:-1, ARENA SPORT 1
-http://185.53.163.85:8888/play/a02l
-#EXTINF:-1, ARENA SPORT 2
-http://185.53.163.85:8888/play/a02m
-#EXTINF:-1, ARENA SPORT 3
-http://185.53.163.85:8888/play/a02n
-#EXTINF:-1, ARENA SPORT 4
-http://185.53.163.85:8888/play/a02o
-#EXTINF:-1, ARENA SPORT 5
-http://185.53.163.85:8888/play/a034
-#EXTINF:-1,EURO SPORTS 1
-http://185.32.44.146/play/a038 
-#EXTINF:-1,EURO SPORTS 2
-http://185.32.44.146/play/a039
-#EXTINF:-1,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g 
-#EXTINF:-1,SUPER SPORT 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,SUPER SPORT 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,SUPER SPORT 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,SUPER SPORT 4
-http://81.7.13.162/hls/ss4/index.m3u8 
-#EXTINF:0,AD SPORTS 1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0,AD SPORTS 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,EDGE SPORTS
-http://183.88.212.205:8010/play/a03i
-#EXTINF:-1,FIGHT SPORTS HD
-http://183.88.212.205:8010/play/a00z 
- 
-
-#EXTINF:-1,FASHION ONE
-http://183.88.212.205:8010/play/a01v
-#EXTINF:-1,FASHION TV
-http://185.32.44.146/play/a05g 
-
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:0,ISLAM CHANNEL
-http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
 #EXTINF:-1, SUNNA TV 
 http://185.53.161.148:8888/play/a006 
 #EXTINF:-1, SAUDI CHANNEL 
@@ -237,10 +217,6 @@ http://185.53.161.148:8888/play/a007
 
 #EXTINF:0,4 MUSIC
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:-1,MUSIC CHANNEL
-http://cdn.metube.id/videom3u8/Nvxz1Z1fFutFN07AL0H6/index.m3u8
-#EXTINF:-1,E!
-http://183.88.212.205:8010/play/a03o 
 #EXTINF:-1, MTV HITS
 http://185.53.163.85:8888/play/a01k
 #EXTINF:-1,MTV LIVE HD
