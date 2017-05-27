@@ -82,14 +82,14 @@ http://176.31.226.149:25461/live/testest/testest/341.ts
 http://176.31.226.149:25461/live/testest/testest/345.ts
 #EXTINF:-1,BEIN 11 HD
 http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1,SUPER SPORT 1
-http://we-you-iptv.tv:8000/live/3030/3030/7156.ts
-#EXTINF:-1,SUPER SPORT 2
-http://we-you-iptv.tv:8000/live/3030/3030/7155.ts
-#EXTINF:-1,SUPER SPORT 3
-http://we-you-iptv.tv:8000/live/3030/3030/7154.ts
-#EXTINF:-1,SUPER SPORT 4
-http://we-you-iptv.tv:8000/live/3030/3030/7153.ts
+#EXTINF:-1,K SPORT 1
+http://we-you-iptv.tv:8000/live/3030/3030/7145.ts
+#EXTINF:-1,K SPORT 2
+http://we-you-iptv.tv:8000/live/3030/3030/7144.ts
+#EXTINF:-1,K SPORT 3
+http://we-you-iptv.tv:8000/live/3030/3030/7143.ts
+#EXTINF:-1,K SPORT 4
+http://we-you-iptv.tv:8000/live/3030/3030/7142.ts
 #EXTINF:-1,EUROSPORT HD
 http://91.237.164.22:8000/play/a00w
 #EXTINF:-1,EUROSPORT 2
@@ -157,8 +157,6 @@ http://we-you-iptv.tv:8000/live/3030/3030/1840.ts
 http://we-you-iptv.tv:8000/live/3030/3030/1844.ts
 #EXTINF:-1,MOVIESMART PREMIUM
 http://we-you-iptv.tv:8000/live/3030/3030/1855.ts
-#EXTINF:-1,SKY ATLANTIC
-http://we-you-iptv.tv:8000/live/3030/3030/1553.ts
 #EXTINF:-1,SKY CINEMA 24
 http://we-you-iptv.tv:8000/live/3030/3030/1572.ts
 #EXTINF:-1,SKY CINEMA 1
@@ -200,7 +198,7 @@ http://91.237.164.22:8000/play/a01b
 http://91.237.164.22:8000/play/a01c
 #EXTINF:-1,MUSIC BOX TV
 http://91.237.164.22:8000/play/a05f
-#EXTINF:-1,MUSIV EU
+#EXTINF:-1,MUSIC EU
 http://91.237.164.22:8000/play/a05t
 
 #EXTINF:0,MAKKAH TV
