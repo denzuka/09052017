@@ -93,6 +93,8 @@ http://81.7.13.162/hls/ss1/index.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,FAST & FUN
+http://91.237.164.22:8000/play/a05s
 
 #EXTINF:-1,NATURE
 http://91.237.164.22:8000/play/a05j
@@ -112,14 +114,12 @@ http://91.237.164.22:8000/play/a066
 http://91.237.164.22:8000/play/a01m
 #EXTINF:-1,FOX
 http://91.237.164.22:8000/play/a011
-#EXTINF:-1,FOX LIVE
-http://91.237.164.22:8000/play/a010
 
-#EXTINF:-1,NAT GEO PEOPLE
-http://46.249.62.20:1824/play/a01j 
 #EXTINF:-1,ANIMAL PLANET
 http://91.237.164.22:8000/play/a008d
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1,NAT GEO PEOPLE
+http://46.249.62.20:1824/play/a01j 
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://91.237.164.22:8000/play/a081i
 #EXTINF:-1,NATIONAL GEO WILD
 http://91.237.164.22:8000/play/a01h
@@ -132,8 +132,6 @@ http://91.237.164.22:8000/play/a080n
 #EXTINF:-1,TRAVEL CHANNEL
 http://91.237.164.22:8000/play/a01z
 
-#EXTINF:-1,FOX
-http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1,FOX CRIME
 http://37.26.84.98:9999/play/a022 
 #EXTINF:-1,FOX LIFE 
@@ -142,11 +140,13 @@ http://37.26.84.98:9999/play/a02d
 http://91.237.164.22:8000/play/a019
 #EXTINF:-1,PARAMOUNT COMEDY
 http://91.237.164.22:8000/play/a01n
-#EXTINF:-1,ТВ1000 COMEDY
+#EXTINF:-1,AMC
+http://91.237.164.22:8000/play/a0807
+#EXTINF:-1,ТV 1000 COMEDY
 http://91.237.164.22:8000/play/a05m
-#EXTINF:-1,ТВ 1000 Action
+#EXTINF:-1,ТV 1000 ACTION
 http://91.237.164.22:8000/play/a05n
-#EXTINF:-1,ТВ 1000+
+#EXTINF:-1,ТV 1000+
 http://91.237.164.22:8000/play/a05l
 
 
@@ -154,12 +154,8 @@ http://91.237.164.22:8000/play/a05l
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1,BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
-#EXTINF:-1,CNBC
-http://we-you-iptv.tv:8000/live/2020/2020/2213.ts
-#EXTINF:-1,CNN
-http://185.32.44.146/play/a00n
-#EXTINF:-1,BBC WORLD NEWS
-http://185.32.44.146/play/a00m 
+#EXTINF:-1,BBC WORLD
+http://91.237.164.22:8000/play/a00e 
 #EXTINF:-1,DW TV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,EURONEWS
@@ -170,23 +166,10 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;re
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
-#EXTINF:-1,FOX NEWS
-http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1,AMC
-http://91.237.164.22:8000/play/a0807
-#EXTINF:-1,FAST & FUN
-http://91.237.164.22:8000/play/a05s
-
-#EXTINF:0,MAKKAH TV
-http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:-1, SUNNA TV 
-http://185.53.161.148:8888/play/a006 
-#EXTINF:-1, SAUDI CHANNEL 
-http://185.53.161.148:8888/play/a007
 
 #EXTINF:-1,MTV ROCK
 http://91.237.164.22:8000/play/a01f
-#EXTINF:-1,MTV Hits UK
+#EXTINF:-1,MTV HITS UK
 http://91.237.164.22:8000/play/a01d
 #EXTINF:-1,MTV DANCE
 http://91.237.164.22:8000/play/a01b
@@ -196,6 +179,12 @@ http://91.237.164.22:8000/play/a01c
 http://91.237.164.22:8000/play/a05f
 #EXTINF:-1,MUSIV EU
 http://91.237.164.22:8000/play/a05t
+
+#EXTINF:0,MAKKAH TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:-1, SUNNA TV 
+http://185.53.161.148:8888/play/a006 
+
 
 
 
