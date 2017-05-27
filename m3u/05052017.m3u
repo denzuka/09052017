@@ -53,18 +53,18 @@ rtmp://118.97.183.222/discover/kplus
 
 #EXTINF:-1,KIDS CHANNEL
 http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
+#EXTINF:-1,NICKLODEON HD
+http://91.237.164.22:8000/play/a01l
+#EXTINF:-1,NICK JR
+http://91.237.164.22:8000/play/a01k
 #EXTINF:-1,BOOMERANG
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3037.ts
-#EXTINF:-1,DISNEY JUNIOR 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/151.ts
-#EXTINF:-1,DISNEY XD 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/146.ts
-#EXTINF:-1,DISNEY SINEMAGIC 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/150.ts
-#EXTINF:-1,TELETOON
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/148.tS
-#EXTINF:-1,NICKLODEON 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3038.ts
+http://91.237.164.22:8000/play/a022
+#EXTINF:-1,DISNEY CHANNEL
+http://91.237.164.22:8000/play/a02o
+#EXTINF:-1,JIMJAM
+http://91.237.164.22:8000/play/a015
+#EXTINF:-1,CARTOON NETWORK
+http://91.237.164.22:8000/play/a00h
 
 #EXTINF:-1,BEIN 1 HD
 http://176.31.226.149:25461/live/testest/testest/339.ts
@@ -82,44 +82,55 @@ http://176.31.226.149:25461/live/testest/testest/341.ts
 http://176.31.226.149:25461/live/testest/testest/345.ts
 #EXTINF:-1,BEIN 11 HD
 http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1,EURO SPORTS 1
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1418.ts 
-#EXTINF:-1,EURO SPORTS 2
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/144.ts
-#EXTINF:-1,SUPER SPORT 1
+#EXTINF:-1,EUROSPORT HD
+http://91.237.164.22:8000/play/a00w
+#EXTINF:-1,EUROSPORT 2
+http://91.237.164.22:8000/play/a00v
+#EXTINF:-1,EXTREME SPORT
+http://91.237.164.22:8000/play/a00x
 http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,SUPER SPORT 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,SUPER SPORT 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,SUPER SPORT 4
-http://81.7.13.162/hls/ss4/index.m3u8 
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1,PLANET A&E HD 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/123.ts
-#EXTINF:-1,PLANET+ CI 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/133.ts
-#EXTINF:-1,PLANET+ 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/132.ts
-#EXTINF:-1,SYFY
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/115.ts
+#EXTINF:-1,NATURE
+http://91.237.164.22:8000/play/a05j
+#EXTINF:-1,HD LIFE
+http://91.237.164.22:8000/play/a013
+#EXTINF:-1,HISTORY
+http://91.237.164.22:8000/play/a014
+#EXTINF:-1,TLC
+http://91.237.164.22:8000/play/a01x
+#EXTINF:-1,SONY TURBO
+http://91.237.164.22:8000/play/a067
+#EXTINF:-1,SONY SCI-FI
+http://91.237.164.22:8000/play/a057
+#EXTINF:-1,SONY ТВ
+http://91.237.164.22:8000/play/a066
+#EXTINF:-1,OUTDOOR CHANNEL
+http://91.237.164.22:8000/play/a01m
+#EXTINF:-1,FOX
+http://91.237.164.22:8000/play/a011
+#EXTINF:-1,FOX LIVE
+http://91.237.164.22:8000/play/a010
 
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1423.ts
-#EXTINF:-1,NATIONAL GEO WILD
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/134.ts
 #EXTINF:-1,NAT GEO PEOPLE
 http://46.249.62.20:1824/play/a01j 
-#EXTINF:-1,DISCOVERY CHANNEL
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1422.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/135.ts
 #EXTINF:-1,ANIMAL PLANET
-http://185.32.44.146/play/a017
+http://91.237.164.22:8000/play/a008d
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://91.237.164.22:8000/play/a081i
+#EXTINF:-1,NATIONAL GEO WILD
+http://91.237.164.22:8000/play/a01h
+#EXTINF:-1,DISCOVERY PEOPLE
+http://91.237.164.22:8000/play/a080o
+#EXTINF:-1,DISCOVERY HANNEL
+http://91.237.164.22:8000/play/a05z
+#EXTINF:-1,DISCOVERY TURBO
+http://91.237.164.22:8000/play/a080n
+#EXTINF:-1,TRAVEL CHANNEL
+http://91.237.164.22:8000/play/a01z
 
 #EXTINF:-1,FOX
 http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
@@ -127,52 +138,17 @@ http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 http://37.26.84.98:9999/play/a022 
 #EXTINF:-1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
-#EXTINF:-1,CANAL HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/226.ts
-#EXTINF:-1,CANAL DECALE
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/229.ts
-#EXTINF:-1,CANAL CINEMA
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/230.ts
-#EXTINF:-1,CANAL SPORT
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/227.ts
-#EXTINF:-1,CANAL FAMILY
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/228.ts
-#EXTINF:-1,CANAL SERIE
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/231.ts
-#EXTINF:-1,CINE PREMIER
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/232.ts
-#EXTINF:-1,CINE EMOTION
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/235.ts
-#EXTINF:-1,CINE FAMIZ
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/234.ts
-#EXTINF:-1,CINE FRISSON
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/233.ts
-#EXTINF:-1,CINE CLASSIC
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/236.ts
-#EXTINF:-1,CINE FX
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/239.ts
-#EXTINF:-1,CINE POLAR HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/238.ts
-#EXTINF:-1,OCS CHOC HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/244.ts
-#EXTINF:-1,OCS CITY
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/243.ts
-#EXTINF:-1,OCS GEANTS
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/242.ts
-#EXTINF:-1,OCS MAX
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/241.ts
-#EXTINF:-1,OCS HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/240.ts
-#EXTINF:-1,COMEDIE HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/268.ts
-#EXTINF:-1,SERIE CLUB
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/267.ts
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/272.ts
-#EXTINF:-1,E! ENTERTEINMENT
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/265.ts
-#EXTINF:-1,TCM CINEMA
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/275.ts
+#EXTINF:-1,MGM HD
+http://91.237.164.22:8000/play/a019
+#EXTINF:-1,PARAMOUNT COMEDY
+http://91.237.164.22:8000/play/a01n
+#EXTINF:-1,ТВ1000 COMEDY
+http://91.237.164.22:8000/play/a05m
+#EXTINF:-1,ТВ 1000 Action
+http://91.237.164.22:8000/play/a05n
+#EXTINF:-1,ТВ 1000+
+http://91.237.164.22:8000/play/a05l
+
 
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -186,6 +162,8 @@ http://185.32.44.146/play/a00n
 http://185.32.44.146/play/a00m 
 #EXTINF:-1,DW TV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,EURONEWS
+http://91.237.164.22:8000/play/a00u
 #EXTINF:0,NEWS ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,ALJAZEERA ENGLISH
@@ -194,6 +172,10 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 #EXTINF:-1,FOX NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1,AMC
+http://91.237.164.22:8000/play/a0807
+#EXTINF:-1,FAST & FUN
+http://91.237.164.22:8000/play/a05s
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
@@ -201,6 +183,19 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 http://185.53.161.148:8888/play/a006 
 #EXTINF:-1, SAUDI CHANNEL 
 http://185.53.161.148:8888/play/a007
+
+#EXTINF:-1,MTV ROCK
+http://91.237.164.22:8000/play/a01f
+#EXTINF:-1,MTV Hits UK
+http://91.237.164.22:8000/play/a01d
+#EXTINF:-1,MTV DANCE
+http://91.237.164.22:8000/play/a01b
+#EXTINF:-1,MTV EUROPEAN
+http://91.237.164.22:8000/play/a01c
+#EXTINF:-1,MUSIC BOX TV
+http://91.237.164.22:8000/play/a05f
+#EXTINF:-1,MUSIV EU
+http://91.237.164.22:8000/play/a05t
 
 
 
