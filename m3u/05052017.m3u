@@ -31,7 +31,6 @@ https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 #EXTINF:-1,MQTV
 rtmp://118.97.183.222/discover/mqtv
-
 #EXTINF:-1,COMEDY CH
 http://cdn-live.metube.id/comedy.m3u8
 #EXTINF:-1,DRAMA CH
@@ -50,7 +49,6 @@ rtmp://118.97.183.222/discover/hiindo
 rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,K PLUS
 rtmp://118.97.183.222/discover/kplus
-
 #EXTINF:-1,KIDS CHANNEL
 http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
 #EXTINF:-1,NICKLODEON HD
@@ -82,20 +80,6 @@ http://176.31.226.149:25461/live/testest/testest/341.ts
 http://176.31.226.149:25461/live/testest/testest/345.ts
 #EXTINF:-1,BEIN 11 HD
 http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1,K SPORT 1
-http://we-you-iptv.tv:8000/live/3030/3030/7145.ts
-#EXTINF:-1,K SPORT 2
-http://we-you-iptv.tv:8000/live/3030/3030/7144.ts
-#EXTINF:-1,K SPORT 3
-http://we-you-iptv.tv:8000/live/3030/3030/7143.ts
-#EXTINF:-1,K SPORT 4
-http://we-you-iptv.tv:8000/live/3030/3030/7142.ts
-#EXTINF:-1,EUROSPORT HD
-http://91.237.164.22:8000/play/a00w
-#EXTINF:-1,EUROSPORT 2
-http://91.237.164.22:8000/play/a00v
-#EXTINF:-1,EXTREME SPORT
-http://91.237.164.22:8000/play/a00x
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
