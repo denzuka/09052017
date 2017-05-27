@@ -103,6 +103,104 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,FAST & FUN
 http://91.237.164.22:8000/play/a05s
 
+#EXTINF:-1,A&E 
+http://167.114.116.16:2095/live/leetv/leetv1/672.ts
+#EXTINF:-1,ANIMAL PLANET
+http://167.114.116.16:2095/live/leetv/leetv1/671.ts
+#EXTINF:-1,BBC AMERICA 
+http://167.114.116.16:2095/live/leetv/leetv1/628.ts
+#EXTINF:-1,BET
+http://167.114.116.16:2095/live/leetv/leetv1/630.ts
+#EXTINF:-1,CARTOON NETWORK
+http://167.114.116.16:2095/live/leetv/leetv1/670.ts
+#EXTINF:-1,CBS
+http://167.114.116.16:2095/live/leetv/leetv1/669.ts
+#EXTINF:-1,CBS NEWS
+http://167.114.116.16:2095/live/leetv/leetv1/653.ts
+#EXTINF:-1,CNN
+http://167.114.116.16:2095/live/leetv/leetv1/668.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://167.114.116.16:2095/live/leetv/leetv1/667.ts
+#EXTINF:-1,COOKING CHANNEL 
+http://167.114.116.16:2095/live/leetv/leetv1/627.ts
+#EXTINF:-1,CW
+http://167.114.116.16:2095/live/leetv/leetv1/666.ts
+#EXTINF:-1,DESTINATION AMERICA
+http://167.114.116.16:2095/live/leetv/leetv1/621.ts
+#EXTINF:-1,DISCOVERY
+http://167.114.116.16:2095/live/leetv/leetv1/652.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://167.114.116.16:2095/live/leetv/leetv1/651.ts
+#EXTINF:-1,DIY
+http://167.114.116.16:2095/live/leetv/leetv1/650.ts
+#EXTINF:-1,E! 
+http://167.114.116.16:2095/live/leetv/leetv1/655.ts
+#EXTINF:-1,ESPN2 
+http://167.114.116.16:2095/live/leetv/leetv1/616.ts
+#EXTINF:-1,FOOD NETWORK
+http://167.114.116.16:2095/live/leetv/leetv1/626.ts
+#EXTINF:-1,FOX
+http://167.114.116.16:2095/live/leetv/leetv1/665.ts
+#EXTINF:-1,FOXSPORT1 
+http://167.114.116.16:2095/live/leetv/leetv1/625.ts
+#EXTINF:-1,FX
+http://167.114.116.16:2095/live/leetv/leetv1/664.ts
+#EXTINF:-1,FX2
+http://167.114.116.16:2095/live/leetv/leetv1/635.ts
+#EXTINF:-1,FYI
+http://167.114.116.16:2095/live/leetv/leetv1/643.ts
+#EXTINF:-1,H2
+http://167.114.116.16:2095/live/leetv/leetv1/633.ts
+#EXTINF:-1,HBO COMEDY 
+http://167.114.116.16:2095/live/leetv/leetv1/624.ts
+#EXTINF:-1,HBO FAMILY 
+http://167.114.116.16:2095/live/leetv/leetv1/623.ts
+#EXTINF:-1,HBO
+http://167.114.116.16:2095/live/leetv/leetv1/634.ts
+#EXTINF:-1,HBO SIGNATURE 
+http://167.114.116.16:2095/live/leetv/leetv1/642.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY 
+http://167.114.116.16:2095/live/leetv/leetv1/641.ts
+#EXTINF:-1,LIFE TIME
+http://167.114.116.16:2095/live/leetv/leetv1/663.ts
+#EXTINF:-1,MOVIE NETWORK
+http://167.114.116.16:2095/live/leetv/leetv1/649.ts
+#EXTINF:-1,MLB LIVE
+http://167.114.116.16:2095/live/leetv/leetv1/721.ts
+#EXTINF:-1,MLB LIVE2
+http://167.114.116.16:2095/live/leetv/leetv1/720.ts
+#EXTINF:-1,MLB NETWORK
+http://167.114.116.16:2095/live/leetv/leetv1/719.ts
+#EXTINF:-1,MSNBC 
+http://167.114.116.16:2095/live/leetv/leetv1/640.ts
+#EXTINF:-1,SHOWTIME
+http://167.114.116.16:2095/live/leetv/leetv1/638.ts
+#EXTINF:-1,SPIKE
+http://167.114.116.16:2095/live/leetv/leetv1/659.ts
+#EXTINF:-1,STARZ CINEMA 
+http://167.114.116.16:2095/live/leetv/leetv1/636.ts
+#EXTINF:-1,STARZ EAST free
+http://167.114.116.16:2095/live/leetv/leetv1/637.ts
+#EXTINF:-1,SYFY
+http://167.114.116.16:2095/live/leetv/leetv1/658.ts
+#EXTINF:-1,TBS
+http://167.114.116.16:2095/live/leetv/leetv1/657.ts
+#EXTINF:-1,TNT
+http://167.114.116.16:2095/live/leetv/leetv1/656.ts
+#EXTINF:-1,TRUTV
+http://167.114.116.16:2095/live/leetv/leetv1/648.ts
+#EXTINF:-1,SPIKE
+http://167.114.116.16:2095/live/leetv/leetv1/777.ts
+#EXTINF:-1,SPORTSNET WORLD HD
+http://167.114.116.16:2095/live/leetv/leetv1/776.ts
+#EXTINF:-1,TELETOON
+http://167.114.116.16:2095/live/leetv/leetv1/775.ts
+#EXTINF:-1,THE MOVIE NETWORK
+http://167.114.116.16:2095/live/leetv/leetv1/774.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://167.114.116.16:2095/live/leetv/leetv1/773.ts
+
+
 #EXTINF:-1,NATURE
 http://91.237.164.22:8000/play/a05j
 #EXTINF:-1,HD LIFE
