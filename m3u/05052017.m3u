@@ -157,6 +157,20 @@ http://we-you-iptv.tv:8000/live/3030/3030/1840.ts
 http://we-you-iptv.tv:8000/live/3030/3030/1844.ts
 #EXTINF:-1,MOVIESMART PREMIUM
 http://we-you-iptv.tv:8000/live/3030/3030/1855.ts
+#EXTINF:-1,SKY ATLANTIC
+http://we-you-iptv.tv:8000/live/3030/3030/1553.ts
+#EXTINF:-1,SKY CINEMA 24
+http://we-you-iptv.tv:8000/live/3030/3030/1572.ts
+#EXTINF:-1,SKY CINEMA 1
+http://we-you-iptv.tv:8000/live/3030/3030/1571.ts
+#EXTINF:-1,SKY CINEMA COMEDY
+http://we-you-iptv.tv:8000/live/3030/3030/1570.ts
+#EXTINF:-1,SKY CINEMA FAMILY
+http://we-you-iptv.tv:8000/live/3030/3030/1568.ts
+#EXTINF:-1,SKY CINEMA MAX
+http://we-you-iptv.tv:8000/live/3030/3030/1567.ts
+#EXTINF:-1,SKY CINEMA PASSION
+http://we-you-iptv.tv:8000/live/3030/3030/1565.ts
 
 #EXTINF:-1,TRING FANTASY
 http://we-you-iptv.tv:8000/live/3030/3030/7193.ts
