@@ -143,18 +143,37 @@ http://91.237.164.22:8000/play/a011
 http://37.26.84.98:9999/play/a022 
 #EXTINF:-1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
-#EXTINF:-1,MGM HD
-http://91.237.164.22:8000/play/a019
-#EXTINF:-1,PARAMOUNT COMEDY
-http://91.237.164.22:8000/play/a01n
-#EXTINF:-1,AMC
-http://91.237.164.22:8000/play/a0807
-#EXTINF:-1,ТV 1000 COMEDY
-http://91.237.164.22:8000/play/a05m
-#EXTINF:-1,ТV 1000 ACTION
-http://91.237.164.22:8000/play/a05n
-#EXTINF:-1,ТV 1000+
-http://91.237.164.22:8000/play/a05l
+#EXTINF:-1,MOVIESMART FAMILY
+http://we-you-iptv.tv:8000/live/3030/3030/1853.ts
+#EXTINF:-1,MOVIESMART FAMILY+
+http://we-you-iptv.tv:8000/live/3030/3030/1842.ts
+#EXTINF:-1,MOVIESMART FEST+
+http://we-you-iptv.tv:8000/live/3030/3030/1846.ts
+#EXTINF:-1,MOVIESMART GOLD
+http://we-you-iptv.tv:8000/live/3030/3030/1854.ts
+#EXTINF:-1,MOVIESMART GOLD+
+http://we-you-iptv.tv:8000/live/3030/3030/1840.ts
+#EXTINF:-1,MOVIESMART PLATININUM
+http://we-you-iptv.tv:8000/live/3030/3030/1844.ts
+#EXTINF:-1,MOVIESMART PREMIUM
+http://we-you-iptv.tv:8000/live/3030/3030/1855.ts
+
+#EXTINF:-1,TRING FANTASY
+http://we-you-iptv.tv:8000/live/3030/3030/7193.ts
+#EXTINF:-1,TRING HISTORY
+http://we-you-iptv.tv:8000/live/3030/3030/7174.ts
+#EXTINF:-1,TRING COMEDY
+http://we-you-iptv.tv:8000/live/3030/3030/7190.ts
+#EXTINF:-1,TRING LIVE
+http://we-you-iptv.tv:8000/live/3030/3030/7192.ts
+#EXTINF:-1,TRING MAX
+http://we-you-iptv.tv:8000/live/3030/3030/7195.ts
+#EXTINF:-1,TRING PLANET
+http://we-you-iptv.tv:8000/live/3030/3030/7175.ts
+#EXTINF:-1,TRING SHIP
+http://we-you-iptv.tv:8000/live/3030/3030/7191.ts
+#EXTINF:-1,TRING WORLD
+http://we-you-iptv.tv:8000/live/3030/3030/7176.ts
 
 
 #EXTINF:-1,ABC NEWS
