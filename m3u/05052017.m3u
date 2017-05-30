@@ -41,16 +41,9 @@ rtmp://118.97.183.222/discover/hiindo
 rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1,K PLUS
 rtmp://118.97.183.222/discover/kplus
+
 #EXTINF:-1,KIDS CHANNEL
 http://cdn.live2.metube.id/live/tv/prod/kidschannel.m3u8
-#EXTINF:-1,NICK JR
-http://91.237.164.22:8000/play/a01k
-#EXTINF:-1,BOOMERANG
-http://91.237.164.22:8000/play/a022
-#EXTINF:-1,DISNEY CHANNEL
-http://91.237.164.22:8000/play/a02o
-#EXTINF:-1,JIM JAM
-http://91.237.164.22:8000/play/a015
 #EXTINF:-1,CARTOON NETWORK
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
 #EXTINF:-1,CN
@@ -59,6 +52,14 @@ http://theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/775.ts
 #EXTINF:-1,NICK
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
+#EXTINF:-1,NICK JR
+http://91.237.164.22:8000/play/a01k
+#EXTINF:-1,BOOMERANG
+http://91.237.164.22:8000/play/a022
+#EXTINF:-1,DISNEY CHANNEL
+http://91.237.164.22:8000/play/a02o
+#EXTINF:-1,JIM JAM
+http://91.237.164.22:8000/play/a015
 
 #EXTINF:-1,BEIN 1 HD
 http://176.31.226.149:25461/live/testest/testest/339.ts
@@ -76,81 +77,78 @@ http://176.31.226.149:25461/live/testest/testest/341.ts
 http://176.31.226.149:25461/live/testest/testest/345.ts
 #EXTINF:-1,BEIN 11 HD
 http://176.31.226.149:25461/live/testest/testest/344.ts
+#EXTINF:-1,Arena Sport 1 
+http://185.53.163.85:8888/play/a02l 
+#EXTINF:-1,Arena Sport 2 
+http://185.53.163.85:8888/play/a02m 
+#EXTINF:-1,Arena Sport 3 
+http://185.53.163.85:8888/play/a02n 
+#EXTINF:-1,Arena Sport 4 
+http://185.53.163.85:8888/play/a02o 
+#EXTINF:-1,Arena Sport 5 
+http://185.53.163.85:8888/play/a034 
 #EXTINF:0,AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,FOXSPORT
+#EXTINF:1,FOXSPORT
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
 #EXTINF:1,EUROSPORT
 http://178.192.242.14:9000/play/a079
-#EXTINF:-1,ESPN
-http://theplayersklub.host:2095/live/simplycaz/simplycaz/616.ts
-#EXTINF:-1,NBA TV
-http://theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
-#EXTINF:-1,NBA LEAGUE PASS LIVE 1
-http://theplayersklub.host:2095/live/simplycaz/simplycaz/718.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://theplayersklub.host:2095/live/simplycaz/simplycaz/776.ts
-#EXTINF:-1,WORLD FISHING
+#EXTINF:1,ESPN
+#EXTINF:1,WORLD FISHING
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/769.ts
-#EXTINF:-1,WWE
+#EXTINF:1,WWE
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts 
-#EXTINF:1, SPORTING TV 
-http://178.192.242.14:9000/play/a07y 
-#EXTINF:1,SPORT TV 3 
-http://178.192.242.14:9000/play/a08b
-#EXTINF:1,SPORT TV 5 
-http://178.192.242.14:9000/play/a082  
-#EXTINF:1,KOMBAT SPORT 
+#EXTINF:1,FIGHT SPORT 
 http://178.192.242.14:9000/play/a089 
-#EXTINF:-1,OUTDOOR CHANNEL
+#EXTINF:1,OUTDOOR CHANNEL
 http://91.237.164.22:8000/play/a01m
 
-#EXTINF:-1,NAT GEO PEOPLE
+#EXTINF:1,NAT GEO PEOPLE
 http://46.249.62.20:1824/play/a01j 
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:1,NATIONAL GEOGRAPHIC
 http://91.237.164.22:8000/play/a081i
-#EXTINF:-1,NATIONAL GEO WILD
+#EXTINF:1,NATIONAL GEO WILD
 http://91.237.164.22:8000/play/a01h
-#EXTINF:-1,DISCOVERY
+#EXTINF:1,DISCOVERY
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:1,DISCOVERY SCIENCE
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
-#EXTINF:-1,DISCOVERY PEOPLE
+#EXTINF:1,DISCOVERY PEOPLE
 http://91.237.164.22:8000/play/a080o
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:1,DISCOVERY TURBO
 http://91.237.164.22:8000/play/a080n
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:1,ANIMAL PLANET
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:1,TRAVEL CHANNEL
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/773.ts
-#EXTINF:-1,DESTINATION AMERICA
+#EXTINF:1,DESTINATION AMERICA
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
 
-#EXTINF:-1,HBO
+#EXTINF:1,HBO
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
-#EXTINF:-1,HBO COMEDY
+#EXTINF:1,HBO COMEDY
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
-#EXTINF:-1,HBO FAMILY 
+#EXTINF:1,HBO FAMILY 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
-#EXTINF:-1,HBO SIGNATURE
+#EXTINF:1,HBO SIGNATURE
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
-#EXTINF:-1,FOX 
+#EXTINF:1,FOX 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
 #EXTINF:1,FOX COMEDY 
 http://178.192.242.14:9000/play/a06w
 #EXTINF:0,FOX CRIME
 http://178.192.242.14:9000/play/a00m 
-#EXTINF:-1,FOX LIFE 
+#EXTINF:1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
-#EXTINF:-1,CBS
+#EXTINF:1,CBS
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
-#EXTINF:-1,THE MOVIE NETWORK
+#EXTINF:1,THE MOVIE NETWORK
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/774.ts
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:1,STARZ CINEMA
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
-#EXTINF:-1,LIVETIME MOVIES NETWORK
+#EXTINF:1,LIVETIME MOVIES NETWORK
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
 #EXTINF:1,TV CINE 2 
 http://178.192.242.14:9000/play/a00t 
@@ -158,55 +156,60 @@ http://178.192.242.14:9000/play/a00t
 http://178.192.242.14:9000/play/a00r  
 #EXTINF:1,HOLLIWOOD 
 http://178.192.242.14:9000/play/a088
-http://theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
 
-#EXTINF:-1,BBC WORLD
+#EXTINF:1,BBC WORLD
 http://91.237.164.22:8000/play/a00e 
-#EXTINF:-1,BBC AMERICA
+#EXTINF:1,BBC AMERICA
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
-#EXTINF:-1,CNN
+#EXTINF:1,CNN
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
-#EXTINF:-1,NBC
+#EXTINF:1,NBC
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts
-#EXTINF:-1,MSNBC
+#EXTINF:1,MSNBC
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
-#EXTINF:-1,ABC NEWS
+#EXTINF:1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,CBS NEWS
+#EXTINF:1,CBS NEWS
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/653.ts
 #EXTINF:1,SKY NEWS 
 http://178.192.242.14:9000/play/a081 
-#EXTINF:-1,BLOOMBERG
+#EXTINF:1,BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
-#EXTINF:-1,DW TV
+#EXTINF:1,DW TV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,EURONEWS
+#EXTINF:1,EURONEWS
 http://91.237.164.22:8000/play/a00u
-#EXTINF:0,NEWS ASIA
+#EXTINF:1,NEWS ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,ALJAZEERA ENGLISH
+#EXTINF:1,ALJAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:0,ARIRANG KOREA
+#EXTINF:1,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 
-#EXTINF:-1,A&E 
+#EXTINF:1,A&E 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-#EXTINF:-1,COMEDI CENTRAL
+#EXTINF:1,COMEDI CENTRAL
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
-#EXTINF:-1,COOKING CHANNEL 
+#EXTINF:1,COOKING CHANNEL 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
-#EXTINF:-1,FOOD NETWORK 
+#EXTINF:1,FOOD NETWORK 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
-#EXTINF:-1,DIY 
+#EXTINF:1,DIY 
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
-#EXTINF:-1,E!
+#EXTINF:1,E!
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
-#EXTINF:-1,FXX
+#EXTINF:1,FXX
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
-#EXTINF:-1,FYI
+#EXTINF:1,FYI
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
-#EXTINF:-1,H2
+#EXTINF:1,H2
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
+#EXTINF:1,SONY TURBO
+http://91.237.164.22:8000/play/a067
+#EXTINF:1,SONY SCI-FI
+http://91.237.164.22:8000/play/a057
+#EXTINF:1,SONY ТВ
+http://91.237.164.22:8000/play/a066
 #EXTINF:1,SIC RADICAL 
 http://178.192.242.14:9000/play/a06s 
 #EXTINF:1,LIVE STYLE
@@ -223,18 +226,12 @@ http://178.192.242.14:9000/play/a07a
 http://178.192.242.14:9000/play/a08g 
 #EXTINF:-1,NATURE
 http://91.237.164.22:8000/play/a05j
-#EXTINF:-1,HD LIFE
+#EXTINF:1,HD LIFE
 http://91.237.164.22:8000/play/a013
-#EXTINF:-1,HISTORY
+#EXTINF:1,HISTORY
 http://91.237.164.22:8000/play/a014
-#EXTINF:-1,TLC
+#EXTINF:1,TLC
 http://91.237.164.22:8000/play/a01x
-#EXTINF:-1,SONY TURBO
-http://91.237.164.22:8000/play/a067
-#EXTINF:-1,SONY SCI-FI
-http://91.237.164.22:8000/play/a057
-#EXTINF:-1,SONY ТВ
-http://91.237.164.22:8000/play/a066
 #EXTINF:1,TV GALICIA 
 http://178.192.242.14:9000/play/a075 
 #EXTINF:1,SIC K
@@ -248,20 +245,20 @@ http://178.192.242.14:9000/play/a06v
 #EXTINF:1,KICTHEN HD
 http://178.192.242.14:9000/play/a00l 
 
-#EXTINF:-1,MTV ROCK
+#EXTINF:1,MTV ROCK
 http://91.237.164.22:8000/play/a01f
-#EXTINF:-1,MTV HITS UK
+#EXTINF:1,MTV HITS UK
 http://91.237.164.22:8000/play/a01d
-#EXTINF:-1,MTV DANCE
+#EXTINF:1,MTV DANCE
 http://91.237.164.22:8000/play/a01b
-#EXTINF:-1,MTV EUROPEAN
+#EXTINF:1,MTV EUROPEAN
 http://91.237.164.22:8000/play/a01c
-#EXTINF:-1,MUSIC BOX TV
+#EXTINF:1,MUSIC BOX TV
 http://91.237.164.22:8000/play/a05f
 
-#EXTINF:0,MAKKAH TV
+#EXTINF:1,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:-1, SUNNA TV 
+#EXTINF:1,SUNNA TV 
 http://185.53.161.148:8888/play/a006 
 
 
