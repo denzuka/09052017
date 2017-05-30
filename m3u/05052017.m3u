@@ -4,9 +4,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3
 #EXTINF:-1,MNCTV
 http://cdn.live.metube.id/tv/channel2000022/index.m3u8
 #EXTINF:-1,RCTI
-http://cdn.live.metube.id/rcti.m3u8
+http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,INEWS
-http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
+https://stream.sindonews.net/live/inewstvokezone.com.m3u8
 #EXTINF:-1,GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
 #EXTINF:-1,SCTV
@@ -84,82 +84,18 @@ http://176.31.226.149:25461/live/testest/testest/344.ts
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,FAST & FUN
-http://91.237.164.22:8000/play/a05s
-
-#EXTINF:1,A&E 
-http://178.192.242.14:9000/play/a019 
-#EXTINF:1,TV GALICIA 
-http://178.192.242.14:9000/play/a075 
-#EXTINF:1,TV CINE 2 
-http://178.192.242.14:9000/play/a00t 
-#EXTINF:1, SPORTING TV 
-http://178.192.242.14:9000/play/a07y 
-#EXTINF:1. SIC K
-http://178.192.242.14:9000/play/a08h  
-#EXTINF:1,TV STORIES 
-http://178.192.242.14:9000/play/a00s  
-#EXTINF:1,BIGGS 
-http://178.192.242.14:9000/play/a01d 
-#EXTINF:1,TV CINE 3
-http://178.192.242.14:9000/play/a00r  
-#EXTINF:1,HOLLIWOOD 
-http://178.192.242.14:9000/play/a088 
-#EXTINF:1,SPORT TV 5 
-http://178.192.242.14:9000/play/a082 
-#EXTINF:1,TV MEMORIA
-http://178.192.242.14:9000/play/a06v 
-#EXTINF:KICTHEN HD
-http://178.192.242.14:9000/play/a00l 
-#EXTINF:1,EUROSPORT 
-http://178.192.242.14:9000/play/a00p  
-#EXTINF:1,HOT 
-http://178.192.242.14:9000/play/a083 
-#EXTINF:1,SIC RADICAL 
-http://178.192.242.14:9000/play/a06s 
-#EXTINF:1,BBC WORLD NEWS 
-http://178.192.242.14:9000/play/a01h 
-#EXTINF:1,LIVE STYLE
-http://178.192.242.14:9000/play/a087 
-#EXTINF:1,SPORT TV 3 
-http://178.192.242.14:9000/play/a08b 
-#EXTINF:1,SKY News 
-http://178.192.242.14:9000/play/a081 
-#EXTINF:TRAVEL CHANNEL 
-http://178.192.242.14:9000/play/a07e 
-#EXTINF:1,TLC 
-http://178.192.242.14:9000/play/a080 
-#EXTINF:0,FOX CRIME
-http://178.192.242.14:9000/play/a00m 
-#EXTINF:1,SIC MULHER 
-http://178.192.242.14:9000/play/a07z 
-#EXTINF:1,CA
-http://178.192.242.14:9000/play/a08l 
-#EXTINF:1,MCM POP 
-http://178.192.242.14:9000/play/a07a 
 #EXTINF:1,EUROSPORT 2
 http://178.192.242.14:9000/play/a079 
-#EXTINF:1,AMC 
-http://178.192.242.14:9000/play/a08g 
+#EXTINF:1, SPORTING TV 
+http://178.192.242.14:9000/play/a07y 
+#EXTINF:1,SPORT TV 5 
+http://178.192.242.14:9000/play/a082 
+#EXTINF:1,EUROSPORT 
+http://178.192.242.14:9000/play/a00p  
+#EXTINF:1,SPORT TV 3 
+http://178.192.242.14:9000/play/a08b
 #EXTINF:1,KOMBAT SPORT 
 http://178.192.242.14:9000/play/a089 
-#EXTINF:1,FOX COMEDY 
-http://178.192.242.14:9000/play/a06w
-
-#EXTINF:-1,NATURE
-http://91.237.164.22:8000/play/a05j
-#EXTINF:-1,HD LIFE
-http://91.237.164.22:8000/play/a013
-#EXTINF:-1,HISTORY
-http://91.237.164.22:8000/play/a014
-#EXTINF:-1,TLC
-http://91.237.164.22:8000/play/a01x
-#EXTINF:-1,SONY TURBO
-http://91.237.164.22:8000/play/a067
-#EXTINF:-1,SONY SCI-FI
-http://91.237.164.22:8000/play/a057
-#EXTINF:-1,SONY ТВ
-http://91.237.164.22:8000/play/a066
 #EXTINF:-1,OUTDOOR CHANNEL
 http://91.237.164.22:8000/play/a01m
 
@@ -181,41 +117,21 @@ http://91.237.164.22:8000/play/a080n
 http://91.237.164.22:8000/play/a01z
 
 #EXTINF:-1,FOX
-http://91.237.164.22:8000/play/a011
-#EXTINF:-1,FOX CRIME
-http://37.26.84.98:9999/play/a022 
+#EXTINF:1,FOX COMEDY 
+http://178.192.242.14:9000/play/a06w
+#EXTINF:0,FOX CRIME
+http://178.192.242.14:9000/play/a00m 
 #EXTINF:-1,FOX LIFE 
 http://37.26.84.98:9999/play/a02d
-#EXTINF:-1,MOVIESMART FAMILY
-http://we-you-iptv.tv:8000/live/3030/3030/1853.ts
-#EXTINF:-1,MOVIESMART FAMILY+
-http://we-you-iptv.tv:8000/live/3030/3030/1842.ts
-#EXTINF:-1,MOVIESMART FEST+
-http://we-you-iptv.tv:8000/live/3030/3030/1846.ts
-#EXTINF:-1,MOVIESMART GOLD
-http://we-you-iptv.tv:8000/live/3030/3030/1854.ts
-#EXTINF:-1,MOVIESMART GOLD+
-http://we-you-iptv.tv:8000/live/3030/3030/1840.ts
-#EXTINF:-1,MOVIESMART PLATININUM
-http://we-you-iptv.tv:8000/live/3030/3030/1844.ts
-#EXTINF:-1,MOVIESMART PREMIUM
-http://we-you-iptv.tv:8000/live/3030/3030/1855.ts
-#EXTINF:-1,SKY CINEMA 24
-http://we-you-iptv.tv:8000/live/3030/3030/1572.ts
-#EXTINF:-1,SKY CINEMA 1
-http://we-you-iptv.tv:8000/live/3030/3030/1571.ts
-#EXTINF:-1,SKY CINEMA COMEDY
-http://we-you-iptv.tv:8000/live/3030/3030/1570.ts
-#EXTINF:-1,SKY CINEMA FAMILY
-http://we-you-iptv.tv:8000/live/3030/3030/1568.ts
-#EXTINF:-1,SKY CINEMA MAX
-http://we-you-iptv.tv:8000/live/3030/3030/1567.ts
-#EXTINF:-1,SKY CINEMA PASSION
-http://we-you-iptv.tv:8000/live/3030/3030/1565.ts
-
+#EXTINF:1,TV CINE 3
+http://178.192.242.14:9000/play/a00r  
+#EXTINF:1,HOLLIWOOD 
+http://178.192.242.14:9000/play/a088 
 
 #EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:1,SKY NEWS 
+http://178.192.242.14:9000/play/a081 
 #EXTINF:-1,BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
 #EXTINF:-1,BBC WORLD
@@ -231,6 +147,51 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:0,ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 
+#EXTINF:1,SIC RADICAL 
+http://178.192.242.14:9000/play/a06s 
+#EXTINF:1,LIVE STYLE
+http://178.192.242.14:9000/play/a087 
+#EXTINF:1,TLC 
+http://178.192.242.14:9000/play/a080 
+#EXTINF:1,SIC MULHER 
+http://178.192.242.14:9000/play/a07z 
+#EXTINF:1,CA
+http://178.192.242.14:9000/play/a08l 
+#EXTINF:1,MCM POP 
+http://178.192.242.14:9000/play/a07a 
+#EXTINF:1,AMC 
+http://178.192.242.14:9000/play/a08g 
+#EXTINF:-1,NATURE
+http://91.237.164.22:8000/play/a05j
+#EXTINF:-1,HD LIFE
+http://91.237.164.22:8000/play/a013
+#EXTINF:-1,HISTORY
+http://91.237.164.22:8000/play/a014
+#EXTINF:-1,TLC
+http://91.237.164.22:8000/play/a01x
+#EXTINF:-1,SONY TURBO
+http://91.237.164.22:8000/play/a067
+#EXTINF:-1,SONY SCI-FI
+http://91.237.164.22:8000/play/a057
+#EXTINF:-1,SONY ТВ
+http://91.237.164.22:8000/play/a066
+#EXTINF:1,A&E 
+http://178.192.242.14:9000/play/a019 
+#EXTINF:1,TV GALICIA 
+http://178.192.242.14:9000/play/a075 
+#EXTINF:1,TV CINE 2 
+http://178.192.242.14:9000/play/a00t 
+#EXTINF:1,SIC K
+http://178.192.242.14:9000/play/a08h  
+#EXTINF:1,TV STORIES 
+http://178.192.242.14:9000/play/a00s  
+#EXTINF:1,BIGGS 
+http://178.192.242.14:9000/play/a01d 
+#EXTINF:1,TV MEMORIA
+http://178.192.242.14:9000/play/a06v 
+#EXTINF:1,KICTHEN HD
+http://178.192.242.14:9000/play/a00l 
+
 #EXTINF:-1,MTV ROCK
 http://91.237.164.22:8000/play/a01f
 #EXTINF:-1,MTV HITS UK
@@ -241,8 +202,6 @@ http://91.237.164.22:8000/play/a01b
 http://91.237.164.22:8000/play/a01c
 #EXTINF:-1,MUSIC BOX TV
 http://91.237.164.22:8000/play/a05f
-#EXTINF:-1,MUSIC EU
-http://91.237.164.22:8000/play/a05t
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
