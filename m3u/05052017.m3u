@@ -60,15 +60,15 @@ http://91.237.164.22:8000/play/a022
 http://91.237.164.22:8000/play/a02o
 #EXTINF:-1,JIM JAM
 http://91.237.164.22:8000/play/a015
-
+ 
 #EXTINF:-1,BEIN SPORT 1
-http://151.80.36.109:8000/live/korisnik/korisnik/188.ts
+http://www2.duballvip.com:1935/free/0x777_beinsport1_360p/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 2
-http://151.80.36.109:8000/live/korisnik/korisnik/189.ts
+http://www2.duballvip.com:1935/free/0x777_beinsporthd2_360p/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 3
-http://151.80.36.109:8000/live/korisnik/korisnik/190.ts
+http://www2.duballvip.com:1935/free/0x777_beinsporthd3_360p/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 4
-http://151.80.36.109:8000/live/korisnik/korisnik/191.ts
+http://www2.duballvip.com:1935/free/0x777_beinsporthd4_360p/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 5
 http://151.80.36.109:8000/live/korisnik/korisnik/192.ts
 #EXTINF:-1,BEIN SPORT 6
@@ -95,11 +95,16 @@ http://185.53.163.85:8888/play/a034
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,BT SPORT 1
+http://www2.duballvip.com:1935/free54/0x444_btsport1manic_360p/playlist.m3u8 
+#EXTINF:-1,BT SPORT 2
+http://www2.duballvip.com:1935/free54/0x444_btsport2manic_360p/playlist.m3u8 
+#EXTINF:-1,SONY ESPN
+http://www2.duballvip.com:1935/free41/0x222_sonyespn_360p/playlist.m3u8
 #EXTINF:1,FOXSPORT
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
 #EXTINF:1,EUROSPORT
 http://178.192.242.14:9000/play/a079
-#EXTINF:1,ESPN
 #EXTINF:1,WORLD FISHING
 http://theplayersklub.host:2095/live/simplycaz/simplycaz/769.ts
 #EXTINF:1,WWE
