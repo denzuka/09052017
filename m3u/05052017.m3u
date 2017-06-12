@@ -62,9 +62,9 @@ http://91.237.164.22:8000/play/a02o
 http://91.237.164.22:8000/play/a015
  
 #EXTINF:-1,BEIN SPORT 1
-http://www2.duballvip.com:1935/free/0x777_beinsport1_360p/playlist.m3u8
+http://176.31.226.149:25461/live/testest/testest/339.ts
 #EXTINF:-1,BEIN SPORT 2
-http://www2.duballvip.com:1935/free/0x777_beinsporthd2_360p/playlist.m3u8
+http://176.31.226.149:25461/live/testest/testest/338.ts
 #EXTINF:-1,BEIN SPORT 3
 http://www2.duballvip.com:1935/free/0x777_beinsporthd3_360p/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 4
