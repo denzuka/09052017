@@ -20,7 +20,7 @@ https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1,TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TVONE
-https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1,METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
 #EXTINF:-1,RTV
@@ -95,6 +95,10 @@ http://185.53.163.85:8888/play/a034
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:0,AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,EUROSPORT HD 
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,BT SPORT 1
 http://www2.duballvip.com:1935/free54/0x444_btsport1manic_360p/playlist.m3u8 
 #EXTINF:-1,BT SPORT 2
