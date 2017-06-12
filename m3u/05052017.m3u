@@ -99,6 +99,8 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1,BT SPORT 1
 http://www2.duballvip.com:1935/free54/0x444_btsport1manic_360p/playlist.m3u8 
 #EXTINF:-1,BT SPORT 2
