@@ -31,8 +31,6 @@ https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:-1,ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
-#EXTINF:-1,IDX
-http://live.metube.id/tv/channel2000072/index1024.m3u8
 #EXTINF:-1,MQTV
 rtmp://118.97.183.222/discover/mqtv
 #EXTINF:-1,HI INDO
@@ -70,6 +68,12 @@ http://thepk.co:2095/live/denzuka/zukabumi13/491.m3u8
 http://176.31.226.149:25461/live/testest/testest/339.ts
 #EXTINF:-1,BEIN SPORT 2
 http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,BEIN SPORT 3
+http://176.31.226.149:25461/live/testest/testest/335.ts
+#EXTINF:-1,BEIN SPORT 4
+http://176.31.226.149:25461/live/testest/testest/342.ts
+#EXTINF:-1,BEIN SPORT 5
+http://176.31.226.149:25461/live/testest/testest/341.ts
 #EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 1 HD
 http://thepk.co:2095/live/denzuka/zukabumi13/593.m3u8
 #EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 2 HD
