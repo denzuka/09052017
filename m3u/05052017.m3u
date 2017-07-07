@@ -276,10 +276,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/241.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/344.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="CANADIAN TV",THE MOVIE NETWORK
 http://thepk.co:2095/live/denzuka/zukabumi13/490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/200px-Travel_Channel_-_Logo.svg.png" group-title="CANADIAN TV",TRAVEL CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://www.thelogodb.com/images/media/logo/yusrru1445113463.png/medium" group-title="LATINO / SPANISH TV",AXN
-http://thepk.co:2095/live/denzuka/zukabumi13/1125.m3u8
 #EXTINF:-1 tvg-id="The Cooking Channel HDTV" tvg-name="COOKING CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/893p2e1494156845.png/medium" group-title="USA TV",COOKING CHANNEL
 http://thepk.co:2095/live/denzuka/zukabumi13/211.m3u8
 #EXTINF:-1 tvg-id="Food Network HDTV (East)" tvg-name="FOOD NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png/medium" group-title="USA TV",FOOD NETWORK
@@ -382,9 +378,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/327.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/326.m3u8
 #EXTINF:-1 tvg-id="TV Land (East) (TVLAND)" tvg-name="TV Land" tvg-logo="https://www.thelogodb.com/images/media/logo/vrsurv1466829965.png/medium" group-title="USA TV",TV Land
 http://thepk.co:2095/live/denzuka/zukabumi13/325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Red Zone" tvg-logo="" group-title="NFL SUNDAY TICKET",NFL Red Zone
-http://thepk.co:2095/live/denzuka/zukabumi13/368.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC BRIT HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC BRIT HITS
@@ -399,10 +392,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/846.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/845.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC KIDS ONLY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC KIDS ONLY
 http://thepk.co:2095/live/denzuka/zukabumi13/844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC LATINO POP" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="LATINO / SPANISH TV",TPK  MUSIC LATINO POP
-http://thepk.co:2095/live/denzuka/zukabumi13/843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC MEXICAAN" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC MEXICAAN
-http://thepk.co:2095/live/denzuka/zukabumi13/841.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP & COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC POP & COUNTRY
 http://thepk.co:2095/live/denzuka/zukabumi13/840.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC POP HITS
@@ -419,8 +408,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/835.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/833.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TODAYS COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC TODAYS COUNTRY
 http://thepk.co:2095/live/denzuka/zukabumi13/832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TODDLER TUNES" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC TODDLER TUNES
-http://thepk.co:2095/live/denzuka/zukabumi13/831.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC MC PLAY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC MC PLAY
 http://thepk.co:2095/live/denzuka/zukabumi13/842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TEEN BEATS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC TEEN BEATS
@@ -429,8 +416,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/834.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/828.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC ALTERNATIVE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC ALTERNATIVE
 http://thepk.co:2095/live/denzuka/zukabumi13/826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC TROPICALES" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC TROPICALES
-http://thepk.co:2095/live/denzuka/zukabumi13/830.m3u8
+
 
 
 
