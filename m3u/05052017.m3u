@@ -13,13 +13,11 @@ https://cdn-live.metube.id/tv/channel2000041/index.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/INDOSIAR.png",INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
-https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="http://www.nontonmovie303.com/files/2017/03/trans-7.png",TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://vignette2.wikia.nocookie.net/tolololpedia/images/c/c2/Logo_Trans_TV.png/revision/latest?cb=20131217031940",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/f6/20120303123142%21TvOne_Logo%282012%29.svg",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/500px-TvOne_Logo%282012%29.svg.png",TV ONE
 http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1,NET TV tvg-id="" tvg-name="NET TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/Net-hd.png/revision/20160816063414",NET TV
 https://youtu.be/qlnavBZqtbs
@@ -31,6 +29,8 @@ https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://bursadesain.com/wp-content/uploads/2012/09/Logo-Antv.png",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
+https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
 rtmp://118.97.183.222/discover/mqtv
 #EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png",HI INDO
