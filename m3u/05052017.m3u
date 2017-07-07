@@ -223,33 +223,13 @@ http://thepk.co:2095/live/denzuka/zukabumi13/266.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/260.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.thelogodb.com/images/media/logo/ryttsp1433452891.png/medium" group-title="USA TV",CNBC
 http://thepk.co:2095/live/denzuka/zukabumi13/349.m3u8
-#EXTINF:1,BBC WORLD
-http://91.237.164.22:8000/play/a00e 
-#EXTINF:1,BBC AMERICA
-http://thepk.co:2095/live/husham/isaplayer/628.ts
-#EXTINF:1,CNN
-http://thepk.co:2095/live/husham/isaplayer/668.ts
-#EXTINF:1,NBC
-http://thepk.co:2095/live/husham/isaplayer/662.ts
-#EXTINF:1,MSNBC
-http://thepk.co:2095/live/husham/isaplayer/640.ts
-#EXTINF:1,CBS NEWS
-http://thepk.co:2095/live/husham/isaplayer/653.ts
-#EXTINF:1,ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:1,SKY NEWS 
-http://178.192.242.14:9000/play/a081 
-#EXTINF:1,BLOOMBERG
+#EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://dqyag3aekzepn.cloudfront.net/assets/widgets/bloomberg_283cecc403cac8b7e043833a99eba549.png",BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
-#EXTINF:1,DW TV
+#EXTINF:-1 tvg-id="CNBC" tvg-name="DWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/DW_Logo_2012.png/medium" group-title="USA TV",DWTV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:1,EURONEWS
-http://91.237.164.22:8000/play/a00u
-#EXTINF:1,NEWS ASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:1,ALJAZEERA ENGLISH
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://fernnews-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/aljazeera-horiz-logo.png/medium" group-title="USA TV",ALJAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:1,ARIRANG KOREA
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="http://logonoid.com/images/arirang-logo.png/medium" group-title="USA TV",ARIRANG KOREA
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 
 
