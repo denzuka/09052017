@@ -15,17 +15,17 @@ https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="http://3.bp.blogspot.com/-NT3qihskck8/VNJ9pebMe0I/AAAAAAAAAaQ/MpWJ_Kx9Qbg/s1600/Logo%2BTrans7%2BKe%2B3%2B(15%2BDesember%2B2013-sekarang)%2B-%2Banakcemerlang.com.png",TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="http://www.nontonmovie303.com/files/2017/03/trans-7.png",TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://3.bp.blogspot.com/-NT3qihskck8/VNJ9pebMe0I/AAAAAAAAAaQ/MpWJ_Kx9Qbg/s1600/Logo%2BTrans7%2BKe%2B3%2B(15%2BDesember%2B2013-sekarang)%2B-%2Banakcemerlang.com.png",TRANS TV
+#EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://vignette2.wikia.nocookie.net/tolololpedia/images/c/c2/Logo_Trans_TV.png/revision/latest?cb=20131217031940",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1,TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/5b/20101206233224%21TvOne_logo_%282010%29.png",TV ONE
 http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1,NET TV
 https://youtu.be/qlnavBZqtbs
-#EXTINF:-1,METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png",METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
-#EXTINF:-1,RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png",RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 #EXTINF:-1,KOMPAS TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
