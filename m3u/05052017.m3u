@@ -25,19 +25,19 @@ http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497
 https://youtu.be/qlnavBZqtbs
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png",METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png",RTV
 https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
-#EXTINF:-1,KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/cc/Kompas_TV_%282011%29.svg.png/revision/latest?cb=20131217131101",KOMPAS TV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:-1,ANTV
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://bursadesain.com/wp-content/uploads/2012/09/Logo-Antv.png",ANTV
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
-#EXTINF:-1,MQTV
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
 rtmp://118.97.183.222/discover/mqtv
-#EXTINF:-1,HI INDO
+#EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png",HI INDO
 rtmp://118.97.183.222/discover/hiindo
-#EXTINF:-1,Z BIOSKOP
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.televisionpost.com/wp-content/uploads/2013/12/zee_bioskop.png",BOLLYWOOD
 rtmp://118.97.183.222/discover/zbioskop
-#EXTINF:-1,K PLUS
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K PLUS
 rtmp://118.97.183.222/discover/kplus
 
 
@@ -51,8 +51,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/334.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/333.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="USA TV",CARTOON NETWORK
 http://thepk.co:2095/live/denzuka/zukabumi13/258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="CANADIAN TV",CN
-http://thepk.co:2095/live/denzuka/zukabumi13/521.m3u8
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="USA TV",NICKELODEON
 http://thepk.co:2095/live/denzuka/zukabumi13/265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytyq1465813375.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY KIDS
