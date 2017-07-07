@@ -33,6 +33,8 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
 rtmp://118.97.183.222/discover/mqtv
+#EXTINF:-1 tvg-id="" tvg-name="MECCATV" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png",MAKKAH TV 
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/5cWIiQyMwnmj3O0alk35oJI59HQbqwawIE3ghCSYomPAE_r8npdphrsoc8To5IZMww=w300",HI INDO
 rtmp://118.97.183.222/discover/hiindo
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.zeeinternational.co.in/images/all-logos/apac_zee-Bioskop.png",BOLLYWOOD
@@ -90,6 +92,8 @@ http://thepk.co:2095/live/denzuka/zukabumi13/601.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/600.m3u8
 #EXTINF:-1 tvg-id="BT SPORT ESPN" tvg-name="BT SPORT ESPN" tvg-logo="https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT ESPN
 http://thepk.co:2095/live/denzuka/zukabumi13/599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="http://drivestudio.com/wp-content/uploads/2015/07/FS_LOGO.png",FOX SPORT
+http://thepk.co:2095/live/denzuka/zukabumi13/1102.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-name="FOX SPORTS 1" tvg-logo="https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png" group-title="USA TV",FOX SPORTS 1
 http://thepk.co:2095/live/denzuka/zukabumi13/188.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-name="FOX SPORTS 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="USA TV",FOX SPORTS 2
@@ -98,7 +102,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/187.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/256.m3u8
 #EXTINF:-1 tvg-id="ESPN2 HDTV" tvg-name="ESPN 2" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png/medium" group-title="USA TV",ESPN 2
 http://thepk.co:2095/live/denzuka/zukabumi13/343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png/medium" group-title="LATINO / SPANISH TV",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 http://thepk.co:2095/live/denzuka/zukabumi13/1109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://www.thelogodb.com/images/media/logo/ryvypr1433431151.png/medium" group-title="LATINO / SPANISH TV",ESPN DEPORTES
 http://thepk.co:2095/live/denzuka/zukabumi13/1108.m3u8
@@ -112,8 +116,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/475.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HUNTING & FISHING" tvg-logo="http://www.thelogodb.com/images/media/logo/pywcma1493839164.png" group-title="USA TV",HUNTING & FISHING
 http://thepk.co:2095/live/denzuka/zukabumi13/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="http://drivestudio.com/wp-content/uploads/2015/07/FS_LOGO.png/medium" group-title="LATINO / SPANISH TV",FOX SPORT
-http://thepk.co:2095/live/denzuka/zukabumi13/1102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 2
@@ -326,8 +328,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/830.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png",MAKKAH TV 
-http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 
 
 
