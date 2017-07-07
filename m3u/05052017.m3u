@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,TVRI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/TVRI.png",O CHANNEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:-1,MNCTV
+#EXTINF:-1 tvg-id="" tvg-name="MNC" tvg-logo="https://vignette3.wikia.nocookie.net/tolololpedia/images/6/6f/MNCTV.png/revision/latest?cb=20130106044028",O CHANNEL
 http://cdn.live.metube.id/tv/channel2000022/index.m3u8
-#EXTINF:-1,RCTI
+#EXTINF:-1,RCTI tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20101206120519%21RCTI_MNC-Group.png",RCTI
 http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,INEWS
 https://stream.sindonews.net/live/inewstvokezone.com.m3u8
@@ -13,7 +13,7 @@ https://cdn-live.metube.id/tv/channel2000041/index.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="http://2.bp.blogspot.com/-YI6lEvyCQy8/VMU6pP0LZHI/AAAAAAAABoQ/tRJFL2HxL_g/s1600/O%2BChannel%2BLogo.png",O CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1,TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
