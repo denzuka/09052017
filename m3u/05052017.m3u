@@ -11,7 +11,7 @@ https://stream.sindonews.net/live/inewstvokezone.com.m3u8
 https://cdn-live.metube.id/tv/channel2000041/index.m3u8
 #EXTINF:-1,SCTV tvg-id="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fb/SCTV_Logo.svg.png",SCTV
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
-#EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/INDOSIAR.png",INDOSIAR
+#EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://img.scoop.it/pK9amOeuXnM-QxuoeFhgkzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="http://www.nontonmovie303.com/files/2017/03/trans-7.png",TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
@@ -55,7 +55,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/333.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/258.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytyq1465813375.png/medium" group-title="LATINO / SPANISH TV",ANIME TV
 http://thepk.co:2095/live/denzuka/zukabumi13/483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/275px-Teletoon_2011.PNG" group-title="CANADIAN TV",TELETOON
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/022011/teletoon_logo.png?itok=0yYlcRaR" group-title="CANADIAN TV",TELETOON
 http://thepk.co:2095/live/denzuka/zukabumi13/491.m3u8
 
 
