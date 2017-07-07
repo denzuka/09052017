@@ -47,8 +47,8 @@ rtmp://118.97.183.222/discover/kplus
 http://thepk.co:2095/live/denzuka/zukabumi13/469.m3u8
 #EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium" group-title="USA TV",DISNEY XD
 http://thepk.co:2095/live/denzuka/zukabumi13/471.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICK
-http://thepk.co:2095/live/denzuka/zukabumi13/334.m3u8
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICKELODEON
+http://thepk.co:2095/live/denzuka/zukabumi13/265.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium" group-title="USA TV",NICK JR
 http://thepk.co:2095/live/denzuka/zukabumi13/333.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="USA TV",CARTOON NETWORK
