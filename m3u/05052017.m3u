@@ -223,9 +223,9 @@ http://thepk.co:2095/live/denzuka/zukabumi13/266.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/260.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.thelogodb.com/images/media/logo/ryttsp1433452891.png/medium" group-title="USA TV",CNBC
 http://thepk.co:2095/live/denzuka/zukabumi13/349.m3u8
-#EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://dqyag3aekzepn.cloudfront.net/assets/widgets/bloomberg_283cecc403cac8b7e043833a99eba549.png",BLOOMBERG
+#EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://homecomingrevolution.com/new-test-site/wp-content/uploads/2016/07/Bloomberg-TV-Logo.png",BLOOMBERG
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/DW_Logo_2012.png",DWTV
+#EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/fa/93/ea/fa93ea13c52677f6f730bcecf5073104.jpg",DWTV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://fernnews-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/aljazeera-horiz-logo.png",ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
@@ -326,7 +326,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/830.m3u8
 
 
 
-#EXTINF:1,MAKKAH TV
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png",MAKKAH TV 
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 
 
