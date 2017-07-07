@@ -13,7 +13,7 @@ https://cdn-live.metube.id/tv/channel2000041/index.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
-#EXTINF:-1,O CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="http://2.bp.blogspot.com/-YI6lEvyCQy8/VMU6pP0LZHI/AAAAAAAABoQ/tRJFL2HxL_g/s1600/O%2BChannel%2BLogo.png/medium" group-title="LATINO / SPANISH TV",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1,TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
