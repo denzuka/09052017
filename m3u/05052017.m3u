@@ -11,13 +11,13 @@ https://stream.sindonews.net/live/inewstvokezone.com.m3u8
 https://cdn-live.metube.id/tv/channel2000041/index.m3u8
 #EXTINF:-1,SCTV tvg-id="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fb/SCTV_Logo.svg.png",SCTV
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
-#EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/3/39/20150804082147%21INDOSIAR_Logo.png",INDOSIAR
+#EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2016/05/INDOSIAR.png",INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
-#EXTINF:-1,TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="http://3.bp.blogspot.com/-NT3qihskck8/VNJ9pebMe0I/AAAAAAAAAaQ/MpWJ_Kx9Qbg/s1600/Logo%2BTrans7%2BKe%2B3%2B(15%2BDesember%2B2013-sekarang)%2B-%2Banakcemerlang.com.png",TRANS 7
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1,TRANS TV
+#EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://3.bp.blogspot.com/-NT3qihskck8/VNJ9pebMe0I/AAAAAAAAAaQ/MpWJ_Kx9Qbg/s1600/Logo%2BTrans7%2BKe%2B3%2B(15%2BDesember%2B2013-sekarang)%2B-%2Banakcemerlang.com.png",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TV ONE
 http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
