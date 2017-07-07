@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/TVRI.png",O CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/TVRI.png",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNC" tvg-logo="https://vignette3.wikia.nocookie.net/tolololpedia/images/6/6f/MNCTV.png/revision/latest?cb=20130106044028",O CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="MNC" tvg-logo="https://vignette3.wikia.nocookie.net/tolololpedia/images/6/6f/MNCTV.png/revision/latest?cb=20130106044028",MNC
 http://cdn.live.metube.id/tv/channel2000022/index.m3u8
 #EXTINF:-1,RCTI tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20101206120519%21RCTI_MNC-Group.png",RCTI
 http://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1,INEWS
+#EXTINF:-1,INEWS tvg-id="" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/d/d6/20170308035138%21INews_TV.png",INEWS
 https://stream.sindonews.net/live/inewstvokezone.com.m3u8
-#EXTINF:-1,GLOBAL TV
+#EXTINF:-1,GLOBAL tvg-id="" tvg-name="GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png",GLOBAL TV
 https://cdn-live.metube.id/tv/channel2000041/index.m3u8
-#EXTINF:-1,SCTV
+#EXTINF:-1,SCTV tvg-id="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fb/SCTV_Logo.svg.png",SCTV
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/3/39/20150804082147%21INDOSIAR_Logo.png",INDOSIAR
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png",O CHANNEL
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
