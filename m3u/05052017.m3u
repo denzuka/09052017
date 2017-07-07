@@ -45,17 +45,13 @@ rtmp://118.97.183.222/discover/kplus
 http://thepk.co:2095/live/denzuka/zukabumi13/469.m3u8
 #EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium" group-title="USA TV",DISNEY XD
 http://thepk.co:2095/live/denzuka/zukabumi13/471.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="NICK" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICK
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICK
 http://thepk.co:2095/live/denzuka/zukabumi13/334.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium" group-title="USA TV",NICK JR
 http://thepk.co:2095/live/denzuka/zukabumi13/333.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="USA TV",CARTOON NETWORK
 http://thepk.co:2095/live/denzuka/zukabumi13/258.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="USA TV",NICKELODEON
-http://thepk.co:2095/live/denzuka/zukabumi13/265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytyq1465813375.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY KIDS
-http://thepk.co:2095/live/denzuka/zukabumi13/1116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://www.pngall.com/wp-content/uploads/2016/07/Anime.png" group-title="USA TV",ANIME TV
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytyq1465813375.png/medium" group-title="LATINO / SPANISH TV",ANIME TV
 http://thepk.co:2095/live/denzuka/zukabumi13/483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/275px-Teletoon_2011.PNG" group-title="CANADIAN TV",TELETOON
 http://thepk.co:2095/live/denzuka/zukabumi13/491.m3u8
@@ -108,7 +104,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1109.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/1108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN LATINA" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="LATINO / SPANISH TV",ESPN LATINA
 http://thepk.co:2095/live/denzuka/zukabumi13/1111.m3u8
-#EXTINF:-1 tvg-id="ESPNews HD" tvg-name="ESPN News" tvg-logo="http://cdn-img.easylogo.cn/gif/49/49222.gif" group-title="USA TV",ESPN NEWS
+#EXTINF:-1 tvg-id="ESPNews HD" tvg-name="ESPN News" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="USA TV",ESPN NEWS
 http://thepk.co:2095/live/denzuka/zukabumi13/1702.m3u8
 #EXTINF:-1 tvg-id="ESPNU HDTV" tvg-name="ESPN U" tvg-logo="https://www.thelogodb.com/images/media/logo/wuqypq1434501650.png/medium" group-title="USA TV",ESPN U
 http://thepk.co:2095/live/denzuka/zukabumi13/475.m3u8
@@ -120,15 +116,15 @@ http://thepk.co:2095/live/denzuka/zukabumi13/305.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/1102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="LATINO / SPANISH TV",FOX SPORT 2
 http://thepk.co:2095/live/denzuka/zukabumi13/1101.m3u8
-#EXTINF:0,AD SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0,AD SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,EUROSPORT HD 
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",EUROSPORT HD 
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",EUROSPORT 2
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
