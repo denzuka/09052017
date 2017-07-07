@@ -98,7 +98,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/187.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/256.m3u8
 #EXTINF:-1 tvg-id="ESPN2 HDTV" tvg-name="ESPN 2" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png/medium" group-title="USA TV",ESPN 2
 http://thepk.co:2095/live/denzuka/zukabumi13/343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://www.thelogodb.com/images/media/logo/ssysvt1472102855.png/medium" group-title="LATINO / SPANISH TV",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png/medium" group-title="LATINO / SPANISH TV",ESPN 3
 http://thepk.co:2095/live/denzuka/zukabumi13/1109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://www.thelogodb.com/images/media/logo/ryvypr1433431151.png/medium" group-title="LATINO / SPANISH TV",ESPN DEPORTES
 http://thepk.co:2095/live/denzuka/zukabumi13/1108.m3u8
@@ -112,10 +112,8 @@ http://thepk.co:2095/live/denzuka/zukabumi13/475.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HUNTING & FISHING" tvg-logo="http://www.thelogodb.com/images/media/logo/pywcma1493839164.png" group-title="USA TV",HUNTING & FISHING
 http://thepk.co:2095/live/denzuka/zukabumi13/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png/medium" group-title="LATINO / SPANISH TV",FOX SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="http://drivestudio.com/wp-content/uploads/2015/07/FS_LOGO.png/medium" group-title="LATINO / SPANISH TV",FOX SPORT
 http://thepk.co:2095/live/denzuka/zukabumi13/1102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="LATINO / SPANISH TV",FOX SPORT 2
-http://thepk.co:2095/live/denzuka/zukabumi13/1101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 2
