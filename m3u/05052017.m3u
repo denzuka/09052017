@@ -19,9 +19,9 @@ https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://vignette2.wikia.nocookie.net/tolololpedia/images/c/c2/Logo_Trans_TV.png/revision/latest?cb=20131217031940",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/5b/20101206233224%21TvOne_logo_%282010%29.png",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/f6/20120303123142%21TvOne_Logo%282012%29.svg",TV ONE
 http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
-#EXTINF:-1,NET TV
+#EXTINF:-1,NET TV tvg-id="" tvg-name="NET TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/Net-hd.png/revision/20160816063414",NET TV
 https://youtu.be/qlnavBZqtbs
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png",METRO TV
 https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
