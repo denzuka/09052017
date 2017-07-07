@@ -17,7 +17,7 @@ https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TRANS TV" tvg-logo="http://vignette2.wikia.nocookie.net/tolololpedia/images/c/c2/Logo_Trans_TV.png/revision/latest?cb=20131217031940",TRANS TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png/500px-TvOne_Logo%282012%29.svg.png",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="http://ayokeselayar.com/wp-content/uploads/2017/04/logo-tvone.png",TV ONE
 http://stream-ec2.sg1.dailymotion.com/07/dm/1/x41047b/live.isml/events(live-1497032203)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1,NET TV tvg-id="" tvg-name="NET TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/Net-hd.png/revision/20160816063414",NET TV
 https://youtu.be/qlnavBZqtbs
@@ -62,15 +62,15 @@ http://thepk.co:2095/live/denzuka/zukabumi13/491.m3u8
 
 
  
-#EXTINF:-1,BEIN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 1 HD
 http://176.31.226.149:25461/live/testest/testest/339.ts
-#EXTINF:-1,BEIN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 2 HD
 http://176.31.226.149:25461/live/testest/testest/338.ts
-#EXTINF:-1,BEIN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 3 HD
 http://176.31.226.149:25461/live/testest/testest/335.ts
-#EXTINF:-1,BEIN SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 4 HD
 http://176.31.226.149:25461/live/testest/testest/342.ts
-#EXTINF:-1,BEIN SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 5 HD
 http://176.31.226.149:25461/live/testest/testest/341.ts
 #EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 1 HD
 http://thepk.co:2095/live/denzuka/zukabumi13/593.m3u8
