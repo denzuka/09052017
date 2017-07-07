@@ -33,9 +33,9 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
 rtmp://118.97.183.222/discover/mqtv
-#EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png",HI INDO
+#EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/5cWIiQyMwnmj3O0alk35oJI59HQbqwawIE3ghCSYomPAE_r8npdphrsoc8To5IZMww=w300",HI INDO
 rtmp://118.97.183.222/discover/hiindo
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.televisionpost.com/wp-content/uploads/2013/12/zee_bioskop.png",BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.zeeinternational.co.in/images/all-logos/apac_zee-Bioskop.png",BOLLYWOOD
 rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K PLUS
 rtmp://118.97.183.222/discover/kplus
