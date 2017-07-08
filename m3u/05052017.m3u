@@ -42,7 +42,8 @@ rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K PLUS
 rtmp://118.97.183.222/discover/kplus
 
-
+#EXTINF:-1 tvg-id="The Disney Channel HDTV (East)" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="USA TV",DISNEY CHANNEL
+http://thepk.co:2095/live/denzuka/zukabumi13/347.m3u8
 #EXTINF:-1 tvg-id="Disney Junior HDTV East" tvg-name="DISNEY JR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="USA TV",DISNEY JR
 http://thepk.co:2095/live/denzuka/zukabumi13/469.m3u8
 #EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium" group-title="USA TV",DISNEY XD
@@ -140,9 +141,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1069.m3u8
 http://thepk.co:2095/live/denzuka/zukabumi13/255.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium" group-title="USA TV",DISCOVERY SCIENCE
 http://thepk.co:2095/live/denzuka/zukabumi13/206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILAZION" tvg-logo="https://www.thelogodb.com/images/media/logo/yqqvqt1434704185.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY CIVILIZATION
-http://thepk.co:2095/live/denzuka/zukabumi13/1118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="https://www.thelogodb.com/images/media/logo/vvquys1434500869.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY SP
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="https://www.thelogodb.com/images/media/logo/vvquys1434500869.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY ESP
 http://thepk.co:2095/live/denzuka/zukabumi13/1119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://www.thelogodb.com/images/media/logo/trqwvr1433963933.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY H&H
 http://thepk.co:2095/live/denzuka/zukabumi13/1117.m3u8
