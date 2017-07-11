@@ -140,7 +140,7 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1069.m3u8
 #EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" group-title="USA TV",DISCOVERY CHANNEL
 http://thepk.co:2095/live/denzuka/zukabumi13/255.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium" group-title="USA TV",DISCOVERY SCIENCE
-http://thepk.co:2095/live/denzuka/zukabumi13/206.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/206.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="https://www.thelogodb.com/images/media/logo/vvquys1434500869.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY ESP
 http://thepk.co:2095/live/denzuka/zukabumi13/1119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://www.thelogodb.com/images/media/logo/trqwvr1433963933.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY H&H
