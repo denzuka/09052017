@@ -35,6 +35,10 @@ https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 rtmp://118.97.183.222/discover/mqtv
 #EXTINF:-1 tvg-id="" tvg-name="MECCATV" tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png",MAKKAH TV 
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",ISLAM CHANNEL
+http://wowza05.sharp-stream.com:1935/islamtv/islamtv/chunklist_w1342066379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://3.bp.blogspot.com/-1bfzxpXxfL0/VSZyOz6coJI/AAAAAAAAAu8/JSBP_4S3RBQ/s1600/TahfidzTV.png",TAHFIDZ TV
+rtmp://119.235.249.58/tahfidztv/live
 #EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/5cWIiQyMwnmj3O0alk35oJI59HQbqwawIE3ghCSYomPAE_r8npdphrsoc8To5IZMww=w300",HI INDO
 rtmp://118.97.183.222/discover/hiindo
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.zeeinternational.co.in/images/all-logos/apac_zee-Bioskop.png",BOLLYWOOD
@@ -43,21 +47,21 @@ rtmp://118.97.183.222/discover/zbioskop
 rtmp://118.97.183.222/discover/kplus
 
 #EXTINF:-1 tvg-id="The Disney Channel HDTV (East)" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="USA TV",DISNEY CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/347.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/347.ts
 #EXTINF:-1 tvg-id="Disney Junior HDTV East" tvg-name="DISNEY JR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="USA TV",DISNEY JR
-http://thepk.co:2095/live/denzuka/zukabumi13/469.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/469.ts
 #EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium" group-title="USA TV",DISNEY XD
-http://thepk.co:2095/live/denzuka/zukabumi13/471.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/471.ts
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICKELODEON
-http://thepk.co:2095/live/denzuka/zukabumi13/265.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/265.ts
 #EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium" group-title="USA TV",NICK JR
-http://thepk.co:2095/live/denzuka/zukabumi13/333.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/333.ts
 #EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="USA TV",CARTOON NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/258.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/258.ts
 #EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytyq1465813375.png/medium" group-title="LATINO / SPANISH TV",ANIME TV
-http://thepk.co:2095/live/denzuka/zukabumi13/483.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/483.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/022011/teletoon_logo.png?itok=0yYlcRaR" group-title="CANADIAN TV",TELETOON
-http://thepk.co:2095/live/denzuka/zukabumi13/491.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/491.ts
 
 
  
@@ -72,167 +76,167 @@ http://176.31.226.149:25461/live/testest/testest/342.ts
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 5 HD
 http://176.31.226.149:25461/live/testest/testest/341.ts
 #EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 1 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/593.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/593.ts
 #EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 2 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/591.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/591.ts
 #EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 3 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/589.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/589.ts
 #EXTINF:-1 tvg-id="SKY SPORTS 4 SD" tvg-name="SKY SPORTS 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 4 SD
-http://thepk.co:2095/live/denzuka/zukabumi13/587.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/587.ts
 #EXTINF:-1 tvg-id="SKY SPORTS 5 SD" tvg-name="Sky Sports 5 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium" group-title="UK TV SPORTS AND MOVIES",Sky SPORTS 5 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/1280.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1280.ts
 #EXTINF:-1 tvg-id="Sky Spts F1 HD" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS F1 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/584.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/584.ts
 #EXTINF:-1 tvg-id="SKY SPORTS NEWS" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.thelogodb.com/images/media/logo/sxwwxv1433780905.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS NEWS
-http://thepk.co:2095/live/denzuka/zukabumi13/583.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/583.ts
 #EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-name="BT Sport 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ruprqp1433360902.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT 1 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/602.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/602.ts
 #EXTINF:-1 tvg-id="BT SPORT 2 SD" tvg-name="BT Sport 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT 2 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/601.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/601.ts
 #EXTINF:-1 tvg-id="BT SPORT 3 HD" tvg-name="BT SPORT 3 HD" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK TV SPORTS AND MOVIES",BT SPORT 3 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/600.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/600.ts
 #EXTINF:-1 tvg-id="BT SPORT ESPN" tvg-name="BT SPORT ESPN" tvg-logo="https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT ESPN
-http://thepk.co:2095/live/denzuka/zukabumi13/599.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/599.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="http://drivestudio.com/wp-content/uploads/2015/07/FS_LOGO.png",FOX SPORT
-http://thepk.co:2095/live/denzuka/zukabumi13/1102.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1102.ts
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-name="FOX SPORTS 1" tvg-logo="https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png" group-title="USA TV",FOX SPORTS 1
-http://thepk.co:2095/live/denzuka/zukabumi13/188.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/188.ts
 #EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-name="FOX SPORTS 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="USA TV",FOX SPORTS 2
-http://thepk.co:2095/live/denzuka/zukabumi13/187.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/187.ts
 #EXTINF:-1 tvg-id="ESPN HDTV" tvg-name="ESPN" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="USA TV",ESPN
-http://thepk.co:2095/live/denzuka/zukabumi13/256.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/256.ts
 #EXTINF:-1 tvg-id="ESPN2 HDTV" tvg-name="ESPN 2" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png/medium" group-title="USA TV",ESPN 2
-http://thepk.co:2095/live/denzuka/zukabumi13/343.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/343.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-http://thepk.co:2095/live/denzuka/zukabumi13/1109.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1109.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://www.thelogodb.com/images/media/logo/ryvypr1433431151.png/medium" group-title="LATINO / SPANISH TV",ESPN DEPORTES
-http://thepk.co:2095/live/denzuka/zukabumi13/1108.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1108.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN LATINA" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="LATINO / SPANISH TV",ESPN LATINA
-http://thepk.co:2095/live/denzuka/zukabumi13/1111.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1111.ts
 #EXTINF:-1 tvg-id="ESPNews HD" tvg-name="ESPN News" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="USA TV",ESPN NEWS
-http://thepk.co:2095/live/denzuka/zukabumi13/1702.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1702.ts
 #EXTINF:-1 tvg-id="ESPNU HDTV" tvg-name="ESPN U" tvg-logo="https://www.thelogodb.com/images/media/logo/wuqypq1434501650.png/medium" group-title="USA TV",ESPN U
-http://thepk.co:2095/live/denzuka/zukabumi13/475.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/475.ts
 #EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBSSN" tvg-logo="http://www.thelogodb.com/images/media/logo/rqrppu1475893112.png/medium" group-title="USA TV",CBSSN
-http://thepk.co:2095/live/denzuka/zukabumi13/220.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/220.ts
 #EXTINF:-1 tvg-id="" tvg-name="HUNTING & FISHING" tvg-logo="http://www.thelogodb.com/images/media/logo/pywcma1493839164.png" group-title="USA TV",HUNTING & FISHING
-http://thepk.co:2095/live/denzuka/zukabumi13/305.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/305.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+http://adtv.ercdn.net/adsport1/adsport1_480p.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png?w=208&h=984",AD SPORTS 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+http://adtv.ercdn.net/adsport2/adsport2_720p.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",EUROSPORT HD 
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",EUROSPORT 2
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.ts
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.ts
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE NETWORK" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="USA TV",WWE NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/303.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/303.ts
 #EXTINF:-1 tvg-id="UFC" tvg-name="FIGHT PASS" tvg-logo="http://www.thelogodb.com/images/media/logo/pvtnn41491602539.png" group-title="USA TV",FIGHT PASS
-http://thepk.co:2095/live/denzuka/zukabumi13/850.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/850.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="http://whsjagwire.com/wp-content/uploads/2017/02/31_Fear_Factor.jpg" group-title="USA TV",FEAR FACTOR
-http://thepk.co:2095/live/denzuka/zukabumi13/482.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/482.ts
 #EXTINF:-1 tvg-id="BOXNATION" tvg-name="BOXNATION" tvg-logo="https://www.thelogodb.com/images/media/logo/vuvwsr1433336020.png" group-title="UK TV SPORTS AND MOVIES",BOX NATION
-http://thepk.co:2095/live/denzuka/zukabumi13/1069.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1069.ts
 
 
 #EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" group-title="USA TV",DISCOVERY CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/255.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/255.ts
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium" group-title="USA TV",DISCOVERY SCIENCE
 http://thepk.co:2095/live/denzuka/zukabumi13/206.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="https://www.thelogodb.com/images/media/logo/vvquys1434500869.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY ESP
-http://thepk.co:2095/live/denzuka/zukabumi13/1119.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1119.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://www.thelogodb.com/images/media/logo/trqwvr1433963933.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY H&H
-http://thepk.co:2095/live/denzuka/zukabumi13/1117.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1117.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2012/03/discovery-tlc.jpg" group-title="LATINO / SPANISH TV",DISCOVERY TLC
-http://thepk.co:2095/live/denzuka/zukabumi13/1114.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1114.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://www.thelogodb.com/images/media/logo/vuuxru1434018007.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY TURBO
-http://thepk.co:2095/live/denzuka/zukabumi13/1113.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1113.ts
 #EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NATIONAL GEOGRAPHIC CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/247.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/247.ts
 #EXTINF:-1 tvg-id="NatGeo WILD HDTV" tvg-name="NAT GEO WILD" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsvxt1433778733.png/medium" group-title="USA TV",NAT GEO WILD
-http://thepk.co:2095/live/denzuka/zukabumi13/157.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/157.ts
 #EXTINF:-1 tvg-id="FYI HDTV" tvg-name="FYI" tvg-logo="https://www.thelogodb.com/images/media/logo/svrrts1433430996.png/medium" group-title="USA TV",FYI
-http://thepk.co:2095/live/denzuka/zukabumi13/342.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/342.ts
 #EXTINF:-1 tvg-id="Investigation Discovery HDTV" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://www.thelogodb.com/images/media/logo/tqxyss1433355725.png/medium" group-title="USA TV",INVESTIGATION DISCOVERY
-http://thepk.co:2095/live/denzuka/zukabumi13/339.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/339.ts
 #EXTINF:-1 tvg-id="H2 USA" tvg-name="H2" tvg-logo="https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png/medium" group-title="USA TV",H2
-http://thepk.co:2095/live/denzuka/zukabumi13/309.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/309.ts
 #EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium" group-title="USA TV",ANIMAL PLANET
-http://thepk.co:2095/live/denzuka/zukabumi13/262.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/262.ts
 #EXTINF:-1 tvg-id="History HDTV (East)" tvg-name="HISTORY" tvg-logo="https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium" group-title="USA TV",HISTORY
-http://thepk.co:2095/live/denzuka/zukabumi13/251.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/251.ts
 
 
 
 #EXTINF:-1 tvg-id="HBO (East) (HBO)" tvg-name="HBO" tvg-logo="https://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium" group-title="USA TV",HBO
-http://thepk.co:2095/live/denzuka/zukabumi13/317.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/317.ts
 #EXTINF:-1 tvg-id="HBO Zone HDTV (East) (HBOZHD)" tvg-name="HBO ZONE" tvg-logo="http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png/medium" group-title="USA TV",HBO ZONE
-http://thepk.co:2095/live/denzuka/zukabumi13/321.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/321.ts
 #EXTINF:-1 tvg-id="HBO 2 HDTV (East)" tvg-name="HBO 2" tvg-logo="https://www.thelogodb.com/images/media/logo/ysqqqu1433944425.png/medium" group-title="USA TV",HBO 2
-http://thepk.co:2095/live/denzuka/zukabumi13/174.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/174.ts
 #EXTINF:-1 tvg-id="HBO Signature HDTV (East)" tvg-name="HBO SIGNATURE" tvg-logo="http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png/medium" group-title="USA TV",HBO SIGNATURE
-http://thepk.co:2095/live/denzuka/zukabumi13/340.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/340.ts
 #EXTINF:-1 tvg-id="HBO Comedy HDTV (East)" tvg-name="HBO COMEDY" tvg-logo="http://www.thelogodb.com/images/media/logo/quutxp1477987872.png/medium" group-title="USA TV",HBO COMEDY
-http://thepk.co:2095/live/denzuka/zukabumi13/173.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/173.ts
 #EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO FAMILY" tvg-logo="http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png/medium" group-title="USA TV",HBO FAMILY
-http://thepk.co:2095/live/denzuka/zukabumi13/172.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/172.ts
 #EXTINF:-1 tvg-id="Sky Movies Action" tvg-name="SKY CINEMA ACTION" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-ACTION.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA ACTION
-http://thepk.co:2095/live/denzuka/zukabumi13/582.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/582.ts
 #EXTINF:-1 tvg-id="Sky Movies Comedy" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-COMEDY.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA COMEDY
-http://thepk.co:2095/live/denzuka/zukabumi13/580.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/580.ts
 #EXTINF:-1 tvg-id="Sky Movies Disney" tvg-name="SKY CINEMA DISNEY" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-DISNEY.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA DISNEY
 http://thepk.co:2095/live/denzuka/zukabumi13/578.ts
 #EXTINF:-1 tvg-id="Sky Movies Drama" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-DRAMA-ROMANCE.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA DRAMA
-http://thepk.co:2095/live/denzuka/zukabumi13/564.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/564.ts
 #EXTINF:-1 tvg-id="Sky Movies Family" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-FAMILY.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA FAMILY
-http://thepk.co:2095/live/denzuka/zukabumi13/575.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/575.ts
 #EXTINF:-1 tvg-id="Sky Movies Greats" tvg-name="SKY CINEMA GREATS" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/45/Sky_Cinema_Greats_HD.png/revision/20160709183219" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA GREATS
-http://thepk.co:2095/live/denzuka/zukabumi13/573.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/573.ts
 #EXTINF:-1 tvg-id="Sky Movies Hits" tvg-name="SKY CINEMA HITS" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-HITS.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA HITS
-http://thepk.co:2095/live/denzuka/zukabumi13/565.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/565.ts
 #EXTINF:-1 tvg-id="Sky Movies Premier" tvg-name="SKY CINEMA PREMIER" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-PREMIERE.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA PREMIER
-http://thepk.co:2095/live/denzuka/zukabumi13/571.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/571.ts
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi" tvg-name="SKY CINEMA SCI-FI" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-SCIFI-HORROR.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA SCI-FI
-http://thepk.co:2095/live/denzuka/zukabumi13/569.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/569.ts
 #EXTINF:-1 tvg-id="Sky Movies Select" tvg-name="SKY CINEMA SELECT" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-SELECT.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA SELECT
-http://thepk.co:2095/live/denzuka/zukabumi13/567.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/567.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX 1" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_649.png" group-title="LATINO / SPANISH TV",FOX ONE
-http://thepk.co:2095/live/denzuka/zukabumi13/1106.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1106.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytvt1472104552.png/medium" group-title="LATINO / SPANISH TV",FOX ACTION
-http://thepk.co:2095/live/denzuka/zukabumi13/1105.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1105.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="http://www.shoftv.net/wp-content/uploads/2016/08/foxcinema-en-vivo-por-internet-online.png" group-title="LATINO / SPANISH TV",FOX CINEMA
-http://thepk.co:2095/live/denzuka/zukabumi13/1104.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1104.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX LATINA" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium" group-title="LATINO / SPANISH TV",FOX LATINA
-http://thepk.co:2095/live/denzuka/zukabumi13/1107.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1107.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="LATINO / SPANISH TV",FOX MOVIES
-http://thepk.co:2095/live/denzuka/zukabumi13/1103.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1103.ts
 #EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png/medium" group-title="USA TV",CINEMAX
-http://thepk.co:2095/live/denzuka/zukabumi13/350.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/350.ts
 #EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX MOREMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/sppyyt1467823495.png" group-title="USA TV",CINEMAX MOREMAX
-http://thepk.co:2095/live/denzuka/zukabumi13/446.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/446.ts
 #EXTINF:-1 tvg-id="VICELAND" tvg-name="UNIVERSAL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png/medium" group-title="USA TV",UNIVERSAL HD
-http://thepk.co:2095/live/denzuka/zukabumi13/1294.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1294.ts
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png" group-title="USA TV",ABC NEWS
-http://thepk.co:2095/live/denzuka/zukabumi13/108.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/108.ts
 #EXTINF:-1 tvg-id="BBC America HDTV (East)" tvg-name="BBC AMERICA" tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvpw1477930423.png" group-title="USA TV",BBC AMERICA
-http://thepk.co:2095/live/denzuka/zukabumi13/1277.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1277.ts
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png/medium" group-title="USA TV",NBC
-http://thepk.co:2095/live/denzuka/zukabumi13/248.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/248.ts
 #EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png/medium" group-title="USA TV",FOX NEWS CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/252.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/252.ts
 #EXTINF:-1 tvg-id="WTSP HDTV (CBS)" tvg-name="CBS" tvg-logo="http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png/medium" group-title="USA TV",CBS
-http://thepk.co:2095/live/denzuka/zukabumi13/266.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/266.ts
 #EXTINF:-1 tvg-id="Cable News Network" tvg-name="CNN" tvg-logo="https://www.thelogodb.com/images/media/logo/uyswus1433941237.png/medium" group-title="USA TV",CNN
-http://thepk.co:2095/live/denzuka/zukabumi13/260.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/260.ts
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.thelogodb.com/images/media/logo/ryttsp1433452891.png/medium" group-title="USA TV",CNBC
-http://thepk.co:2095/live/denzuka/zukabumi13/349.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/349.ts
 #EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://homecomingrevolution.com/new-test-site/wp-content/uploads/2016/07/Bloomberg-TV-Logo.png",BLOOMBERG
-http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8 
+http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.ts 
 #EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/fa/93/ea/fa93ea13c52677f6f730bcecf5073104.jpg",DWTV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://fernnews-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/aljazeera-horiz-logo.png",ALJAZEERA
@@ -241,181 +245,185 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="FASHION ONE" tvg-logo="http://logonoid.com/images/fashion-one-logo.png",FASHION ONE
+rtmp://118.97.183.222/discover/fashionone
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASHION TV
+rtmp://118.97.183.222/discover/fashiontv
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium" group-title="USA TV",FOX
-http://thepk.co:2095/live/denzuka/zukabumi13/318.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/318.ts
 #EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png/medium" group-title="USA TV",FX
-http://thepk.co:2095/live/denzuka/zukabumi13/324.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/324.ts
 #EXTINF:-1 tvg-id="SPIKE USA" tvg-name="SPIKE" tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png/medium" group-title="USA TV",SPIKE
-http://thepk.co:2095/live/denzuka/zukabumi13/246.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/246.ts
 #EXTINF:-1 tvg-id="SYFY USA" tvg-name="SYFY" tvg-logo="https://www.thelogodb.com/images/media/logo/vsppsu1433438058.png/medium" group-title="USA TV",SYFY
-http://thepk.co:2095/live/denzuka/zukabumi13/245.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/245.ts
 #EXTINF:-1 tvg-id="USA Network US" tvg-name="USA NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/yswxwr1433432126.png/medium" group-title="USA TV",USA NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/242.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/242.ts
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="https://www.thelogodb.com/images/media/logo/vxxpqu1469457118.png/medium" group-title="USA TV",TNT
-http://thepk.co:2095/live/denzuka/zukabumi13/298.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/298.ts
 #EXTINF:-1 tvg-id="DIYHD" tvg-name="DIY NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png/medium" group-title="USA TV",DIY NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/346.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/346.ts
 #EXTINF:-1 tvg-id="E! Entertainment Television HDTV (East)" tvg-name="E!" tvg-logo="https://www.thelogodb.com/images/media/logo/ysxrxt1433524933.png" group-title="USA TV",E!
-http://thepk.co:2095/live/denzuka/zukabumi13/345.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/345.ts
 #EXTINF:-1 tvg-id="TLC USA" tvg-name="TLC" tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium" group-title="USA TV",TLC
-http://thepk.co:2095/live/denzuka/zukabumi13/119.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/119.ts
 #EXTINF:-1 tvg-id="A&E Network (East)" tvg-name="A&E" tvg-logo="http://www.thelogodb.com/images/media/logo/jzkqa31493258257.png" group-title="USA TV",A&E
-http://thepk.co:2095/live/denzuka/zukabumi13/267.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/267.ts
 #EXTINF:-1 tvg-id="WABC HDTV" tvg-name="ABC" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsqst1456747365.png/medium" group-title="USA TV",ABC
-http://thepk.co:2095/live/denzuka/zukabumi13/263.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/263.ts
 #EXTINF:-1 tvg-id="Comedy Central HDTV (East)" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.thelogodb.com/images/media/logo/qxxrrp1476083880.png" group-title="USA TV",COMEDY CENTRAL
-http://thepk.co:2095/live/denzuka/zukabumi13/257.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/257.ts
 #EXTINF:-1 tvg-id="FXX USA" tvg-name="FXX" tvg-logo="https://www.thelogodb.com/images/media/logo/uvyvsx1434502420.png/medium" group-title="USA TV",FXX
-http://thepk.co:2095/live/denzuka/zukabumi13/323.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/323.ts
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://www.thelogodb.com/images/media/logo/yusqqu1444656884.png/medium" group-title="USA TV",HGTV
-http://thepk.co:2095/live/denzuka/zukabumi13/302.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/302.ts
 #EXTINF:-1 tvg-id="American Heroes Channel" tvg-name="AMERICAN HEROES" tvg-logo="https://www.thelogodb.com/images/media/logo/uxwpuq1467823153.png/medium" group-title="USA TV",AMERICAN HEROES
-http://thepk.co:2095/live/denzuka/zukabumi13/241.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/241.ts
 #EXTINF:-1 tvg-id="STARZ ENCORE HD (East)" tvg-name="STARZ ENCORE" tvg-logo="https://sc.dish.com/shared/images/station-logos/encor.png" group-title="USA TV",STARZ ENCORE
-http://thepk.co:2095/live/denzuka/zukabumi13/344.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/344.ts
 #EXTINF:-1 tvg-id="" tvg-name="THE MOVIE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="CANADIAN TV",THE MOVIE NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/490.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/490.ts
 #EXTINF:-1 tvg-id="The Cooking Channel HDTV" tvg-name="COOKING CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/893p2e1494156845.png/medium" group-title="USA TV",COOKING CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/211.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/211.ts
 #EXTINF:-1 tvg-id="Food Network HDTV (East)" tvg-name="FOOD NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/rwqqsy1436846208.png/medium" group-title="USA TV",FOOD NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/195.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/195.ts
 #EXTINF:-1 tvg-id="" tvg-name="COZI" tvg-logo="http://media.cozitv.com/designimages/cozi-logo.png" group-title="USA TV",COZI
-http://thepk.co:2095/live/denzuka/zukabumi13/1665.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1665.ts
 #EXTINF:-1 tvg-id="" tvg-name="GET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA TV",GET TV
-http://thepk.co:2095/live/denzuka/zukabumi13/1664.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1664.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELLO" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg" group-title="USA TV",MELLO
-http://thepk.co:2095/live/denzuka/zukabumi13/1662.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1662.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY 13" tvg-logo="http://www.sdmardigras.com/wp-content/uploads/2016/12/my13.jpg" group-title="USA TV",MY 13
-http://thepk.co:2095/live/denzuka/zukabumi13/1663.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1663.ts
 #EXTINF:-1 tvg-id="WGN America HDTV" tvg-name="WGN AMERICA" tvg-logo="http://static.wgnamerica.com/c-ffee0ee/img/wgn_logo.jpg" group-title="USA TV",WGN AMERICA
-http://thepk.co:2095/live/denzuka/zukabumi13/1661.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1661.ts
 #EXTINF:-1 tvg-id="" tvg-name="OAN" tvg-logo="https://pbs.twimg.com/media/DBvxWqOV0AAlhjX.jpg" group-title="USA TV",OAN
-http://thepk.co:2095/live/denzuka/zukabumi13/1666.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1666.ts
 #EXTINF:-1 tvg-id="" tvg-name="YES NETWORK" tvg-logo="http://web.yesnetwork.com/shared/images/logos/facebook/og/yes_network.jpg" group-title="USA TV",YES NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/1673.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1673.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jewelry TV-even" tvg-logo="http://www.adlucent.com/blog/assets//JTV-686x350.jpg" group-title="USA TV",JEWELERY TV
-http://thepk.co:2095/live/denzuka/zukabumi13/1674.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1674.ts
 #EXTINF:-1 tvg-id="" tvg-name="LONGHORN NETWORK" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/01/Longhorn_Network.jpg" group-title="USA TV",LONGHORN NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/1675.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1675.ts
 #EXTINF:-1 tvg-id="BET" tvg-name="BET (US) (D)" tvg-logo="http://allvectorlogo.com/img/2016/04/bet-logo-200x116.png" group-title="USA TV",BET
-http://thepk.co:2095/live/denzuka/zukabumi13/1679.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/1679.ts
 #EXTINF:-1 tvg-id="MLB Network HDTV" tvg-name="MLB NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png/medium" group-title="USA TV",MLB NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/160.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/160.ts
 #EXTINF:-1 tvg-id="MTV HDTV (East)" tvg-name="MTV" tvg-logo="https://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium" group-title="USA TV",MTV
-http://thepk.co:2095/live/denzuka/zukabumi13/158.m3u
+http://thepk.co:2095/live/denzuka/zukabumi13/158.ts
 #EXTINF:-1 tvg-id="Bravo USA" tvg-name="BRAVO" tvg-logo="https://www.thelogodb.com/images/media/logo/qwqrws1434470899.png/medium" group-title="USA TV",BRAVO
-http://thepk.co:2095/live/denzuka/zukabumi13/315.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/315.ts
 #EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-logo="https://www.thelogodb.com/images/media/logo/qspwpv1453168359.png/medium" group-title="USA TV",CW
-http://thepk.co:2095/live/denzuka/zukabumi13/319.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/319.ts
 #EXTINF:-1 tvg-id="Lifetime Television HDTV (East)" tvg-name="LIFETIME" tvg-logo="https://www.thelogodb.com/images/media/logo/qwqypu1433965613.png/medium" group-title="USA TV",LIFETIME
-http://thepk.co:2095/live/denzuka/zukabumi13/300.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/300.ts
 #EXTINF:-1 tvg-id="NFL NETWORK 1080I" tvg-name="NFL NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/xutqxs1433382271.png/medium" group-title="USA TV",NFL NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/308.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/308.ts
 #EXTINF:-1 tvg-id="OWN HD" tvg-name="OWN" tvg-logo="https://www.thelogodb.com/images/media/logo/upyqux1434563981.png/medium" group-title="USA TV",OWN
-http://thepk.co:2095/live/denzuka/zukabumi13/311.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/311.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHOPPING CHANNEL" tvg-logo="http://www.rogers.com/cms/rogers/images/en/more/rogers-shopping-channel-logo.png" group-title="USA TV",SHOPPING CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/306.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/306.ts
 #EXTINF:-1 tvg-id="TBS Superstation HDTV (East)" tvg-name="TBS" tvg-logo="https://www.thelogodb.com/images/media/logo/xwqwpw1434505980.png/medium" group-title="USA TV",TBS
-http://thepk.co:2095/live/denzuka/zukabumi13/301.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/301.ts
 #EXTINF:-1 tvg-id="truTV HDTV (East)" tvg-name="TRU TV" tvg-logo="http://seriestv.biz/wp-content/uploads/2016/11/tru-tv-channel-logo.png" group-title="USA TV",TRU TV
-http://thepk.co:2095/live/denzuka/zukabumi13/312.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/312.ts
 #EXTINF:-1 tvg-id="Velocity HDTV" tvg-name="VELOCITY" tvg-logo="https://www.thelogodb.com/images/media/logo/ysysuu1434506168.png/medium" group-title="USA TV",VELOCITY
-http://thepk.co:2095/live/denzuka/zukabumi13/307.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/307.ts
 #EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN" tvg-logo="https://www.thelogodb.com/images/media/logo/vxvtup1434505598.png/medium" group-title="USA TV",NBCSN
-http://thepk.co:2095/live/denzuka/zukabumi13/149.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/149.ts
 #EXTINF:-1 tvg-id="" tvg-name="NFL NOW" tvg-logo="http://www.thelogodb.com/images/media/logo/4ug6cz1493848278.png" group-title="USA TV",NFL NOW
-http://thepk.co:2095/live/denzuka/zukabumi13/148.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/148.ts
 #EXTINF:-1 tvg-id="NHL NETWORK" tvg-name="NHL NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/uvrxut1433429052.png/medium" group-title="USA TV",NHL NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/147.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/147.ts
 #EXTINF:-1 tvg-id="Turner Classic Movies HDTV (TCMHD)" tvg-name="TCM" tvg-logo="https://www.thelogodb.com/images/media/logo/wvvqxs1433965422.png/medium" group-title="USA TV",TCM
-http://thepk.co:2095/live/denzuka/zukabumi13/128.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/128.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA CBC TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/120px-CBC_Television_2009.svg.png" group-title="CANADIAN TV",CBC TORONTO
-http://thepk.co:2095/live/denzuka/zukabumi13/520.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/520.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA CHCH" tvg-logo="http://www.thelogodb.com/images/media/logo/yrrqvq1478066813.png/medium" group-title="CANADIAN TV",CHCH
-http://thepk.co:2095/live/denzuka/zukabumi13/519.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/519.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA CITY VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/City_logo_2012.svg/190px-City_logo_2012.svg.png" group-title="CANADIAN TV",CITY VANCOUVER
-http://thepk.co:2095/live/denzuka/zukabumi13/518.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/518.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Comedy_Gold_2012.svg/220px-Comedy_Gold_2012.svg.png" group-title="CANADIAN TV",COMEDY
-http://thepk.co:2095/live/denzuka/zukabumi13/517.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/517.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA COTTAGE LIFE" tvg-logo="http://www.thelogodb.com/images/media/logo/uvxuyt1478065795.png/medium" group-title="CANADIAN TV",COTTAGE LIFE
-http://thepk.co:2095/live/denzuka/zukabumi13/516.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/516.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA CP24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CP24_Channel.png/150px-CP24_Channel.png" group-title="CANADIAN TV",CP24
-http://thepk.co:2095/live/denzuka/zukabumi13/515.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/515.ts
 #EXTINF:-1 tvg-id="SPORTSNET WORLD" tvg-name="CA SPORTSNET WORLD HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rxwxvv1433429786.png/medium" group-title="CANADIAN TV",SPORTSNET WORLD HD
-http://thepk.co:2095/live/denzuka/zukabumi13/492.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/492.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA TREE HOUSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Treehouse_TV_2013.png/200px-Treehouse_TV_2013.png" group-title="CANADIAN TV",TREE HOUSE
-http://thepk.co:2095/live/denzuka/zukabumi13/488.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/488.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA VRAK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_VRAK.png/200px-Logo_VRAK.png" group-title="CANADIAN TV",VRAK TV
-http://thepk.co:2095/live/denzuka/zukabumi13/487.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/487.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA W NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/100px-W_Network_Logo.svg.png" group-title="CANADIAN TV",W NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/486.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/486.ts
 #EXTINF:-1 tvg-id="MLB HD" tvg-name="MLB Network HD" tvg-logo="http://www.thelogodb.com/images/media/logo/stsxyv1475892891.png/medium" group-title="MLB",MLB NETWORK HD
-http://thepk.co:2095/live/denzuka/zukabumi13/539.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/539.ts
 #EXTINF:-1 tvg-id="STARZ Edge HD (East)" tvg-name="Starz Edge" tvg-logo="http://www.thelogodb.com/images/media/logo/qqvxyq1477987577.png/medium" group-title="USA TV",STARZ EDGE
-http://thepk.co:2095/live/denzuka/zukabumi13/558.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/558.ts
 #EXTINF:-1 tvg-id="AMC HDTV (East)" tvg-name="AMC" tvg-logo="https://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium" group-title="USA TV",AMC
-http://thepk.co:2095/live/denzuka/zukabumi13/562.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/562.ts
 #EXTINF:-1 tvg-id="LMN HDTV (East)" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/vxqtwx1434505261.png/medium" group-title="USA TV",LIFETIME MOVIE NETWORK
-http://thepk.co:2095/live/denzuka/zukabumi13/338.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/338.ts
 #EXTINF:-1 tvg-id="msnbc HDTV" tvg-name="MSNBC" tvg-logo="https://www.thelogodb.com/images/media/logo/trytur1433451903.png/medium" group-title="USA TV",MSNBC
-http://thepk.co:2095/live/denzuka/zukabumi13/337.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/337.ts
 #EXTINF:-1 tvg-id="NBA TV HDTV" tvg-name="NBA TV" tvg-logo="https://www.thelogodb.com/images/media/logo/xutptv1433429127.png/medium" group-title="USA TV",NBA TV
-http://thepk.co:2095/live/denzuka/zukabumi13/336.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/336.ts
 #EXTINF:-1 tvg-id="Golf HD" tvg-name="NBC GOLF" tvg-logo="http://www.thelogodb.com/images/media/logo/xpopkj1493847113.png" group-title="USA TV",NBC GOLF
-http://thepk.co:2095/live/denzuka/zukabumi13/335.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/335.ts
 #EXTINF:-1 tvg-id="Showtime 2 HDTV (East)" tvg-name="SHOWTIME 2" tvg-logo="https://www.thelogodb.com/images/media/logo/wxqxys1433428470.png/medium" group-title="USA TV",SHOWTIME 2
-http://thepk.co:2095/live/denzuka/zukabumi13/331.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/331.ts
 #EXTINF:-1 tvg-id="SHOWTIME HD" tvg-name="SHOWTIME" tvg-logo="https://www.thelogodb.com/images/media/logo/qpwqtq1434971341.png/medium" group-title="USA TV",SHOWTIME
-http://thepk.co:2095/live/denzuka/zukabumi13/332.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/332.ts
 #EXTINF:-1 tvg-id="STARZ Cinema HD (East)" tvg-name="STARZ CINEMA" tvg-logo="https://www.thelogodb.com/images/media/logo/xypput1461446952.png/medium" group-title="USA TV",STARZ CINEMA
-http://thepk.co:2095/live/denzuka/zukabumi13/328.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/328.ts
 #EXTINF:-1 tvg-id="STARZ EAST" tvg-name="STARZ EAST" tvg-logo="http://www.thelogodb.com/images/media/logo/xpxrss1477575701.png/medium" group-title="USA TV",STARZ EAST
-http://thepk.co:2095/live/denzuka/zukabumi13/329.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/329.ts
 #EXTINF:-1 tvg-id="Tennis Channel HDTV" tvg-name="TENNIS CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/qutxrq1456636094.png/medium" group-title="USA TV",TENNIS CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/327.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/327.ts
 #EXTINF:-1 tvg-id="Travel Channel HDTV (East)" tvg-name="TRAVEL CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png/medium" group-title="USA TV",TRAVEL CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/326.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/326.ts
 #EXTINF:-1 tvg-id="TV Land (East) (TVLAND)" tvg-name="TV Land" tvg-logo="https://www.thelogodb.com/images/media/logo/vrsurv1466829965.png/medium" group-title="USA TV",TV Land
-http://thepk.co:2095/live/denzuka/zukabumi13/325.m3u8
+http://thepk.co:2095/live/denzuka/zukabumi13/325.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC BRIT HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC BRIT HITS
-http://thepk.co:2095/live/denzuka/zukabumi13/849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC DANCE EDM" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC DANCE EDM
-http://thepk.co:2095/live/denzuka/zukabumi13/848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIP HOP & R & B" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC HIP HOP & R & B
-http://thepk.co:2095/live/denzuka/zukabumi13/847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIT LIST" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC HIT LIST
-http://thepk.co:2095/live/denzuka/zukabumi13/846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC INDIE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC INDIE
-http://thepk.co:2095/live/denzuka/zukabumi13/845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC KIDS ONLY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC KIDS ONLY
-http://thepk.co:2095/live/denzuka/zukabumi13/844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP & COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC POP & COUNTRY
-http://thepk.co:2095/live/denzuka/zukabumi13/840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC POP HITS
-http://thepk.co:2095/live/denzuka/zukabumi13/839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC R&B SOUL" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC R&B SOUL
-http://thepk.co:2095/live/denzuka/zukabumi13/838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC RAP 2K" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC RAP 2K
-http://thepk.co:2095/live/denzuka/zukabumi13/836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC RAP" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC RAP
-http://thepk.co:2095/live/denzuka/zukabumi13/837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC ROCK" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC ROCK
-http://thepk.co:2095/live/denzuka/zukabumi13/835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC THROWBACK JAMZ" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC THROWBACK JAMZ
-http://thepk.co:2095/live/denzuka/zukabumi13/833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TODAYS COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC TODAYS COUNTRY
-http://thepk.co:2095/live/denzuka/zukabumi13/832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC MC PLAY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC MC PLAY
-http://thepk.co:2095/live/denzuka/zukabumi13/842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TEEN BEATS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC TEEN BEATS
-http://thepk.co:2095/live/denzuka/zukabumi13/834.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC Y2K" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK  MUSIC Y2K
-http://thepk.co:2095/live/denzuka/zukabumi13/828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC ALTERNATIVE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",TPK MUSIC ALTERNATIVE
-http://thepk.co:2095/live/denzuka/zukabumi13/826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC BRIT HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL BRIT HITS
+http://thepk.co:2095/live/denzuka/zukabumi13/849.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC DANCE EDM" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL DANCE EDM
+http://thepk.co:2095/live/denzuka/zukabumi13/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIP HOP & R & B" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL HIP HOP & R & B
+http://thepk.co:2095/live/denzuka/zukabumi13/847.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIT LIST" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL HIT LIST
+http://thepk.co:2095/live/denzuka/zukabumi13/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC INDIE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL INDIE
+http://thepk.co:2095/live/denzuka/zukabumi13/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC KIDS ONLY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL KIDS ONLY
+http://thepk.co:2095/live/denzuka/zukabumi13/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP & COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL POP & COUNTRY
+http://thepk.co:2095/live/denzuka/zukabumi13/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL POP HITS
+http://thepk.co:2095/live/denzuka/zukabumi13/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC R&B SOUL" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL R&B SOUL
+http://thepk.co:2095/live/denzuka/zukabumi13/838.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC RAP 2K" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL RAP 2K
+http://thepk.co:2095/live/denzuka/zukabumi13/836.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC RAP" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL RAP
+http://thepk.co:2095/live/denzuka/zukabumi13/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC ROCK" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL ROCK
+http://thepk.co:2095/live/denzuka/zukabumi13/835.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC THROWBACK JAMZ" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL THROWBACK JAMZ
+http://thepk.co:2095/live/denzuka/zukabumi13/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TODAYS COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL TODAYS COUNTRY
+http://thepk.co:2095/live/denzuka/zukabumi13/832.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC MC PLAY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL MC PLAY
+http://thepk.co:2095/live/denzuka/zukabumi13/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC TEEN BEATS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL TEEN BEATS
+http://thepk.co:2095/live/denzuka/zukabumi13/834.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC Y2K" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL Y2K
+http://thepk.co:2095/live/denzuka/zukabumi13/828.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC ALTERNATIVE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL ALTERNATIVE
+http://thepk.co:2095/live/denzuka/zukabumi13/826.ts
+
 
 
 
