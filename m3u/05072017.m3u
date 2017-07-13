@@ -247,7 +247,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="FASHION ONE" tvg-logo="http://logonoid.com/images/fashion-one-logo.png",FASHION ONE
 rtmp://118.97.183.222/discover/fashionone
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://3.bp.blogspot.com/-TxF34Ny9QA4/VJ6VNOysFYI/AAAAAAAAA3s/zTONpxnbZFI/s1600/fashion-TV-Logo.png",FASHION TV
 rtmp://118.97.183.222/discover/fashiontv
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium" group-title="USA TV",FOX
 http://thepk.co:2095/live/denzuka/zukabumi13/318.ts
