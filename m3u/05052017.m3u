@@ -46,6 +46,7 @@ rtmp://118.97.183.222/discover/zbioskop
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K PLUS
 rtmp://118.97.183.222/discover/kplus
 
+
 #EXTINF:-1 tvg-id="The Disney Channel HDTV (East)" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="USA TV",DISNEY CHANNEL
 http://thepk.co:2095/live/denzuka/zukabumi13/347.ts
 #EXTINF:-1 tvg-id="Disney Junior HDTV East" tvg-name="DISNEY JR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="USA TV",DISNEY JR
@@ -62,7 +63,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/258.ts
 http://thepk.co:2095/live/denzuka/zukabumi13/483.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/022011/teletoon_logo.png?itok=0yYlcRaR" group-title="CANADIAN TV",TELETOON
 http://thepk.co:2095/live/denzuka/zukabumi13/491.ts
-
 
  
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 1 HD
@@ -169,7 +169,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/262.ts
 http://thepk.co:2095/live/denzuka/zukabumi13/251.ts
 
 
-
 #EXTINF:-1 tvg-id="HBO (East) (HBO)" tvg-name="HBO" tvg-logo="https://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium" group-title="USA TV",HBO
 http://thepk.co:2095/live/denzuka/zukabumi13/317.ts
 #EXTINF:-1 tvg-id="HBO Zone HDTV (East) (HBOZHD)" tvg-name="HBO ZONE" tvg-logo="http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png/medium" group-title="USA TV",HBO ZONE
@@ -218,7 +217,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/350.ts
 http://thepk.co:2095/live/denzuka/zukabumi13/446.ts
 #EXTINF:-1 tvg-id="VICELAND" tvg-name="UNIVERSAL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png/medium" group-title="USA TV",UNIVERSAL HD
 http://thepk.co:2095/live/denzuka/zukabumi13/1294.ts
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png" group-title="USA TV",ABC NEWS
