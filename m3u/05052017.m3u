@@ -8,7 +8,7 @@ http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,INEWS tvg-id="" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/d/d6/20170308035138%21INews_TV.png",INEWS
 https://stream.sindonews.net/live/inewstvokezone.com.m3u8
 #EXTINF:-1,GLOBAL tvg-id="" tvg-name="GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Logo_Global_TV_2012.png",GLOBAL TV
-https://cdn-live.metube.id/tv/channel2000041/index.m3u8
+http://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1,SCTV tvg-id="" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fb/SCTV_Logo.svg.png",SCTV
 https://live-vidiostream.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,INDOSIAR tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://img.scoop.it/pK9amOeuXnM-QxuoeFhgkzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",INDOSIAR
