@@ -42,20 +42,20 @@ rtmp://119.235.249.58/tahfidztv/live
 #EXTINF:-1 tvg-id="" tvg-name="HI INDO" tvg-logo="https://lh3.googleusercontent.com/5cWIiQyMwnmj3O0alk35oJI59HQbqwawIE3ghCSYomPAE_r8npdphrsoc8To5IZMww=w300",HI INDO
 rtmp://118.97.183.222/discover/hiindo
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD tvg-logo="http://www.zeeinternational.co.in/images/all-logos/apac_zee-Bioskop.png",BOLLYWOOD
-rtmp://118.97.183.222/discover/zbioskop
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/ais_zeenung_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K PLUS
 rtmp://118.97.183.222/discover/kplus
 
 
-#EXTINF:-1 tvg-id="The Disney Channel HDTV (East)" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="USA TV",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="The Disney Channel HDTV (East)" tvg-name="DISNEY CHANNEL" tvg-logo="http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/disney_channel_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024",DISNEY CHANNEL
 http://thepk.co:2095/live/denzuka/zukabumi13/347.ts
 #EXTINF:-1 tvg-id="Disney Junior HDTV East" tvg-name="DISNEY JR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="USA TV",DISNEY JR
 http://thepk.co:2095/live/denzuka/zukabumi13/469.ts
-#EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxptqy1433943117.png/medium" group-title="USA TV",DISNEY XD
+#EXTINF:-1 tvg-id="Disney XD HDTV (East)" tvg-name="DISNEY XD" tvg-logo="http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/disney_xd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024",DISNEY XD
 http://thepk.co:2095/live/denzuka/zukabumi13/471.ts
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/uwuqux1434269251.png/medium" group-title="USA TV",NICKELODEON
 http://thepk.co:2095/live/denzuka/zukabumi13/265.ts
-#EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="https://www.thelogodb.com/images/media/logo/ttwuwy1444920780.png/medium" group-title="USA TV",NICK JR
+#EXTINF:-1 tvg-id="Nick Jr. HDTV" tvg-name="NICK JR" tvg-logo="http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////cartoon/nick_jr._720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024",NICK JR
 http://thepk.co:2095/live/denzuka/zukabumi13/333.ts
 #EXTINF:-1 tvg-id="Cartoon Network HDTV (East)" tvg-name="CARTOON NETWORK" tvg-logo="http://www.thelogodb.com/images/media/logo/ystxwx1482096694.png/medium" group-title="USA TV",CARTOON NETWORK
 http://thepk.co:2095/live/denzuka/zukabumi13/258.ts
@@ -66,43 +66,45 @@ http://thepk.co:2095/live/denzuka/zukabumi13/491.ts
 
  
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 1 HD
-http://176.31.226.149:25461/live/testest/testest/339.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/Jbein_sports_1_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 2 HD
-http://176.31.226.149:25461/live/testest/testest/338.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/bein_sports_2_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 3 HD
-http://176.31.226.149:25461/live/testest/testest/335.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/bein_sports_3_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 4 HD
-http://176.31.226.149:25461/live/testest/testest/342.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/bein_sports_4_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="http://getbein.beinsports.com/au/wp-content/uploads/sites/6/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 5 HD
-http://176.31.226.149:25461/live/testest/testest/341.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/bein_sports_5_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Sky Sports 1 HD" tvg-name="SKY SPORTS 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/tyqypy1433965234.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 1 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/593.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/skynet_sports_1_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Sky Sports 2 HD" tvg-name="SKY SPORTS 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qtwryv1433965251.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 2 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/591.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/skynet_sports_2_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Sky Sports 3 HD" tvg-name="SKY SPORTS 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vtusxx1433965268.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 3 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/589.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/skynet_sports_3_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="SKY SPORTS 4 SD" tvg-name="SKY SPORTS 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vwqrvq1433965284.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS 4 SD
-http://thepk.co:2095/live/denzuka/zukabumi13/587.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/skynet_sports_4_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="SKY SPORTS 5 SD" tvg-name="Sky Sports 5 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ruuwux1433965299.png/medium" group-title="UK TV SPORTS AND MOVIES",Sky SPORTS 5 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/1280.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/skynet_sports_5_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Sky Spts F1 HD" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS F1 HD
 http://thepk.co:2095/live/denzuka/zukabumi13/584.ts
 #EXTINF:-1 tvg-id="SKY SPORTS NEWS" tvg-name="SKY SPORTS NEWS" tvg-logo="https://www.thelogodb.com/images/media/logo/sxwwxv1433780905.png/medium" group-title="UK TV SPORTS AND MOVIES",SKY SPORTS NEWS
 http://thepk.co:2095/live/denzuka/zukabumi13/583.ts
 #EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-name="BT Sport 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ruprqp1433360902.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT 1 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/602.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/bt_sport_1_hd_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="BT SPORT 2 SD" tvg-name="BT Sport 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vwxvty1433360911.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT 2 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/601.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/bt_sport_2_hd_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="BT SPORT 3 HD" tvg-name="BT SPORT 3 HD" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK TV SPORTS AND MOVIES",BT SPORT 3 HD
-http://thepk.co:2095/live/denzuka/zukabumi13/600.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/bt_sport_3_hd_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="BT SPORT ESPN" tvg-name="BT SPORT ESPN" tvg-logo="https://www.thelogodb.com/images/media/logo/uxpyxq1441049842.png/medium" group-title="UK TV SPORTS AND MOVIES",BT SPORT ESPN
-http://thepk.co:2095/live/denzuka/zukabumi13/599.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sportinter/bt_sport_espn_360p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="http://drivestudio.com/wp-content/uploads/2015/07/FS_LOGO.png",FOX SPORT
 http://thepk.co:2095/live/denzuka/zukabumi13/1102.ts
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-name="FOX SPORTS 1" tvg-logo="https://www.thelogodb.com/images/media/logo/twvwtx1464553130.png" group-title="USA TV",FOX SPORTS 1
-http://thepk.co:2095/live/denzuka/zukabumi13/188.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/fox_sports_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-name="FOX SPORTS 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="USA TV",FOX SPORTS 2
-http://thepk.co:2095/live/denzuka/zukabumi13/187.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/fox_sports_2_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-name="FOX SPORTS 2" tvg-logo="https://www.thelogodb.com/images/media/logo/uxxtrt1433944508.png/medium" group-title="USA TV",FOX SPORTS 3
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////sporttrue/fox_sports_3_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="ESPN HDTV" tvg-name="ESPN" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvsut1433964035.png/medium" group-title="USA TV",ESPN
 http://thepk.co:2095/live/denzuka/zukabumi13/256.ts
 #EXTINF:-1 tvg-id="ESPN2 HDTV" tvg-name="ESPN 2" tvg-logo="https://www.thelogodb.com/images/media/logo/rrptsw1433431278.png/medium" group-title="USA TV",ESPN 2
@@ -142,9 +144,9 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1069.ts
 
 
 #EXTINF:-1 tvg-id="The Discovery Channel HDTV (East)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium" group-title="USA TV",DISCOVERY CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/255.ts
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium" group-title="USA TV",DISCOVERY SCIENCE
-http://thepk.co:2095/live/denzuka/zukabumi13/206.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/discovery_channel_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.thelogodb.com/images/media/logo/wxxrsx1433942799.png/medium" group-title="USA TV",DISCOVERY HD WORLD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/discovery_hd_world_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSP" tvg-logo="https://www.thelogodb.com/images/media/logo/vvquys1434500869.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY ESP
 http://thepk.co:2095/live/denzuka/zukabumi13/1119.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://www.thelogodb.com/images/media/logo/trqwvr1433963933.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY H&H
@@ -154,33 +156,37 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1114.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://www.thelogodb.com/images/media/logo/vuuxru1434018007.png/medium" group-title="LATINO / SPANISH TV",DISCOVERY TURBO
 http://thepk.co:2095/live/denzuka/zukabumi13/1113.ts
 #EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NATIONAL GEOGRAPHIC CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/247.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="NatGeo WILD HDTV" tvg-name="NAT GEO WILD" tvg-logo="https://www.thelogodb.com/images/media/logo/sqsvxt1433778733.png/medium" group-title="USA TV",NAT GEO WILD
-http://thepk.co:2095/live/denzuka/zukabumi13/157.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_wild_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqstyw1433778540.png/medium" group-title="USA TV",NAT GEO PEOPLE
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/national_geographic_people_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="FYI HDTV" tvg-name="FYI" tvg-logo="https://www.thelogodb.com/images/media/logo/svrrts1433430996.png/medium" group-title="USA TV",FYI
-http://thepk.co:2095/live/denzuka/zukabumi13/342.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/fyi_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Investigation Discovery HDTV" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://www.thelogodb.com/images/media/logo/tqxyss1433355725.png/medium" group-title="USA TV",INVESTIGATION DISCOVERY
 http://thepk.co:2095/live/denzuka/zukabumi13/339.ts
 #EXTINF:-1 tvg-id="H2 USA" tvg-name="H2" tvg-logo="https://www.thelogodb.com/images/media/logo/sxxpvq1433964113.png/medium" group-title="USA TV",H2
 http://thepk.co:2095/live/denzuka/zukabumi13/309.ts
 #EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://www.thelogodb.com/images/media/logo/xpttwp1433424253.png/medium" group-title="USA TV",ANIMAL PLANET
-http://thepk.co:2095/live/denzuka/zukabumi13/262.ts
-#EXTINF:-1 tvg-id="History HDTV (East)" tvg-name="HISTORY" tvg-logo="https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium" group-title="USA TV",HISTORY
-http://thepk.co:2095/live/denzuka/zukabumi13/251.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/animal_planet_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="History HDTV (East)" tvg-name="HISTORY" tvg-logo="https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium" group-title="USA TV",HISTORY HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/history_channel_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="History HDTV (East)" tvg-name="HISTORY" tvg-logo="https://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png/medium" group-title="USA TV",H2
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/h2_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 
 
 #EXTINF:-1 tvg-id="HBO (East) (HBO)" tvg-name="HBO" tvg-logo="https://www.thelogodb.com/images/media/logo/rvruwp1433944413.png/medium" group-title="USA TV",HBO
-http://thepk.co:2095/live/denzuka/zukabumi13/317.ts
-#EXTINF:-1 tvg-id="HBO Zone HDTV (East) (HBOZHD)" tvg-name="HBO ZONE" tvg-logo="http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png/medium" group-title="USA TV",HBO ZONE
-http://thepk.co:2095/live/denzuka/zukabumi13/321.ts
-#EXTINF:-1 tvg-id="HBO 2 HDTV (East)" tvg-name="HBO 2" tvg-logo="https://www.thelogodb.com/images/media/logo/ysqqqu1433944425.png/medium" group-title="USA TV",HBO 2
-http://thepk.co:2095/live/denzuka/zukabumi13/174.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="HBO Zone HDTV (East) (HBOZHD)" tvg-name="HBO ZONE" tvg-logo="http://www.thelogodb.com/images/media/logo/xutsrq1477987782.png/medium" group-title="USA TV",HBO HITS
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_hits_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="HBO 2 HDTV (East)" tvg-name="HBO 2" tvg-logo="https://www.thelogodb.com/images/media/logo/ysqqqu1433944425.png/medium" group-title="USA TV",HBO RED
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/red_by_hbo_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="HBO Signature HDTV (East)" tvg-name="HBO SIGNATURE" tvg-logo="http://www.thelogodb.com/images/media/logo/rxtryu1477987973.png/medium" group-title="USA TV",HBO SIGNATURE
-http://thepk.co:2095/live/denzuka/zukabumi13/340.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_signature_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="HBO Comedy HDTV (East)" tvg-name="HBO COMEDY" tvg-logo="http://www.thelogodb.com/images/media/logo/quutxp1477987872.png/medium" group-title="USA TV",HBO COMEDY
 http://thepk.co:2095/live/denzuka/zukabumi13/173.ts
 #EXTINF:-1 tvg-id="HBO Family HDTV (East)" tvg-name="HBO FAMILY" tvg-logo="http://www.thelogodb.com/images/media/logo/vvuqvt1477987927.png/medium" group-title="USA TV",HBO FAMILY
-http://thepk.co:2095/live/denzuka/zukabumi13/172.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/hbo_family_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Sky Movies Action" tvg-name="SKY CINEMA ACTION" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-ACTION.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA ACTION
 http://thepk.co:2095/live/denzuka/zukabumi13/582.ts
 #EXTINF:-1 tvg-id="Sky Movies Comedy" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-COMEDY.png" group-title="UK TV SPORTS AND MOVIES",SKY CINEMA COMEDY
@@ -204,15 +210,15 @@ http://thepk.co:2095/live/denzuka/zukabumi13/567.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX 1" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_649.png" group-title="LATINO / SPANISH TV",FOX ONE
 http://thepk.co:2095/live/denzuka/zukabumi13/1106.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://www.thelogodb.com/images/media/logo/wqytvt1472104552.png/medium" group-title="LATINO / SPANISH TV",FOX ACTION
-http://thepk.co:2095/live/denzuka/zukabumi13/1105.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="http://www.shoftv.net/wp-content/uploads/2016/08/foxcinema-en-vivo-por-internet-online.png" group-title="LATINO / SPANISH TV",FOX CINEMA
-http://thepk.co:2095/live/denzuka/zukabumi13/1104.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_action_movies_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="http://www.shoftv.net/wp-content/uploads/2016/08/foxcinema-en-vivo-por-internet-online.png" group-title="LATINO / SPANISH TV",FOX FAMILYS
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/ais_foxfamen_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="FOX LATINA" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium" group-title="LATINO / SPANISH TV",FOX LATINA
 http://thepk.co:2095/live/denzuka/zukabumi13/1107.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="LATINO / SPANISH TV",FOX MOVIES
-http://thepk.co:2095/live/denzuka/zukabumi13/1103.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fox_movies_premium_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/wsrwxu1439369648.png/medium" group-title="USA TV",CINEMAX
-http://thepk.co:2095/live/denzuka/zukabumi13/350.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/cinemax_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Cinemax HDTV (East)" tvg-name="CINEMAX MOREMAX" tvg-logo="https://www.thelogodb.com/images/media/logo/sppyyt1467823495.png" group-title="USA TV",CINEMAX MOREMAX
 http://thepk.co:2095/live/denzuka/zukabumi13/446.ts
 #EXTINF:-1 tvg-id="VICELAND" tvg-name="UNIVERSAL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/wpyvps1434506150.png/medium" group-title="USA TV",UNIVERSAL HD
@@ -221,26 +227,30 @@ http://thepk.co:2095/live/denzuka/zukabumi13/1294.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tusqrx1477576863.png" group-title="USA TV",ABC NEWS
 http://thepk.co:2095/live/denzuka/zukabumi13/108.ts
-#EXTINF:-1 tvg-id="BBC America HDTV (East)" tvg-name="BBC AMERICA" tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvpw1477930423.png" group-title="USA TV",BBC AMERICA
-http://thepk.co:2095/live/denzuka/zukabumi13/1277.ts
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png/medium" group-title="USA TV",NBC
-http://thepk.co:2095/live/denzuka/zukabumi13/248.ts
+#EXTINF:-1 tvg-id="BBC America HDTV (East)" tvg-name="BBC AMERICA" tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvpw1477930423.png" group-title="USA TV",BBC EARTH
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/bbc_earth_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://www.thelogodb.com/images/media/logo/wyxwxu1434505582.png/medium" group-title="USA TV",SKY NEWS
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/sky_news_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/uqqvpr1433431384.png/medium" group-title="USA TV",FOX NEWS CHANNEL
-http://thepk.co:2095/live/denzuka/zukabumi13/252.ts
-#EXTINF:-1 tvg-id="WTSP HDTV (CBS)" tvg-name="CBS" tvg-logo="http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png/medium" group-title="USA TV",CBS
-http://thepk.co:2095/live/denzuka/zukabumi13/266.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/fox_news_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="WTSP HDTV (CBS)" tvg-name="CBS" tvg-logo="http://www.thelogodb.com/images/media/logo/rsvpsx1478389440.png/medium" group-title="USA TV",EURO NEWS
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/euronews_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="Cable News Network" tvg-name="CNN" tvg-logo="https://www.thelogodb.com/images/media/logo/uyswus1433941237.png/medium" group-title="USA TV",CNN
 http://thepk.co:2095/live/denzuka/zukabumi13/260.ts
+/uploads/2016/07/Bloomberg-TV-Logo.png",NHK WORLD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/nhk_world_tv_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://www.thelogodb.com/images/media/logo/ryttsp1433452891.png/medium" group-title="USA TV",CNBC
 http://thepk.co:2095/live/denzuka/zukabumi13/349.ts
-#EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://homecomingrevolution.com/new-test-site/wp-content/uploads/2016/07/Bloomberg-TV-Logo.png",BLOOMBERG
-http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.ts 
+#EXTINF:-1,SCTV tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://homecomingrevolution.com/new-test-site/wp-content/uploads/2016/07/Bloomberg-TV-Logo.png",ASIA CHANNEL
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/channel_newsasia_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+/uploads/2016/07/Bloomberg-TV-Logo.png",FRANCE 24
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////news/france_24_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024 
 #EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/fa/93/ea/fa93ea13c52677f6f730bcecf5073104.jpg",DWTV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://fernnews-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/aljazeera-horiz-logo.png",ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="http://logonoid.com/images/arirang-logo.png",ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8 
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////foreign/arirang_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FASHION ONE" tvg-logo="http://logonoid.com/images/fashion-one-logo.png",FASHION ONE
@@ -250,7 +260,7 @@ rtmp://118.97.183.222/discover/fashiontv
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://www.thelogodb.com/images/media/logo/rwptru1436892145.png/medium" group-title="USA TV",FOX
 http://thepk.co:2095/live/denzuka/zukabumi13/318.ts
 #EXTINF:-1 tvg-id="FX HDTV (East)" tvg-name="FX" tvg-logo="https://www.thelogodb.com/images/media/logo/uwysvp1436890056.png/medium" group-title="USA TV",FX
-http://thepk.co:2095/live/denzuka/zukabumi13/324.ts
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/fx_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="SPIKE USA" tvg-name="SPIKE" tvg-logo="https://www.thelogodb.com/images/media/logo/wqqvyq1433967407.png/medium" group-title="USA TV",SPIKE
 http://thepk.co:2095/live/denzuka/zukabumi13/246.ts
 #EXTINF:-1 tvg-id="SYFY USA" tvg-name="SYFY" tvg-logo="https://www.thelogodb.com/images/media/logo/vsppsu1433438058.png/medium" group-title="USA TV",SYFY
@@ -385,18 +395,18 @@ http://thepk.co:2095/live/denzuka/zukabumi13/326.ts
 http://thepk.co:2095/live/denzuka/zukabumi13/325.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC BRIT HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL BRIT HITS
-http://thepk.co:2095/live/denzuka/zukabumi13/849.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC DANCE EDM" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL DANCE EDM
-http://thepk.co:2095/live/denzuka/zukabumi13/848.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIP HOP & R & B" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL HIP HOP & R & B
-http://thepk.co:2095/live/denzuka/zukabumi13/847.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIT LIST" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL HIT LIST
-http://thepk.co:2095/live/denzuka/zukabumi13/846.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC INDIE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL INDIE
-http://thepk.co:2095/live/denzuka/zukabumi13/845.ts
-#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC KIDS ONLY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL KIDS ONLY
-http://thepk.co:2095/live/denzuka/zukabumi13/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC BRIT HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MTV LIVE HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/mtv_live_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC DANCE EDM" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MTV CHINA
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/mtv_china_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIP HOP & R & B" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",V CHANNEL
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/channel_v_thailand_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC HIT LIST" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TRACE URBAN
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/trace_urban_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC INDIE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="VERY CHANNEL
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/very_tv_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
+#EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC KIDS ONLY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TRUE MUSIC
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/true_music_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=sNX4mAkMOsHPTW0tVSYDxg&username2=0885120325&username=15015087917688791768&password=mmmmf040851127a274ba25fd&e=1510087024
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP & COUNTRY" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL POP & COUNTRY
 http://thepk.co:2095/live/denzuka/zukabumi13/840.ts
 #EXTINF:-1 tvg-id="" tvg-name="TPK  MUSIC POP HITS" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL POP HITS
@@ -421,9 +431,6 @@ http://thepk.co:2095/live/denzuka/zukabumi13/834.ts
 http://thepk.co:2095/live/denzuka/zukabumi13/828.ts
 #EXTINF:-1 tvg-id="" tvg-name="TPK MUSIC ALTERNATIVE" tvg-logo="http://www.thelogodb.com/images/media/logo/7ope7n1491582272.png" group-title="TPK - MUSIC HD",MUSIC CHANNEL ALTERNATIVE
 http://thepk.co:2095/live/denzuka/zukabumi13/826.ts
-
-
-
 
 
 
