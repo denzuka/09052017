@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/TVRI.png",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC" tvg-logo="https://vignette3.wikia.nocookie.net/tolololpedia/images/6/6f/MNCTV.png/revision/latest?cb=20130106044028",MNC
-http://cdn.live.metube.id/tv/channel2000022/index.m3u8
+https://live-vidiostream.akamaized.net/live/smil:mnctv.smil/playlist.m3u8
 #EXTINF:-1,RCTI tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20101206120519%21RCTI_MNC-Group.png",RCTI
 http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,INEWS tvg-id="" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/d/d6/20170308035138%21INews_TV.png",INEWS
