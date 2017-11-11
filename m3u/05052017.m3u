@@ -106,6 +106,8 @@ http://103.77.116.238:443///////////////////////////////////////////////////////
 http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_wild_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
 #EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="https://obmsbke.truevisions.tv/logo/channel/True-Explore-Life.png" group-title="USA TV",TRUE LIVE
 http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_life_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="Animal Planet HDTV (East)" tvg-name="ANIMAL PLANET" tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a937.png" group-title="USA TV",TRUE PSI
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////documentary/true_explore_sci_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
 #EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2000px-NHK_World.svg.png" group-title="USA TV",DW
 http://191.96.38.234:443/free54/0x222_dwchannel_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1 tvg-id="Fox News Channel HDTV" tvg-name="FOX NEWS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2000px-NHK_World.svg.png" group-title="USA TV",NHK WORLD
@@ -238,10 +240,25 @@ http://103.77.116.238:443///////////////////////////////////////////////////////
 http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/very_tv_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://a5.mzstatic.com/us/r30/Purple69/v4/98/9b/30/989b3094-a569-395a-6067-1e76b73530c9/icon350x350.png",TRUE MUSIC
 http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/true_music_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://s2.dmcdn.net/NEhse/240x240-Q_k.png",TRUE MOVIE HITS
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/true_movie_hits_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://obmsbke.truevisions.tv/logo/channel/Reality-HD.png",TRUE THAI FILM
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/true_thai_film_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",TRUE MOVIES ASIA
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/true_film_asia_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png",PPTV HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////tvdigital/pptv_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MTV_HD_Logo_2013.png/614px-MTV_HD_Logo_2013.png",TRUE SERIES HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////movie/true_asian_series_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://www.psst.ph/wp-content/uploads/2016/04/673px-mtv-logo_svg1.png",MTV CHINA
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////music/mtv_china_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://www.psst.ph/wp-content/uploads/2016/04/673px-mtv-logo_svg1.png",THAI 3 HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////tvdigital/3_hd_720p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://www.psst.ph/wp-content/uploads/2016/04/673px-mtv-logo_svg1.png",THAI 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://www.psst.ph/wp-content/uploads/2016/04/673px-mtv-logo_svg1.png",THAI 3 ENTERTAINMENT
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////tvdigital/3_sd_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://www.psst.ph/wp-content/uploads/2016/04/673px-mtv-logo_svg1.png",THAI 3 HD
+http://103.77.116.238:443/////////////////////////////////////////////////////////////////////////tvdigital/3_family_480p.stream///////////////////////////////////////////////////////////////////////////////////////playlist.m3u8?st=e0_Y_QHRSza-gqvMZOoJ2g&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmm81314c4e9d0b0b61b9ca&e=1510417710
 
 
 
